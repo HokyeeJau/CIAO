@@ -1,0 +1,725 @@
+Can you detect the source of that scent?
+Can you detect the source of that smell?
+Can you detect where that smell comes from?
+Can you figure out the source of that smell?
+Can you figure out where that fragrance is from?
+Can you figure out where that smell is coming from?
+Can you figure out where that stench is coming from?
+Can you find the origin of that scent?
+Can you find the origin of that smell?
+Can you find the source of that bad smell?
+Can you find the source of that odor?
+Can you find the source of that pungent fragrance?
+Can you find the source of that sharp odor?
+Can you find the source of that sour smell?
+Can you find the source of that stench?
+Can you find the source of the bad odor?
+Can you find the source of the smell?
+Can you find where that odor originates?
+Can you find where that smell is coming from?
+Can you find where the odor is located?
+Can you identify the location of the bad smell?
+Can you identify the source of that fragrance?
+Can you identify the source of that smell?
+Can you identify where that bad scent is from?
+Can you identify where that odor is from?
+Can you identify where that smell is coming from?
+Can you identify where the foul smell is coming from?
+Can you identify where the odor is originating from?
+Can you identify where the smell is from?
+Can you locate the foul smell’s origin?
+Can you locate the origin of that scent?
+Can you locate the origin of that smell?
+Can you locate the origin of the odor?
+Can you locate the source of that scent?
+Can you locate the source of that stench?
+Can you locate the source of the bad smell?
+Can you locate the source of the smell?
+Can you locate the source of this foul smell?
+Can you locate where that odor is from?
+Can you locate where that smell is from?
+Can you locate where the odor is coming from?
+Can you pinpoint the origin of that bad smell?
+Can you pinpoint the source of that odor?
+Can you pinpoint the source of the smell?
+Can you pinpoint where that smell is coming from?
+Can you pinpoint where the smell is coming from?
+Can you point me to the origin of the smell?
+Can you point to the origin of the smell?
+Can you show me where the bad fragrance is coming from?
+Can you show me where the bad smell is coming from?
+Can you show me where the odor is coming from?
+Can you show me where the smell comes from?
+Can you tell me the origin of that strong odor?
+Can you tell me the source of that smell?
+Can you tell me the source of that unpleasant odor?
+Can you tell me the source of the smell?
+Can you tell me the source of the stench?
+Can you tell me where that stench is coming from?
+Can you tell me where the bad odor is coming from?
+Can you tell me where the bad scent is from?
+Can you tell me where the bad smell is from?
+Can you tell me where the odor is from?
+Can you tell me where the offensive odor is coming from?
+Can you tell me where the smell is coming from?
+Can you tell me where the smell originates?
+Can you tell where that odor comes from?
+Can you tell where that scent originates from?
+Can you tell where that stinky odor is from?
+Can you tell where that strange smell is from?
+Can you trace that bad odor back to its origin?
+Can you trace that offensive odor?
+Can you trace the origin of that smell?
+Can you trace where that smell is from?
+Can you trace where the odor is coming from?
+Can you track down the source of that smell?
+Can you track down where that smell comes from?
+Can you track the source of that smell?
+What is causing that awful smell?
+What is causing that bad smell?
+What is causing that odor?
+What is causing that terrible odor?
+What is making that awful smell?
+What is making that smell?
+What is making that stinky scent?
+What is producing that foul odor now?
+What is producing that unpleasant smell?
+What is responsible for that smell?
+What is the cause of that aroma?
+What is the cause of that scent?
+What is the cause of that smell?
+What is the cause of that sour fragrance?
+What is the origin of that bad smell?
+What is the origin of that foul fragrance?
+What is the origin of that putrid odor?
+What is the origin of that scent?
+What is the origin of that strong fragrance?
+What is the origin of the odor?
+What is the root of that smell?
+What is the source of that disgusting smell?
+What is the source of that odor?
+What is the source of the bad odor?
+What’s behind that bad smell?
+What’s behind that disgusting smell?
+What’s behind that horrible smell?
+What’s behind that pungent smell?
+What’s behind that smelly odor?
+What’s behind that sour fragrance?
+What’s behind that strong scent?
+What’s behind that unpleasant fragrance?
+What’s causing that bad smell?
+What’s causing that foul fragrance?
+What’s causing that foul odor?
+What’s causing that foul smell?
+What’s causing that fragrance?
+What’s causing that intense odor?
+What’s causing that offensive smell?
+What’s causing that overpowering fragrance?
+What’s causing that overwhelming scent?
+What’s causing that pungent fragrance?
+What’s causing that sharp smell?
+What’s causing that sour scent?
+What’s causing that stinky smell in the air?
+What’s causing that strong fragrance?
+What’s causing that strong odor?
+What’s causing that strong smell?
+What’s causing that terrible smell?
+What’s causing the unpleasant smell?
+What’s creating that awful scent?
+What’s creating that foul fragrance?
+What’s creating that overwhelming smell?
+What’s creating that scent?
+What’s creating that smell?
+What’s creating that sour smell?
+What’s creating that strong smell?
+What’s creating the source of that odor?
+What’s making that awful smell?
+What’s making that bad odor?
+What’s making that intense smell?
+What’s making that smell?
+What’s making that stench?
+What’s making that strong fragrance?
+What’s making that terrible scent?
+What’s making that unpleasant odor?
+What’s producing that nasty smell?
+What’s producing that odor?
+What’s producing that smell?
+What’s producing that stinky smell?
+What’s producing that strong odor?
+What’s producing that strong smell?
+What’s producing that strong stench?
+What’s producing that terrible smell?
+What’s responsible for that awful fragrance?
+What’s responsible for that foul odor?
+What’s responsible for that sharp scent?
+What’s responsible for that smell?
+What’s responsible for that strong fragrance?
+What’s responsible for the bad odor?
+What’s the cause of that bad fragrance?
+What’s the cause of that foul odor?
+What’s the cause of that pungent aroma?
+What’s the cause of that pungent fragrance?
+What’s the cause of that pungent odor?
+What’s the cause of that stinky odor?
+What’s the cause of that strong fragrance?
+What’s the origin of that bad scent?
+What’s the origin of that foul smell?
+What’s the origin of that fragrance?
+What’s the origin of that pungent scent?
+What’s the origin of that putrid smell?
+What’s the origin of that scent?
+What’s the origin of that smell?
+What’s the origin of that sour fragrance?
+What’s the origin of that stench?
+What’s the origin of that stinky smell?
+What’s the origin of that strong scent?
+What’s the origin of that terrible smell?
+What’s the origin of that unpleasant scent?
+What’s the root cause of that smell?
+What’s the source of that aroma?
+What’s the source of that bad fragrance?
+What’s the source of that bad odor?
+What’s the source of that odor in the air?
+What’s the source of that overpowering scent?
+What’s the source of that pungent aroma?
+What’s the source of that smell?
+What’s the source of that sour odor?
+What’s the source of that stinky smell?
+What’s the source of that strong smell?
+What’s the source of that unpleasant aroma?
+What’s the source of that unpleasant fragrance?
+What’s the source of the smell?
+Where can I detect the source of the foul smell?
+Where can I detect the source of the smell?
+Where can I detect where the odor is coming from?
+Where can I find the bad smell?
+Where can I find the location of the smell?
+Where can I find the offensive smell?
+Where can I find the origin of the awful scent?
+Where can I find the origin of the nasty smell?
+Where can I find the origin of the offensive odor?
+Where can I find the pungent odor?
+Where can I find the source of that odor?
+Where can I find the source of the bad scent?
+Where can I find the source of the odor coming from?
+Where can I find the source of the odor?
+Where can I find the source of the overpowering odor?
+Where can I find the source of the scent?
+Where can I find the source of the stench?
+Where can I find the source of the terrible smell?
+Where can I find the source of this odor?
+Where can I find the source of this smell?
+Where can I find the stench source?
+Where can I find where the bad odor is coming from?
+Where can I find where the odor comes from?
+Where can I locate the bad odor source?
+Where can I locate the bad smell?
+Where can I locate the smell’s origin?
+Where can I locate the source of the bad fragrance?
+Where can I locate the source of this bad odor?
+Where can I pinpoint the bad scent’s origin?
+Where can I trace the bad smell back to?
+Where can I trace the smell to?
+Where can I trace this offensive odor to?
+Where can that smell be traced to?
+Where can the bad odor be located?
+Where can the bad odor be traced back to?
+Where can the bad odor be traced to?
+Where can the bad scent be pinpointed?
+Where can the bad smell be located?
+Where can the bad smell source be found?
+Where can the odor be traced back to?
+Where can the offensive odor be found?
+Where can the offensive smell be traced to?
+Where can the origin of the odor be found?
+Where can the smell be detected?
+Where can the smell be traced to exactly?
+Where can the smell be traced to?
+Where can the smell source be found?
+Where can the source of the foul smell be located?
+Where can the source of the unpleasant scent be found?
+Where can the stench be found?
+Where can the stench be traced back to?
+Where can the stinky scent be located?
+Where can the strong smell be traced?
+Where can the terrible odor be found?
+Where could the odor be originating from?
+Where does that awful scent come from?
+Where does that bad odor originate from?
+Where does that bad scent in the air come from?
+Where does that bad scent originate from?
+Where does that bad smell come from exactly?
+Where does that bad smell come from?
+Where does that bad smell originate from?
+Where does that foul aroma originate?
+Where does that foul fragrance come from?
+Where does that foul smell come from in this space?
+Where does that funky scent come from?
+Where does that heavy odor come from?
+Where does that horrible scent come from?
+Where does that horrible stench originate from?
+Where does that intense smell originate?
+Where does that musty odor originate from?
+Where does that nasty scent come from?
+Where does that odd fragrance come from?
+Where does that odor come from?
+Where does that odor stem from?
+Where does that overpowering smell originate?
+Where does that pungent odor come from?
+Where does that pungent scent come from exactly?
+Where does that pungent scent originate from?
+Where does that putrid smell come from?
+Where does that rancid odor come from?
+Where does that repulsive smell come from?
+Where does that rotten smell come from?
+Where does that scent originate from exactly?
+Where does that scent originate from?
+Where does that smell come from?
+Where does that smell originate?
+Where does that sour odor come from?
+Where does that sour scent come from?
+Where does that stench come from exactly?
+Where does that stench come from?
+Where does that stench originate?
+Where does that stink originate?
+Where does that stinky odor originate from?
+Where does that stinky scent originate from?
+Where does that stinky smell originate?
+Where does that strong aroma come from?
+Where does that strong fragrance come from?
+Where does that strong odor originate from?
+Where does that strong scent originate from?
+Where does that strong scent originate?
+Where does that terrible smell come from now?
+Where does that terrible smell come from?
+Where does that unpleasant odor come from?
+Where does that unpleasant smell come from?
+Where does that unpleasant smell originate from?
+Where does the awful odor originate from?
+Where does the awful smell originate?
+Where does the bad fragrance come from?
+Where does the bad odor originate from?
+Where does the bad odor originate?
+Where does the bad scent arise from?
+Where does the bad scent come from exactly?
+Where does the bad scent come from?
+Where does the bad scent originate from?
+Where does the bad smell arise from?
+Where does the bad smell come from?
+Where does the bad smell originate from?
+Where does the disgusting smell come from?
+Where does the foul fragrance come from?
+Where does the foul odor come from?
+Where does the foul scent come from?
+Where does the foul smell originate from exactly?
+Where does the foul smell originate from?
+Where does the foul smell originate?
+Where does the foul stench come from?
+Where does the foul stench originate from?
+Where does the intense smell come from?
+Where does the nauseous smell come from?
+Where does the noxious smell originate from?
+Where does the odor originate from?
+Where does the odor start?
+Where does the offensive fragrance come from?
+Where does the offensive odor come from?
+Where does the offensive odor originate from?
+Where does the offensive scent come from?
+Where does the offensive smell come from?
+Where does the offensive smell originate from?
+Where does the offensive smell originate?
+Where does the overpowering smell come from?
+Where does the overwhelming smell come from?
+Where does the pungent odor come from?
+Where does the pungent odor originate?
+Where does the pungent smell originate from?
+Where does the putrid scent come from?
+Where does the putrid smell come from?
+Where does the rancid smell originate from?
+Where does the revolting odor come from?
+Where does the scent come from?
+Where does the scent of decay come from?
+Where does the scent of this odor come from?
+Where does the sharp odor come from?
+Where does the sharp scent come from?
+Where does the smell come from?
+Where does the smell of decay come from?
+Where does the smell of garbage come from?
+Where does the smell of rotten food come from?
+Where does the smell of this odor come from?
+Where does the smell of this stench come from?
+Where does the smell seem to be originating?
+Where does the sour fragrance originate from?
+Where does the sour odor come from?
+Where does the source of the sour scent lie?
+Where does the source of the stench lie?
+Where does the source of the stinky odor lie?
+Where does the source of this smell lie?
+Where does the source of this smell originate?
+Where does the stench begin?
+Where does the stench originate exactly?
+Where does the stench originate from?
+Where does the stench originate?
+Where does the stench start?
+Where does the stinky fragrance originate from?
+Where does the stinky odor originate from?
+Where does the stinky smell originate from?
+Where does the strong odor arise from?
+Where does the strong odor come from?
+Where does the strong odor originate from?
+Where does the strong scent come from?
+Where does the strong scent originate from in here?
+Where does the strong scent originate?
+Where does the strong smell arise from?
+Where does the terrible odor come from?
+Where does the terrible odor originate from?
+Where does the unpleasant fragrance come from?
+Where does the unpleasant odor come from?
+Where does the unpleasant smell originate from?
+Where does the unpleasant smell originate?
+Where does this foul smell come from?
+Where does this stinky odor come from?
+Where does this stinky scent come from?
+Where does this strong odor originate from?
+Where does this unpleasant scent come from?
+Where is that acrid smell coming from?
+Where is that aroma coming from?
+Where is that awful odor coming from?
+Where is that awful scent coming from?
+Where is that awful smell from?
+Where is that awful smell originating?
+Where is that awful stench from in this room?
+Where is that awful stench originating?
+Where is that bad aroma from?
+Where is that bad fragrance coming from?
+Where is that bad fragrance from?
+Where is that bad odor coming from?
+Where is that bad scent coming from?
+Where is that bad scent originating from?
+Where is that bad smell coming from?
+Where is that distinct smell coming from?
+Where is that disturbing fragrance coming from?
+Where is that disturbing smell from?
+Where is that foul fragrance coming from?
+Where is that foul fragrance from?
+Where is that foul fragrance originating from?
+Where is that foul odor coming from?
+Where is that foul odor generated from?
+Where is that foul scent coming from exactly?
+Where is that foul smell coming from?
+Where is that foul stench from?
+Where is that funky fragrance from?
+Where is that funky smell originating from?
+Where is that heavy smell coming from?
+Where is that horrible odor coming from?
+Where is that intense odor from?
+Where is that intense smell coming from now?
+Where is that intense smell coming from?
+Where is that intense smell originating from?
+Where is that musty fragrance from?
+Where is that musty smell from?
+Where is that nasty fragrance coming from?
+Where is that nasty scent coming from?
+Where is that odd smell coming from?
+Where is that odor coming from exactly?
+Where is that odor coming from specifically?
+Where is that odor from exactly?
+Where is that odor originating from?
+Where is that odor source located?
+Where is that offensive odor coming from?
+Where is that offensive odor from?
+Where is that offensive smell coming from?
+Where is that offensive smell originating from?
+Where is that overpowering scent coming from?
+Where is that overpowering smell from?
+Where is that overpowering stench coming from?
+Where is that overpowering stench from?
+Where is that overwhelming smell from?
+Where is that particular smell originating?
+Where is that powerful odor from?
+Where is that pungent scent coming from in the room?
+Where is that pungent smell coming from?
+Where is that pungent smell from?
+Where is that pungent stench from?
+Where is that rancid smell coming from?
+Where is that rotten scent from?
+Where is that scent coming from exactly?
+Where is that scent coming from now?
+Where is that scent coming from?
+Where is that scent from in the room?
+Where is that scent generated from?
+Where is that scent originating from?
+Where is that sharp odor coming from?
+Where is that sharp scent coming from?
+Where is that sharp smell coming from?
+Where is that smell coming from exactly?
+Where is that smell coming from in the space?
+Where is that smell coming from in this area?
+Where is that smell coming from inside the room?
+Where is that smell coming from specifically?
+Where is that sour odor coming from in here?
+Where is that sour scent from?
+Where is that sour smell from?
+Where is that stench coming from?
+Where is that stench originating from?
+Where is that stinky aroma from?
+Where is that stinky fragrance coming from?
+Where is that stinky odor from?
+Where is that stinky scent coming from?
+Where is that stinky smell coming from?
+Where is that stinky smell originating from?
+Where is that stinky smell originating?
+Where is that strange fragrance coming from?
+Where is that strange odor coming from?
+Where is that strange odor from?
+Where is that strange smell coming from?
+Where is that strange smell from?
+Where is that strong fragrance coming from?
+Where is that strong fragrance from?
+Where is that strong odor coming from?
+Where is that strong scent coming from?
+Where is that strong scent from?
+Where is that strong smell coming from exactly?
+Where is that strong smell coming from now?
+Where is that strong smell from?
+Where is that strong smell originating?
+Where is that terrible fragrance coming from?
+Where is that terrible fragrance from?
+Where is that terrible odor from?
+Where is that terrible smell coming from?
+Where is that unpleasant aroma coming from?
+Where is that unpleasant fragrance from?
+Where is that unpleasant fragrance originating from?
+Where is that unpleasant scent coming from?
+Where is that unpleasant scent from?
+Where is that unpleasant smell coming from?
+Where is that unpleasant smell originating?
+Where is that unusual fragrance coming from?
+Where is the bad odor coming from specifically?
+Where is the bad odor coming from?
+Where is the bad odor located at exactly?
+Where is the bad odor originating from?
+Where is the bad scent coming from in the house?
+Where is the bad scent coming from?
+Where is the bad scent located?
+Where is the bad smell coming from in this room?
+Where is the bad smell coming from specifically?
+Where is the bad smell coming from?
+Where is the bad smell from in this area?
+Where is the bad smell from?
+Where is the bad smell in this room coming from?
+Where is the bad smell located at?
+Where is the bad smell originating from?
+Where is the foul fragrance coming from?
+Where is the foul odor located?
+Where is the foul odor originating from?
+Where is the foul scent coming from?
+Where is the foul smell coming from?
+Where is the location of the awful fragrance?
+Where is the location of the bad fragrance?
+Where is the location of the bad odor?
+Where is the location of the bad scent?
+Where is the location of the bad scent’s origin?
+Where is the location of the bad smell?
+Where is the location of the foul odor?
+Where is the location of the foul smell’s origin?
+Where is the location of the odor source?
+Where is the location of the offensive odor?
+Where is the location of the offensive scent coming from?
+Where is the location of the offensive scent?
+Where is the location of the offensive smell?
+Where is the location of the offensive stench?
+Where is the location of the overpowering smell?
+Where is the location of the pungent fragrance?
+Where is the location of the pungent scent?
+Where is the location of the putrid fragrance?
+Where is the location of the rancid fragrance?
+Where is the location of the smell coming from?
+Where is the location of the sour fragrance?
+Where is the location of the sour odor?
+Where is the location of the sour smell?
+Where is the location of the stench coming from?
+Where is the location of the stinky fragrance?
+Where is the location of the stinky scent?
+Where is the location of the strong odor?
+Where is the location of the unbearable odor?
+Where is the location of the unpleasant fragrance?
+Where is the location of the unpleasant odor source?
+Where is the location of the unpleasant odor?
+Where is the location of the unpleasant scent?
+Where is the nasty smell coming from?
+Where is the odor coming from exactly?
+Where is the odor coming from?
+Where is the odor originating from?
+Where is the offensive odor located?
+Where is the offensive odor originating from?
+Where is the origin of that sharp odor?
+Where is the origin of the bad odor?
+Where is the origin of the bad scent located?
+Where is the origin of the bad scent?
+Where is the origin of the bad smell?
+Where is the origin of the disgusting smell?
+Where is the origin of the disturbing smell?
+Where is the origin of the fetid odor located?
+Where is the origin of the fetid smell?
+Where is the origin of the foul fragrance?
+Where is the origin of the foul smell?
+Where is the origin of the irritating smell?
+Where is the origin of the musty odor?
+Where is the origin of the musty scent?
+Where is the origin of the odor coming from?
+Where is the origin of the odor?
+Where is the origin of the offensive scent?
+Where is the origin of the overwhelming scent?
+Where is the origin of the overwhelming smell?
+Where is the origin of the pungent odor?
+Where is the origin of the pungent scent?
+Where is the origin of the putrid fragrance?
+Where is the origin of the putrid odor?
+Where is the origin of the rancid smell?
+Where is the origin of the revolting odor?
+Where is the origin of the smell located?
+Where is the origin of the sour odor?
+Where is the origin of the sour scent?
+Where is the origin of the stench?
+Where is the origin of the stinky odor coming from?
+Where is the origin of the stinky scent?
+Where is the origin of the stinky smell?
+Where is the origin of the strong fragrance?
+Where is the origin of the strong scent?
+Where is the origin of the strong smell?
+Where is the origin of the unpleasant fragrance?
+Where is the origin of the unpleasant odor located?
+Where is the origin of the unpleasant odor?
+Where is the origin of the unpleasant scent?
+Where is the origin of the unpleasant smell?
+Where is the origin of this bad odor located?
+Where is the origin of this bad smell coming from?
+Where is the origin of this foul odor?
+Where is the origin of this foul scent?
+Where is the origin of this odor?
+Where is the origin of this smell located?
+Where is the origin of this unpleasant smell?
+Where is the overpowering odor coming from?
+Where is the point of origin for the odor?
+Where is the point of origin for this bad smell?
+Where is the pungent odor coming from?
+Where is the pungent smell coming from?
+Where is the scent coming from exactly?
+Where is the scent coming from?
+Where is the smell coming from exactly?
+Where is the smell coming from?
+Where is the smell located?
+Where is the smell of that coming from?
+Where is the smell of the bad odor located?
+Where is the smell of this bad odor coming from?
+Where is the smell of this scent coming from?
+Where is the smell originating from?
+Where is the smelly air coming from?
+Where is the source of that intense smell?
+Where is the source of that overwhelming scent?
+Where is the source of that terrible smell?
+Where is the source of the awful smell?
+Where is the source of the bad fragrance?
+Where is the source of the bad odor located?
+Where is the source of the bad scent located?
+Where is the source of the bad scent?
+Where is the source of the bad smell?
+Where is the source of the disgusting smell?
+Where is the source of the foul odor located?
+Where is the source of the foul scent located?
+Where is the source of the horrible scent?
+Where is the source of the horrible smell?
+Where is the source of the intense odor?
+Where is the source of the nasty smell?
+Where is the source of the nauseating odor?
+Where is the source of the noxious smell?
+Where is the source of the odor coming from?
+Where is the source of the offensive fragrance?
+Where is the source of the old smell?
+Where is the source of the overpowering fragrance?
+Where is the source of the overpowering smell?
+Where is the source of the overwhelming odor?
+Where is the source of the pungent odor?
+Where is the source of the pungent smell?
+Where is the source of the rancid smell?
+Where is the source of the rotten odor?
+Where is the source of the rotten smell?
+Where is the source of the scent?
+Where is the source of the sickening smell?
+Where is the source of the sour fragrance located?
+Where is the source of the sour odor located?
+Where is the source of the sour smell?
+Where is the source of the stench?
+Where is the source of the stink?
+Where is the source of the stinky fragrance?
+Where is the source of the stinky odor located?
+Where is the source of the stinky odor?
+Where is the source of the stinky smell coming from?
+Where is the source of the stinky smell from?
+Where is the source of the stinky smell located?
+Where is the source of the strong fragrance?
+Where is the source of the strong odor located?
+Where is the source of the strong odor?
+Where is the source of the strong scent located?
+Where is the source of the strong smell located?
+Where is the source of the strong smell?
+Where is the source of the terrible odor?
+Where is the source of the unbearable smell located?
+Where is the source of the unpleasant fragrance?
+Where is the source of the unpleasant odor?
+Where is the source of the unpleasant scent located?
+Where is the source of the unpleasant scent?
+Where is the source of the unpleasant smell?
+Where is the source of the unpleasant stench?
+Where is the source of this bad scent?
+Where is the source of this offensive scent?
+Where is the source of this smell located?
+Where is the source of this smell?
+Where is the source of this stink?
+Where is the source of this stinky smell?
+Where is the source of this unpleasant odor?
+Where is the stench coming from exactly?
+Where is the stench coming from?
+Where is the stench located?
+Where is the stench originating from?
+Where is the stench’s origin located?
+Where is the stink coming from?
+Where is the stinky fragrance from?
+Where is the stinky odor coming from?
+Where is the stinky scent coming from?
+Where is the stinky smell coming from exactly?
+Where is the stinky smell coming from now?
+Where is the stinky smell coming from?
+Where is the stinky smell from?
+Where is the stinky source located?
+Where is the strong fragrance in this room from?
+Where is the strong odor coming from?
+Where is the strong scent from?
+Where is the strong smell from?
+Where is the unpleasant odor coming from?
+Where is the unpleasant scent coming from?
+Where is the unpleasant scent originating from?
+Where is the unpleasant smell coming from?
+Where is the unpleasant smell from?
+Where is the unpleasant smell located?
+Where is the unpleasant smell originating from?
+Where’s that awful stench coming from exactly?
+Where’s that bad odor coming from in here?
+Where’s that bad odor coming from?
+Where’s that bad smell coming from?
+Where’s that offensive smell coming from now?
+Where’s that overpowering smell coming from?
+Where’s that pungent aroma originating?
+Where’s that sharp odor coming from?
+Where’s that sharp odor from?
+Where’s that smell coming from?
+Where’s that sour smell coming from?
+Where’s that terrible smell coming from?
+Where’s the bad odor originating?
+Where’s the nasty smell coming from?
+Where’s the origin of that awful smell?
+Where’s the origin of that smell?
+Where’s the origin of that strong smell?
+Where’s the source of that odor?
+Where’s the source of that unpleasant smell?

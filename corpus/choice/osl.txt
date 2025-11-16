@@ -1,0 +1,717 @@
+Any idea if it’s <position_1> or <position_2> that stinks
+Are the fumes from <position_1> or <position_2>
+Are the fumes worse near <position_1> or <position_2>
+Are we closer to the scent at <position_1> or <position_2>
+Are we closer to the smell at <position_1> or <position_2>
+Are we closer to the source at <position_1> or <position_2>
+Are we detecting the scent more strongly at <position_1> or <position_2>
+Are we detecting the smell at <position_1> or <position_2>
+Are we picking that up from <position_1> or <position_2>
+Are we smelling something at <position_1> or <position_2>
+Are we smelling something from <position_1> or <position_2>
+Are we smelling something near <position_1> or <position_2>
+Are we talking <position_1> or <position_2> for the odor
+Are we talking about a scent at <position_1> or <position_2>
+Are you able to sniff out whether it’s <position_1> or <position_2>
+Are you able to tell whether the smell is at <position_1> or <position_2>
+Are you affected more by the smell at <position_1> or <position_2>
+Are you aware of a stronger smell at <position_1> or <position_2>
+Are you catching a stronger whiff from <position_1> or <position_2>
+Are you catching more odor around <position_1> or <position_2>
+Are you catching more of the smell at <position_1> or <position_2>?
+Are you certain the smell comes from <position_1> or <position_2>
+Are you detecting anything stronger at <position_1> or <position_2>
+Are you detecting anything stronger from <position_1> or <position_2>
+Are you detecting stronger aromas at <position_1> or <position_2>?
+Are you detecting stronger olfactory signals at <position_1> or <position_2>
+Are you detecting the aroma more from <position_1> or <position_2>
+Are you detecting the smell more near <position_1> or <position_2>?
+Are you drawn more to the scent at <position_1> or <position_2>
+Are you drawn to the smell more at <position_1> or <position_2>
+Are you drawn to the smell more near <position_1> or <position_2>
+Are you encountering more smell on the side of <position_1> or <position_2>
+Are you experiencing a greater smell at <position_1> or <position_2>?
+Are you experiencing a stronger odor from <position_1> or <position_2>?
+Are you experiencing the scent more strongly at <position_1> or <position_2>
+Are you finding the smell worse near <position_1> or <position_2>
+Are you getting a clearer whiff at <position_1> or <position_2>
+Are you getting a stronger scent from <position_1> or <position_2>?
+Are you getting a whiff more from <position_1> or <position_2>
+Are you getting any scent from <position_1> or <position_2>
+Are you getting hit harder by odor at <position_1> or <position_2>
+Are you getting more odor feedback at <position_1> or <position_2>
+Are you getting strange vibes from <position_1> or <position_2>
+Are you getting that odor from <position_1> or <position_2>
+Are you getting the smell from <position_1> or <position_2>
+Are you inhaling more scent at <position_1> or <position_2>
+Are you leaning more toward <position_1> or <position_2> as the source
+Are you leaning toward <position_1> or <position_2> for the smell
+Are you more alarmed by the smell at <position_1> or <position_2>
+Are you more aware of a distinct smell at <position_1> or <position_2>
+Are you more aware of the odor at <position_1> or <position_2>?
+Are you more aware of the scent directionally, <position_1> or <position_2>
+Are you more aware of the smell at <position_1> or <position_2>
+Are you more aware of the smell at <position_1> or <position_2>?
+Are you more conscious of a smell at <position_1> or <position_2>
+Are you more conscious of the smell at <position_1> or <position_2>
+Are you more drawn by smell toward <position_1> or <position_2>
+Are you more overwhelmed by the scent near <position_1> or <position_2>
+Are you noticing a stronger odor near <position_1> or <position_2>?
+Are you noticing any difference in scent between <position_1> and <position_2>
+Are you noticing more odor at <position_1> or <position_2>
+Are you overwhelmed more by the scent from <position_1> or <position_2>
+Are you overwhelmed more by the smell at <position_1> or <position_2>
+Are you perceiving more scent at <position_1> or <position_2>
+Are you picking up any odor from <position_1> or <position_2>
+Are you picking up anything unusual at <position_1> or <position_2>
+Are you picking up more scent at <position_1> or <position_2>
+Are you picking up more smell from <position_1> or <position_2>
+Are you picking up on anything strange from <position_1> or <position_2>
+Are you picking up the scent more clearly at <position_1> or <position_2>?
+Are you picking up the scent more from <position_1> or <position_2>
+Are you pulled toward a scent more at <position_1> or <position_2>
+Are you sensing a deeper odor at <position_1> or <position_2>
+Are you sensing it near <position_1> or <position_2>
+Are you sensing more aroma from <position_1> or <position_2>?
+Are you sensing the odor more at <position_1> or <position_2>
+Are you smelling it more from <position_1> or <position_2>?
+Are you sniffing more from <position_1> or <position_2>
+Are you sniffing more scent from <position_1> or <position_2>?
+Are you sniffing something more from <position_1> or <position_2>
+Are you sure if the smell is at <position_1> or <position_2>
+Are you sure the smell’s at <position_1> or <position_2>
+Are you sure where the smell is, <position_1> or <position_2>
+Are you sure where the smell originates—<position_1> or <position_2>
+Are you thinking it’s <position_1> or <position_2> where the smell originates
+Are your nostrils picking up more scent from <position_1> or <position_2>?
+Are your nostrils reacting more to <position_1> or <position_2>
+Are your nostrils twitching more toward <position_1> or <position_2>
+Are your senses detecting more smell near <position_1> or <position_2>?
+Are your senses picking up more at <position_1> or <position_2>
+Are your senses pointing toward <position_1> or <position_2>
+Between <position_1> and <position_2>, where is the smell coming from
+Between <position_1> and <position_2>, where’s the smell
+Between <position_1> and <position_2>, which has that smell
+Between <position_1> and <position_2>, which has the smell
+Can we confirm the scent is from <position_1> or <position_2>
+Can we say the smell is from <position_1> or <position_2>
+Can we trace the origin of the smell to <position_1> or <position_2>
+Can we trace the smell to <position_1> or <position_2>
+Can you decide between <position_1> or <position_2> for the odor
+Can you determine the source of the smell, <position_1> or <position_2>
+Can you feel the smell near <position_1> or <position_2>
+Can you figure out if <position_1> or <position_2> has the scent
+Can you figure out whether it’s <position_1> or <position_2> that smells
+Can you find where the scent is, <position_1> or <position_2>
+Can you guess whether the smell is at <position_1> or <position_2>
+Can you identify if it’s <position_1> or <position_2> that smells
+Can you identify the smell source—<position_1> or <position_2>
+Can you identify the smelly spot, <position_1> or <position_2>
+Can you identify where the smell is, <position_1> or <position_2>
+Can you locate the smell, is it at <position_1> or <position_2>
+Can you say whether the smell comes from <position_1> or <position_2>
+Can you say which way the smell is—<position_1> or <position_2>
+Can you sense any smell at <position_1> or <position_2>
+Can you sense the odor at <position_1> or <position_2>
+Can you sense the odor coming from <position_1> or <position_2>
+Can you smell anything off at <position_1> or <position_2>
+Can you smell anything weird around <position_1> or <position_2>
+Can you sniff out whether it’s <position_1> or <position_2>
+Can you tell if it’s <position_1> or <position_2> that stinks
+Can you tell if that smell is coming from <position_1> or <position_2>
+Can you tell if the smell is coming from <position_1> or <position_2>
+Can you trace the smell to <position_1> or <position_2>
+Could it be that <position_1> has the smell, or is it <position_2>
+Could it be that the smell is at <position_1> or <position_2>
+Could the odor be traveling from <position_1> or <position_2>
+Could the scent be coming from <position_1> or <position_2>
+Could the scent be more noticeable at <position_1> or <position_2>
+Could the smell be coming from <position_1> or <position_2>
+Could the smell be coming off <position_1> more than <position_2>
+Could the smell be isolated to <position_1> or <position_2>
+Could the smell be spreading from <position_1> or <position_2>
+Could the smell be stronger near <position_1> than <position_2>
+Could the weird smell be coming from <position_1> or <position_2>
+Could you help me figure out whether the smell is at <position_1> or <position_2>
+Could you narrow the smell down to <position_1> or <position_2>
+Could you pinpoint if the smell is from <position_1> or <position_2>
+Could you say if it’s <position_1> or <position_2> that smells
+Could you say whether it’s <position_1> or <position_2> that smells
+Could you sniff around <position_1> and <position_2> to tell the difference
+Do both <position_1> and <position_2> smell, or just one
+Do both areas have scent, or only <position_1> or <position_2>
+Do you believe the scent is at <position_1> or <position_2>
+Do you catch a whiff at <position_1> or <position_2>
+Do you catch that smell from <position_1> or <position_2>
+Do you catch the smell more at <position_1> or <position_2>?
+Do you detect a richer aroma at <position_1> or <position_2>
+Do you detect an odor at <position_1> or <position_2>
+Do you detect any smell difference between <position_1> and <position_2>
+Do you detect more foul air at <position_1> or <position_2>
+Do you detect more odor by <position_1> or <position_2>
+Do you detect something at <position_1> or <position_2>
+Do you detect stronger fragrance from <position_1> or <position_2>
+Do you feel a shift in scent toward <position_1> or <position_2>
+Do you feel a stronger aroma at <position_1> or <position_2>
+Do you feel more discomfort from the smell at <position_1> or <position_2>
+Do you feel more discomfort from the smell near <position_1> or <position_2>
+Do you feel more of a scent wave at <position_1> or <position_2>
+Do you feel the air is heavier with smell at <position_1> or <position_2>
+Do you feel the odor more at <position_1> or <position_2>
+Do you feel the scent hanging more at <position_1> or <position_2>
+Do you feel the scent is denser at <position_1> or <position_2>
+Do you feel the scent more strongly at <position_1> or <position_2>?
+Do you feel the smell more at <position_1> or <position_2>?
+Do you feel the smell’s at <position_1> or <position_2>
+Do you find the scent more intense at <position_1> or <position_2>
+Do you find the smell more intense at <position_1> or <position_2>?
+Do you get a better sense of smell from <position_1> or <position_2>
+Do you get a sense of odor coming from <position_1> or <position_2>
+Do you get a stronger scent at <position_1> or <position_2>
+Do you get a stronger smell at <position_1> or <position_2>
+Do you get a stronger whiff near <position_1> or <position_2>?
+Do you get a whiff near <position_1> or <position_2>
+Do you get hit with the smell more near <position_1> or <position_2>
+Do you get more of a reaction from the smell at <position_1> or <position_2>
+Do you get more of a whiff near <position_1> or <position_2>
+Do you get more scent notes at <position_1> or <position_2>
+Do you get more smell feedback from <position_1> or <position_2>
+Do you get the scent from <position_1> or from <position_2>
+Do you have a sense if it’s <position_1> or <position_2>
+Do you know where that smell is, at <position_1> or <position_2>?
+Do you notice a scent shift at <position_1> or <position_2>
+Do you notice the scent near <position_1> or <position_2>
+Do you notice the smell more around <position_1> or <position_2>
+Do you notice the smell more around <position_1> or <position_2>?
+Do you perceive a more distinct odor from <position_1> or <position_2>
+Do you perceive more odor at <position_1> or <position_2>
+Do you perceive the odor more clearly at <position_1> or <position_2>?
+Do you pick up more fumes at <position_1> or <position_2>
+Do you pick up the smell at <position_1> or <position_2>
+Do you reckon the smell is stronger at <position_1> or <position_2>
+Do you recognize if the odor is at <position_1> or <position_2>
+Do you sense a stronger odor near <position_1> or <position_2>?
+Do you sense more fragrance at <position_1> or <position_2>
+Do you sense more scent saturation at <position_1> or <position_2>
+Do you sense the smell more at <position_1> or <position_2>
+Do you sense the smell more from <position_1> or <position_2>?
+Do you smell a greater intensity at <position_1> or <position_2>
+Do you smell anything unusual at <position_1> or <position_2>
+Do you smell it more distinctly at <position_1> or <position_2>
+Do you smell it stronger on the side of <position_1> or <position_2>
+Do you smell something more specific at <position_1> or <position_2>
+Do you smell something near <position_1> or <position_2>
+Do you smell something stronger at <position_1> or <position_2>
+Do you smell that at <position_1> or <position_2>
+Do you smell that more on <position_1> or <position_2>
+Do you suppose the smell is coming from <position_1> or <position_2>
+Do you suspect <position_1> or <position_2> for the smell
+Do you think it smells more like <position_1> or <position_2>
+Do you think that stench is from <position_1> or <position_2>
+Do you think the odor’s coming from <position_1> or <position_2>
+Do you think the smell is at <position_1> or <position_2>
+Do you think we should check <position_1> or <position_2> for that odor
+Does <position_1> have the smell, or is it <position_2>
+Does <position_1> seem to smell more than <position_2>
+Does <position_1> smell off, or is it <position_2>
+Does it seem smellier around <position_1> or <position_2>?
+Does it seem to smell more near <position_1> or <position_2>?
+Does it smell more at <position_1> or <position_2>
+Does it smell more at <position_1> or <position_2>?
+Does it smell more heavily near <position_1> or <position_2>?
+Does it smell more intense near <position_1> or <position_2>?
+Does it stink more at <position_1> or at <position_2>
+Does one side seem more scented, <position_1> or <position_2>
+Does one spot smell worse than the other, <position_1> or <position_2>
+Does something reek at <position_1> or <position_2>
+Does the air carry more odor at <position_1> or <position_2>
+Does the air feel heavier at <position_1> or <position_2>
+Does the air feel heavier with scent at <position_1> or <position_2>
+Does the air smell different at <position_1> or <position_2>
+Does the foul scent linger near <position_1> or <position_2>
+Does the odor seem more intense near <position_1> or <position_2>
+Does the scent drift from <position_1> or <position_2>
+Does the scent linger more at <position_1> or <position_2>
+Does the scent seem stronger at <position_1> or <position_2>
+Does the smell appear to be coming from <position_1> or <position_2>
+Does the smell come more from <position_1> or <position_2>
+Does the smell come through more from <position_1> or <position_2>
+Does the smell feel heavier near <position_1> or <position_2>?
+Does the smell hit you more at <position_1> or <position_2>
+Does the smell radiate more from <position_1> or <position_2>?
+Does the smell seem to come more from <position_1> or <position_2>?
+Does the smell suggest <position_1> or <position_2>
+Does the stench hit you more on <position_1> or <position_2>
+Does your gut say <position_1> or <position_2> for that smell
+Does your nose catch more scent from <position_1> or <position_2>
+Does your nose lead you to <position_1> or <position_2>
+Does your nose pick up more from <position_1> or <position_2>
+Does your nose say <position_1> or <position_2>
+Does your sense of smell react more at <position_1> or <position_2>
+Is <position_1> giving off more odor than <position_2>
+Is <position_1> giving off that odor, or is it <position_2>
+Is <position_1> giving off the smell, or <position_2>
+Is <position_1> or <position_2> causing that smell
+Is it <position_1> or <position_2> that smells so bad
+Is it <position_1> or <position_2> that smells weird
+Is it <position_1> or <position_2> that’s giving off the smell
+Is it <position_1> that's causing the stench, or <position_2>
+Is it easier to detect a smell at <position_1> or <position_2>
+Is it easier to smell near <position_1> or <position_2>
+Is it easier to smell something at <position_1> or <position_2>
+Is it likely that the smell is around <position_1> or <position_2>
+Is it more aromatic at <position_1> or <position_2>
+Is it more aromatic at <position_1> or <position_2>?
+Is it more foul toward <position_1> or <position_2>
+Is it more fragrant at <position_1> or <position_2>
+Is it more fragrant near <position_1> or <position_2>?
+Is it possible the scent is near <position_1> or <position_2>
+Is it ranker at <position_1> or <position_2>
+Is it safe to say the smell is near <position_1> or <position_2>
+Is it smellier near <position_1> or <position_2>
+Is it smelling weird near <position_1> or <position_2>
+Is it stinkier at <position_1> or <position_2>?
+Is one side giving off a more distinct smell, <position_1> or <position_2>
+Is that foul smell coming from <position_1> or <position_2>
+Is that nasty odor from <position_1> or <position_2>
+Is that odd smell coming from <position_1> or <position_2>
+Is that odd smell from <position_1> or <position_2>
+Is that odor coming from <position_1> or <position_2>
+Is that odor in <position_1> or <position_2>
+Is that odor worse near <position_1> or <position_2>
+Is that scent drifting from <position_1> or <position_2>
+Is that scent more distinct at <position_1> or <position_2>
+Is that scent rising from <position_1> or <position_2>
+Is that smell clearer at <position_1> or <position_2>
+Is that smell concentrated at <position_1> or <position_2>
+Is that smell drifting from <position_1> or <position_2>
+Is that smell stronger at <position_1> or <position_2>
+Is that smell stronger to the left at <position_1>, or to the right at <position_2>
+Is that stench from <position_1> or <position_2>
+Is that weird smell more like <position_1> or <position_2>
+Is the air clearer at <position_1> or <position_2>
+Is the air foul at <position_1> or <position_2>
+Is the air heavier at <position_1> or <position_2>
+Is the air more tainted at <position_1> or <position_2>
+Is the aroma coming on stronger at <position_1> or <position_2>
+Is the aroma more apparent near <position_1> or <position_2>
+Is the aroma more prominent at <position_1> or <position_2>?
+Is the atmosphere smellier around <position_1> or <position_2>
+Is the bad air from <position_1> or <position_2>
+Is the bad scent closer to <position_1> or <position_2>
+Is the bad scent from <position_1> or <position_2>
+Is the bad smell coming from <position_1> or <position_2>
+Is the foul odor from <position_1> or <position_2>
+Is the foul scent more apparent at <position_1> or <position_2>
+Is the fragrance more distinct around <position_1> or <position_2>?
+Is the funky smell from <position_1> or <position_2>
+Is the odd scent at <position_1> or <position_2>
+Is the odor clearer at <position_1> or <position_2>
+Is the odor more distinct at <position_1> or <position_2>
+Is the odor more noticeable near <position_1> or <position_2>?
+Is the odor more offensive at <position_1> or <position_2>
+Is the odor more potent near <position_1> or <position_2>?
+Is the odor more present at <position_1> or <position_2>?
+Is the odor more pungent at <position_1> or <position_2>
+Is the origin of the smell <position_1> or <position_2>
+Is the scent heavier at <position_1> or <position_2>?
+Is the scent more noticeable at <position_1> or <position_2>
+Is the scent more potent around <position_1> or <position_2>
+Is the scent rising from <position_1> or <position_2>
+Is the scent stronger at <position_1> or <position_2>
+Is the scent stronger at <position_1> or <position_2>?
+Is the scent stronger toward <position_1> or <position_2>
+Is the scent stronger toward <position_1> or <position_2>?
+Is the scent strongest at <position_1> or <position_2>
+Is the scent wafting from <position_1> or <position_2>
+Is the smell around <position_1> or <position_2> more intense
+Is the smell bothering you more from <position_1> or <position_2>
+Is the smell clearer at <position_1> or <position_2>
+Is the smell clinging more to <position_1> or <position_2>
+Is the smell creeping in from <position_1> or <position_2>
+Is the smell drifting from <position_1> or <position_2>
+Is the smell easier to notice at <position_1> or <position_2>
+Is the smell floating from <position_1> or <position_2>
+Is the smell focused around <position_1> or <position_2>
+Is the smell located at <position_1> or maybe <position_2>
+Is the smell located near <position_1> or <position_2>
+Is the smell more concentrated around <position_1> or <position_2>?
+Is the smell more concentrated at <position_1> or <position_2>
+Is the smell more detectable at <position_1> or <position_2>?
+Is the smell more distinct at <position_1> or <position_2>
+Is the smell more forward at <position_1> or <position_2>
+Is the smell more invasive at <position_1> or <position_2>
+Is the smell more irritating at <position_1> or <position_2>
+Is the smell more noticeable around <position_1> or <position_2>
+Is the smell more oppressive at <position_1> or <position_2>?
+Is the smell more present at <position_1> or <position_2>?
+Is the smell more pungent at <position_1> or <position_2>
+Is the smell moving from <position_1> or from <position_2>
+Is the smell over at <position_1> or <position_2>
+Is the smell sharper at <position_1> or <position_2>?
+Is the smell spreading from <position_1> or <position_2>
+Is the smell surrounding <position_1> stronger than <position_2>
+Is the smell traveling from <position_1> or <position_2>
+Is the source of that smell <position_1> or <position_2>
+Is the stench stronger at <position_1> or <position_2>
+Is the stench stronger at <position_1> or <position_2>?
+Is the stench worse at <position_1> or <position_2>
+Is the stink centered at <position_1> or <position_2>
+Is the stink centered more on <position_1> or <position_2>
+Is the stink more severe near <position_1> or <position_2>
+Is the stink rising from <position_1> or <position_2>
+Is the stink worse at <position_1> or <position_2>
+Is the unpleasant smell around <position_1> or <position_2>
+Is the weird smell coming from <position_1> or <position_2>
+Is there a clearer odor from <position_1> or <position_2>
+Is there a foul air around <position_1> or <position_2>
+Is there a greater stink at <position_1> or <position_2>
+Is there a heavier scent around <position_1> or <position_2>
+Is there a more distinct smell near <position_1> or <position_2>?
+Is there a more dominant smell at <position_1> or <position_2>
+Is there a more noticeable scent at <position_1> or <position_2>
+Is there a more pungent odor near <position_1> or <position_2>?
+Is there a scent trail from <position_1> or <position_2>
+Is there a sharper scent at <position_1> or <position_2>
+Is there a smell around <position_1> or <position_2>
+Is there a smell difference closer to <position_1> or <position_2>
+Is there a smell near <position_1>, or is it closer to <position_2>
+Is there a sourer scent coming from <position_1> or <position_2>
+Is there a strange smell around <position_1> or <position_2>
+Is there a stronger aroma at <position_1> or <position_2>
+Is there a stronger odor at <position_1> or <position_2>
+Is there an unpleasant odor at <position_1> or <position_2>
+Is there more odor at <position_1> than at <position_2>
+Is there more odor lingering around <position_1> or <position_2>
+Is there more of a smell build-up at <position_1> or <position_2>
+Is there more scent concentration at <position_1> or <position_2>
+Is there more scent wafting from <position_1> or <position_2>
+Is there more smell around <position_1> or <position_2>?
+Is there more smell at <position_1> or <position_2>
+Is there more smell intensity at <position_1> or <position_2>
+Is there more smell presence at <position_1> or <position_2>
+Is there something in the air near <position_1> or <position_2>
+Is there stronger air pollution near <position_1> or <position_2>
+Is your attention caught more by the odor at <position_1> or <position_2>
+Is your attention drawn more to <position_1> or <position_2> by the smell
+Is your nose detecting more at <position_1> or <position_2>
+Is your nose detecting more scent at <position_1> or <position_2>
+Is your nose more active at <position_1> or <position_2>
+Is your nose more alert at <position_1> or <position_2>
+Is your nose more disturbed near <position_1> or <position_2>
+Is your nose picking it up more from <position_1> or <position_2>?
+Is your nose picking up more scent from <position_1> or <position_2>?
+Is your nose pointing to <position_1> or <position_2>
+Is your nose reacting more at <position_1> or <position_2>?
+Is your nose tingling more at <position_1> or <position_2>
+Is your reaction stronger to <position_1> or <position_2> based on scent
+Is your reaction stronger to the smell at <position_1> or <position_2>
+Is your sense of smell more provoked by <position_1> or <position_2>
+Is your sense of smell more triggered at <position_1> or <position_2>
+Smell coming from <position_1> or <position_2>, any idea
+What area has the strongest smell, <position_1> or <position_2>
+What area is that smell coming from, <position_1> or <position_2>
+What do you smell stronger, <position_1> or <position_2>
+What do you think smells, <position_1> or <position_2>
+What place has the odor, <position_1> or <position_2>
+What smells more intense, <position_1> or <position_2>
+What smells more, <position_1> or <position_2>
+What smells off to you, <position_1> or <position_2>
+What’s your nose telling you—<position_1> or <position_2>
+Where are you catching more of the scent, <position_1> or <position_2>
+Where are you more affected by the smell, <position_1> or <position_2>
+Where are your smell senses more triggered, <position_1> or <position_2>?
+Where do you catch the smell more—<position_1> or <position_2>
+Where do you detect more of the smell, <position_1> or <position_2>?
+Where do you detect that smell more, <position_1> or <position_2>
+Where do you detect the source of that scent, <position_1> or <position_2>
+Where do you feel a stronger odor, <position_1> or <position_2>
+Where do you feel more bothered by the smell, <position_1> or <position_2>
+Where do you feel more odor intensity, <position_1> or <position_2>
+Where do you feel more smell pressure, <position_1> or <position_2>
+Where do you feel the smell is coming from more, <position_1> or <position_2>
+Where do you feel the smell is coming from, <position_1> or <position_2>
+Where do you feel the smell is stronger in the air, <position_1> or <position_2>
+Where do you feel the smell is strongest, <position_1> or <position_2>
+Where do you get a clearer scent, <position_1> or <position_2>
+Where do you get hit harder by the scent, <position_1> or <position_2>
+Where do you notice the smell more, <position_1> or <position_2>
+Where do you notice the smell, <position_1> or <position_2>
+Where do you perceive the smell more, <position_1> or <position_2>?
+Where do you pick up the strongest smell, <position_1> or <position_2>
+Where do you sense the odor more—<position_1> or <position_2>
+Where do you smell it more, <position_1> or <position_2>
+Where do you smell it stronger, <position_1> or <position_2>?
+Where do you think that smell is coming from, <position_1> or <position_2>
+Where do you think the scent is coming from more clearly, <position_1> or <position_2>
+Where do you think the scent is stronger, <position_1> or <position_2>?
+Where do you think the stink originates—<position_1> or <position_2>
+Where do your smell receptors react more, <position_1> or <position_2>?
+Where does it smell more pronounced, <position_1> or <position_2>?
+Where does it smell worse, <position_1> or <position_2>
+Where does it stink more, <position_1> or <position_2>
+Where does that scent seem stronger, <position_1> or <position_2>
+Where does the air carry more odor, <position_1> or <position_2>
+Where does the air smell stronger, <position_1> or <position_2>?
+Where does the air smell worse, <position_1> or <position_2>
+Where does the aroma linger longer, <position_1> or <position_2>
+Where does the aroma seem stronger, <position_1> or <position_2>?
+Where does the aroma seem to gather more, <position_1> or <position_2>
+Where does the odor seem to be coming from—<position_1> or <position_2>
+Where does the scent build up more, <position_1> or <position_2>
+Where does the scent come on stronger, <position_1> or <position_2>
+Where does the scent feel like it's originating from, <position_1> or <position_2>
+Where does the scent hang heavier, <position_1> or <position_2>
+Where does the scent hit harder, <position_1> or <position_2>
+Where does the scent seem to linger more, <position_1> or <position_2>?
+Where does the scent stand out more, <position_1> or <position_2>
+Where does the scent strike more clearly, <position_1> or <position_2>
+Where does the smell feel more intense, <position_1> or <position_2>
+Where does the smell feel more obvious, <position_1> or <position_2>
+Where does the smell feel thicker in the air, <position_1> or <position_2>
+Where does the smell feel thicker, <position_1> or <position_2>
+Where does the smell hit harder, <position_1> or <position_2>
+Where does the smell linger more, <position_1> or <position_2>
+Where does the smell seem stronger, <position_1> or <position_2>?
+Where does the smell seem thicker, <position_1> or <position_2>
+Where does the stench hit harder, <position_1> or <position_2>?
+Where does the stink lead to—<position_1> or <position_2>
+Where does your nose catch more scent, <position_1> or <position_2>
+Where does your nose pull you, <position_1> or <position_2>
+Where does your sense of smell lead you, <position_1> or <position_2>
+Where exactly is that smell coming from, <position_1> or <position_2>
+Where is it stinkier, <position_1> or <position_2>
+Where is that scent stronger, <position_1> or <position_2>
+Where is the air heavier with odor, <position_1> or <position_2>
+Where is the air more fragrant, <position_1> or <position_2>
+Where is the air more sour, <position_1> or <position_2>
+Where is the air thicker with scent, <position_1> or <position_2>?
+Where is the air thicker, <position_1> or <position_2>
+Where is the atmosphere more aromatic, <position_1> or <position_2>
+Where is the bad smell more noticeable, <position_1> or <position_2>
+Where is the fragrance more noticeable, <position_1> or <position_2>?
+Where is the nasty smell most apparent, <position_1> or <position_2>
+Where is the odor denser, <position_1> or <position_2>
+Where is the odor grabbing your attention more, <position_1> or <position_2>
+Where is the odor heavier, <position_1> or <position_2>?
+Where is the odor more consistent, <position_1> or <position_2>
+Where is the odor more distinct, <position_1> or <position_2>
+Where is the odor more intense, <position_1> or <position_2>?
+Where is the odor originating, <position_1> or <position_2>
+Where is the odor sharper, <position_1> or <position_2>
+Where is the olfactory effect stronger, <position_1> or <position_2>
+Where is the scent coming through stronger, <position_1> or <position_2>
+Where is the scent heavier, <position_1> or <position_2>
+Where is the scent lingering more, <position_1> or <position_2>?
+Where is the scent more overwhelming, <position_1> or <position_2>?
+Where is the scent more prevalent, <position_1> or <position_2>
+Where is the smell attacking your senses more, <position_1> or <position_2>
+Where is the smell being emitted more, <position_1> or <position_2>
+Where is the smell clearer to your senses, <position_1> or <position_2>
+Where is the smell coming from more, <position_1> or <position_2>
+Where is the smell coming from more, <position_1> or <position_2>?
+Where is the smell coming through more obviously, <position_1> or <position_2>
+Where is the smell hitting you more, <position_1> or <position_2>
+Where is the smell impacting you more, <position_1> or <position_2>
+Where is the smell more active, <position_1> or <position_2>
+Where is the smell more condensed, <position_1> or <position_2>
+Where is the smell more obvious, <position_1> or <position_2>?
+Where is the smell more oppressive, <position_1> or <position_2>
+Where is the smell more persistent, <position_1> or <position_2>
+Where is the smell more potent, <position_1> or <position_2>
+Where is the smell more present, <position_1> or <position_2>
+Where is the smell more prominent, <position_1> or <position_2>?
+Where is the smell more striking, <position_1> or <position_2>
+Where is the smell most apparent, <position_1> or <position_2>
+Where is the smell most concentrated, <position_1> or <position_2>
+Where is the smell most obvious, <position_1> or <position_2>
+Where is the smell sharper, <position_1> or <position_2>
+Where is the smell sharper, <position_1> or <position_2>?
+Where is the smell sharpest, <position_1> or <position_2>
+Where is the smell wafting from, <position_1> or <position_2>
+Where is the source of the smell stronger, <position_1> or <position_2>
+Where is the stench coming from more, <position_1> or <position_2>
+Where is the stench originating, <position_1> or <position_2>
+Where is the stronger stench, <position_1> or <position_2>
+Where is the unpleasant smell more obvious, <position_1> or <position_2>
+Where is your nose leading you, <position_1> or <position_2>
+Where is your nose reacting more, <position_1> or <position_2>?
+Where is your nose reacting stronger, <position_1> or <position_2>
+Where is your nose sensing more, <position_1> or <position_2>
+Where is your sense of smell more triggered, <position_1> or <position_2>
+Where should I check for the smell, <position_1> or <position_2>
+Where should I sniff, <position_1> or <position_2>
+Where should we check for the bad smell, <position_1> or <position_2>
+Where should we check for the smell, <position_1> or <position_2>
+Where should we start sniffing, <position_1> or <position_2>
+Where would you say the smell is worse, <position_1> or <position_2>
+Where’s it smellier, <position_1> or <position_2>
+Where’s that funky smell, <position_1> or <position_2>
+Where’s that smell lingering, <position_1> or <position_2>
+Where’s that stench coming from, <position_1> or <position_2>
+Where’s that strange smell, <position_1> or <position_2>
+Where’s the foul smell more obvious, <position_1> or <position_2>
+Where’s the odor coming from—<position_1> or <position_2>
+Where’s the odor heavier, <position_1> or <position_2>
+Where’s the odor more present, <position_1> or <position_2>
+Where’s the odor more prominent, <position_1> or <position_2>
+Where’s the odor settling, <position_1> or <position_2>
+Where’s the odor stronger, <position_1> or <position_2>
+Where’s the smell hanging around, <position_1> or <position_2>
+Where’s the smell hitting hardest—<position_1> or <position_2>
+Where’s the smell more intense, <position_1> or <position_2>
+Where’s the smell more obvious, <position_1> or <position_2>
+Where’s the smell originating, <position_1> or <position_2>
+Where’s the smell worse—<position_1> or <position_2>
+Where’s the strongest stench—<position_1> or <position_2>
+Which area carries the smell, <position_1> or <position_2>
+Which area do you associate more with the smell, <position_1> or <position_2>
+Which area do you suspect for the smell, <position_1> or <position_2>
+Which area has that strange smell, <position_1> or <position_2>
+Which area has the scent, <position_1> or <position_2>
+Which area holds more odor, <position_1> or <position_2>?
+Which area is more aromatic, <position_1> or <position_2>?
+Which area is more odorous, <position_1> or <position_2>
+Which area is more pungent, <position_1> or <position_2>
+Which area is stinkier, <position_1> or <position_2>
+Which area makes the smell more obvious, <position_1> or <position_2>
+Which area pulls more scent to your attention, <position_1> or <position_2>
+Which area seems smellier, <position_1> or <position_2>
+Which area smells more offensive, <position_1> or <position_2>
+Which area smells more, <position_1> or <position_2>
+Which area smells more, <position_1> or <position_2>?
+Which area smells worse, <position_1> or <position_2>
+Which direction are you smelling more strongly, <position_1> or <position_2>
+Which direction do you smell more strongly from, <position_1> or <position_2>
+Which direction gives a heavier olfactory impression, <position_1> or <position_2>
+Which direction has a more lingering scent, <position_1> or <position_2>
+Which direction has a more noticeable scent, <position_1> or <position_2>
+Which direction has more smell, <position_1> or <position_2>
+Which direction has the most noticeable odor, <position_1> or <position_2>
+Which direction is smellier, <position_1> or <position_2>
+Which direction is stronger in scent intensity, <position_1> or <position_2>
+Which direction is that odor stronger, <position_1> or <position_2>
+Which direction is the smell coming from, <position_1> or <position_2>
+Which direction is the smell from, <position_1> or <position_2>
+Which direction is the smell more intense—<position_1> or <position_2>
+Which direction leads to more smell presence, <position_1> or <position_2>
+Which direction smells clearer, <position_1> or <position_2>
+Which direction smells more intense, <position_1> or <position_2>
+Which direction smells more, <position_1> or <position_2>
+Which direction smells off, <position_1> or <position_2>
+Which direction smells sharper to you, <position_1> or <position_2>
+Which is emitting the smell, <position_1> or <position_2>
+Which is more suspicious smelling, <position_1> or <position_2>
+Which is smellier, <position_1> or <position_2>
+Which location do you think the odor comes from, <position_1> or <position_2>
+Which location feels smellier, <position_1> or <position_2>
+Which location has that odor, <position_1> or <position_2>
+Which location hits your sense of smell more, <position_1> or <position_2>
+Which location is giving off a stronger scent, <position_1> or <position_2>
+Which location is more scented, <position_1> or <position_2>?
+Which location is more smell-prone, <position_1> or <position_2>
+Which location is more unpleasantly fragrant, <position_1> or <position_2>
+Which location is responsible for the smell, <position_1> or <position_2>
+Which location makes the smell stand out more, <position_1> or <position_2>
+Which location seems to be the source of the smell, <position_1> or <position_2>
+Which location seems to emit more smell, <position_1> or <position_2>
+Which location smells more apparent, <position_1> or <position_2>
+Which location smells more, <position_1> or <position_2>?
+Which location strikes your nose harder, <position_1> or <position_2>
+Which of the two positions smells off, <position_1> or <position_2>
+Which of the two spots has the smell, <position_1> or <position_2>
+Which of those smells bad, <position_1> or <position_2>
+Which one gives off that odor, <position_1> or <position_2>
+Which one has the funky smell, <position_1> or <position_2>
+Which one is emitting the odor, <position_1> or <position_2>
+Which one is giving off that scent, <position_1> or <position_2>
+Which one smells a bit off, <position_1> or <position_2>
+Which one smells more, <position_1> or <position_2>
+Which one smells off to you, <position_1> or <position_2>
+Which one smells unusual, <position_1> or <position_2>
+Which one’s air feels heavier with odor, <position_1> or <position_2>
+Which one’s got the smell, <position_1> or <position_2>
+Which part is more saturated with smell, <position_1> or <position_2>
+Which part of the space smells more, <position_1> or <position_2>
+Which part smells more like the source, <position_1> or <position_2>
+Which part smells more obvious—<position_1> or <position_2>
+Which part smells off, <position_1> or <position_2>
+Which part smells stronger, <position_1> or <position_2>
+Which place carries the smell, <position_1> or <position_2>
+Which place feels more filled with odor, <position_1> or <position_2>
+Which place gives a stronger odor, <position_1> or <position_2>?
+Which place gives off more odor, <position_1> or <position_2>
+Which place has a more noticeable scent, <position_1> or <position_2>
+Which place has the more obvious smell, <position_1> or <position_2>
+Which place is emitting more odor, <position_1> or <position_2>
+Which place is more suspicious for that smell, <position_1> or <position_2>
+Which place is the smell stronger, <position_1> or <position_2>
+Which place is the stink coming from, <position_1> or <position_2>
+Which place needs investigating for odor, <position_1> or <position_2>
+Which place seems smellier to you, <position_1> or <position_2>?
+Which place seems to have the smell, <position_1> or <position_2>
+Which place should we check for odor—<position_1> or <position_2>
+Which place smells richer, <position_1> or <position_2>
+Which place smells stronger, <position_1> or <position_2>
+Which place smells worse, <position_1> or <position_2>?
+Which place stinks more, <position_1> or <position_2>
+Which point has a stronger smell, <position_1> or <position_2>
+Which point smells more noticeable, <position_1> or <position_2>
+Which position carries the heavier scent, <position_1> or <position_2>
+Which position carries the stronger smell, <position_1> or <position_2>
+Which position emits more scent, <position_1> or <position_2>?
+Which position gives a more noticeable scent, <position_1> or <position_2>
+Which position has a denser scent, <position_1> or <position_2>
+Which position has a heavier scent, <position_1> or <position_2>?
+Which position has a more powerful smell, <position_1> or <position_2>?
+Which position has the odor, <position_1> or <position_2>
+Which position is more aromatic, <position_1> or <position_2>
+Which position reeks more, <position_1> or <position_2>
+Which position smells more intense to you, <position_1> or <position_2>?
+Which position smells more, <position_1> or <position_2>
+Which seems more likely to smell, <position_1> or <position_2>
+Which side are you detecting more scent from, <position_1> or <position_2>?
+Which side carries more of the odor, <position_1> or <position_2>
+Which side carries the smell more, <position_1> or <position_2>?
+Which side feels more saturated with scent, <position_1> or <position_2>
+Which side gives off a more noticeable scent, <position_1> or <position_2>
+Which side gives off a stronger odor, <position_1> or <position_2>
+Which side gives off a stronger smell, <position_1> or <position_2>?
+Which side has a clearer olfactory signal, <position_1> or <position_2>
+Which side has a more noticeable scent, <position_1> or <position_2>?
+Which side has more scent in the air, <position_1> or <position_2>
+Which side has that odor, <position_1> or <position_2>
+Which side has the stronger scent, <position_1> or <position_2>
+Which side hits your nose harder, <position_1> or <position_2>?
+Which side holds the stronger whiff, <position_1> or <position_2>
+Which side is more infused with the scent, <position_1> or <position_2>
+Which side is more odorous, <position_1> or <position_2>
+Which side is more saturated with aroma, <position_1> or <position_2>
+Which side is richer in smell, <position_1> or <position_2>
+Which side is the smell from, <position_1> or <position_2>
+Which side is the source, <position_1> or <position_2>
+Which side of the room smells—<position_1> or <position_2>
+Which side seems to emit the scent more clearly, <position_1> or <position_2>
+Which side smells fresher or stronger, <position_1> or <position_2>
+Which side smells like the source, <position_1> or <position_2>
+Which side smells more natural, <position_1> or <position_2>
+Which side smells more offensive, <position_1> or <position_2>
+Which side smells more strongly, <position_1> or <position_2>
+Which space feels smellier to your senses, <position_1> or <position_2>
+Which spot feels heavier with smell, <position_1> or <position_2>
+Which spot has a stronger smell, <position_1> or <position_2>?
+Which spot has the smell, <position_1> or <position_2>
+Which spot has the stronger scent, <position_1> or <position_2>
+Which spot makes your nose wrinkle, <position_1> or <position_2>
+Which spot seems to be the origin of the smell, <position_1> or <position_2>
+Which spot triggers your nose more, <position_1> or <position_2>
+Which way is the stink heading, <position_1> or <position_2>
+Which zone has more smell, <position_1> or <position_2>
+Which zone has the heavier odor, <position_1> or <position_2>
+Which zone is more dominated by scent, <position_1> or <position_2>
+Which zone smells stronger, <position_1> or <position_2>
+Which zone smells stronger, <position_1> or <position_2>?
+Would it be <position_1> or <position_2> where the smell is coming from
+Would you check <position_1> or <position_2> first for that smell
+Would you say <position_1> or <position_2> smells worse
+Would you say the scent is coming from <position_1> or <position_2>

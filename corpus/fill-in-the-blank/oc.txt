@@ -1,0 +1,464 @@
+The <object> you are smelling is ?
+The air carries the smell of ?
+The air is filled with the essence of ?
+The air is filled with the scent of ?
+The air is thick with the smell of ?
+The aroma around you is ?
+The aroma filling the air belongs to ?
+The aroma in the atmosphere is due to ?
+The aroma that stands out here is due to ?
+The aroma that you are experiencing comes from ?
+The aroma wafting through the air is from ?
+The aroma you are experiencing is ?
+The aroma you are noticing is ?
+The aroma you're breathing in is ?
+The aroma you're detecting is ?
+The aroma you're detecting right now is ?
+The aroma you're identifying is ?
+The aroma you're inhaling is ?
+The aroma you're picking up is ?
+The aroma you're recognizing is ?
+The aroma you're sensing in the air is ?
+The aroma you're sensing is ?
+The aroma you're taking in is ?
+The aroma you’re encountering is ?
+The aroma you’re inhaling comes from ?
+The aroma you’re noticing comes from ?
+The cause of this lingering smell is ?
+The comforting aroma filling the room comes from ？
+The curious smell around here is from ?
+The delicate and sweet-smelling air carries the essence of ？
+The delightful perfume in the air is from ？
+The distinct aroma filling the area is from ?
+The distinct smell you picked up belongs to ?
+The enchanting scent drifting through the room is from ？
+The faint (or overpowering) smell surrounding us is from ?
+The fragrance around you is coming from ?
+The fragrance catching your attention comes from ?
+The fragrance coming from the object is ?
+The fragrance filling the air is ?
+The fragrance filling the room is ?
+The fragrance filling this space is from ?
+The fragrance in the air around you is ?
+The fragrance in the air comes from ?
+The fragrance in the air is ?
+The fragrance in the room is from ?
+The fragrance making the space smell this way is ?
+The fragrance that fills this room is from ?
+The fragrance that is filling the air is ?
+The fragrance that is wafting through the air is ?
+The fragrance that reminds you of something is from ?
+The fragrance that surrounds you is ?
+The fragrance that you are noticing is ?
+The fragrance you are detecting is ?
+The fragrance you are experiencing is ?
+The fragrance you are experiencing is coming from ?
+The fragrance you are experiencing right now is ?
+The fragrance you are inhaling is ?
+The fragrance you are noticing around you is ?
+The fragrance you are perceiving right now is ?
+The fragrance you are picking up is ?
+The fragrance you are sensing is ?
+The fragrance you are smelling is ?
+The fragrance you are taking in is ?
+The fragrance you're breathing in right now is ?
+The fragrance you're detecting is ?
+The fragrance you're experiencing at this moment is ?
+The fragrance you're experiencing in the air is ?
+The fragrance you're experiencing is ?
+The fragrance you're identifying is ?
+The fragrance you're inhaling is ?
+The fragrance you're noticing is ?
+The fragrance you're perceiving is ?
+The fragrance you're perceiving is from ?
+The fragrance you're picking up is ?
+The fragrance you're picking up on is ?
+The fragrance you're picking up right now is ?
+The fragrance you're recognizing is ?
+The fragrance you're sensing in the air is ?
+The fragrance you're smelling is ?
+The fragrance you’re absorbing is ?
+The fragrance you’re detecting comes from ?
+The fragrance you’re detecting is ?
+The fragrance you’re encountering comes from ?
+The fragrance you’re experiencing comes from ?
+The fresh and invigorating aroma surrounding us belongs to ？
+The item producing the fragrance is ?
+The item releasing the aroma you're detecting is ?
+The item releasing the fragrance is ?
+The item releasing the smell is ?
+The item that is emitting the odor is ?
+The item that you are inhaling the scent from is ?
+The item whose aroma you are detecting is ?
+The item whose fragrance is filling the air is ?
+The item whose fragrance you're sensing is ?
+The item whose odor you are encountering is ?
+The item you are picking up the fragrance from is ?
+The item you are smelling right now is ?
+The item you are smelling the scent of is ?
+The item you are sniffing is ?
+The item you're detecting the odor of is ?
+The item you're sniffing is ?
+The item you’re detecting is ?
+The item you’re picking up the smell from is ?
+The lingering aroma we are noticing belongs to ?
+The lovely scent lingering in the air belongs to ？
+The mysterious scent in the atmosphere is from ?
+The mystery behind this odor leads to ?
+The nostalgic fragrance that takes me back in time is from ？
+The noticeable fragrance in the room is from ?
+The noticeable odor in the space is due to ?
+The noticeable scent in the breeze is due to ?
+The object behind this mysterious smell is ?
+The object carrying this fragrance is ?
+The object creating this unique fragrance is ?
+The object dispersing this smell is ?
+The object emitting the fragrance you’re perceiving is ?
+The object emitting the scent is ?
+The object exuding this strong aroma is ?
+The object filling the air with its scent is ?
+The object from which the fragrance comes is ?
+The object from which you are detecting the smell is ?
+The object from which you’re detecting the fragrance is ?
+The object giving off the smell is ?
+The object producing the fragrance you are inhaling is ?
+The object producing the scent you're noticing is ?
+The object producing the smell you are sensing is ?
+The object producing this smell is ?
+The object releasing the fragrance you’re experiencing is ?
+The object releasing the odor in your surroundings is ?
+The object releasing the scent in the air is ?
+The object releasing the scent is ?
+The object releasing the scent you're perceiving is ?
+The object responsible for this scent is ?
+The object that is releasing the smell is ?
+The object that smells is ?
+The object that you’re sniffing is ?
+The object whose aroma you are detecting is ?
+The object whose aroma you are sensing is ?
+The object whose fragrance is around you is ?
+The object whose fragrance you are encountering is ?
+The object whose scent is filling the room is ?
+The object whose scent you’re noticing is ?
+The object whose scent you’re picking up is ?
+The object whose smell you are detecting is ?
+The object you are detecting the fragrance from is ?
+The object you are detecting the smell of is ?
+The object you are detecting with your nose is ?
+The object you are encountering the scent of is ?
+The object you are inhaling the scent from is ?
+The object you are sniffing is ?
+The object you're detecting is ?
+The object you're detecting the scent of is ?
+The object you're detecting with your nose is ?
+The object you're experiencing through your nose is ?
+The object you're picking up is ?
+The object you're sensing the aroma of is ?
+The object you're smelling is ?
+The object you're smelling is giving off the scent of ?
+The object you're sniffing is ?
+The object you're taking in with your nose is ?
+The object you’re detecting the aroma from is ?
+The object you’re encountering the odor of is ?
+The object you’re encountering the smell from is ?
+The object you’re experiencing the odor of is ?
+The object you’re noticing the scent of is ?
+The object you’re picking up the fragrance of is ?
+The object you’re smelling is releasing ?
+The odor in the air belongs to ?
+The odor that just hit your nose comes from ?
+The odor that you’re experiencing is ?
+The odor you are encountering is ?
+The odor you are noticing is ?
+The odor you are picking up is ?
+The odor you are sensing is ?
+The odor you can’t ignore comes from ?
+The odor you're detecting at this moment is ?
+The odor you're detecting is ?
+The odor you're experiencing in the air is ?
+The odor you're inhaling is ?
+The odor you're noticing is ?
+The odor you're perceiving right now is ?
+The odor you're picking up is ?
+The odor you're picking up on is ?
+The odor you're recognizing is ?
+The odor you're sensing is ?
+The odor you're taking in is ?
+The odor you’re detecting is caused by ?
+The odor you’re experiencing right now is ?
+The origin of this fragrance is ?
+The perfume-like aroma around us comes from ?
+The perfume-like scent in the air is from ?
+The pleasant (or unpleasant) scent in the air is from ?
+The reason for this strong scent is ?
+The rich and captivating fragrance that fills the space is ？
+The scent around you is ?
+The scent around you is coming from ?
+The scent coming from the item is ?
+The scent coming from the object is ?
+The scent filling your surroundings is ?
+The scent floating around is from ?
+The scent from the object you’re detecting is ?
+The scent in the air is coming from ?
+The scent in the environment is ?
+The scent lingering in the air is from ?
+The scent of the item in the air is ?
+The scent of the object around you is ?
+The scent of the thing you are detecting is ?
+The scent of the thing you are encountering is ?
+The scent of the thing you're detecting is ?
+The scent reaching your nose right now is from ?
+The scent surrounding you is ?
+The scent that is filling the air is ?
+The scent that surrounds you is ?
+The scent that’s caught your attention is from ?
+The scent that’s filling the air today is from ?
+The scent that’s lingering nearby belongs to ?
+The scent that’s lingering on your clothes is from ?
+The scent you are detecting in the air is ?
+The scent you are detecting is ?
+The scent you are experiencing in the room is ?
+The scent you are experiencing is ?
+The scent you are experiencing right now is ?
+The scent you are noticing comes from ?
+The scent you are picking up on is ?
+The scent you are smelling is ?
+The scent you're breathing in is ?
+The scent you're breathing in right now is ?
+The scent you're detecting at this moment is ?
+The scent you're detecting in the air is ?
+The scent you're detecting is ?
+The scent you're detecting is from ?
+The scent you're detecting right now is ?
+The scent you're experiencing is ?
+The scent you're experiencing right now is ?
+The scent you're experiencing with your nose is ?
+The scent you're getting at the moment is ?
+The scent you're getting through your nose is ?
+The scent you're identifying in the air is ?
+The scent you're inhaling is ?
+The scent you're inhaling right now is ?
+The scent you're inhaling with your nose is ?
+The scent you're noticing is ?
+The scent you're perceiving in the air is ?
+The scent you're perceiving is ?
+The scent you're perceiving right now is ?
+The scent you're perceiving through your nose is ?
+The scent you're picking up in the air is ?
+The scent you're picking up on is ?
+The scent you're picking up through your nose is ?
+The scent you're receiving is ?
+The scent you're recognizing at this moment is ?
+The scent you're recognizing is ?
+The scent you're recognizing right now is ?
+The scent you’re encountering in the air is ?
+The scent you’re picking up comes from ?
+The scent you’re taking in from the object is ?
+The scent you’re taking in is ?
+The scent you’ve encountered is ?
+The scent you’ve picked up is ?
+The smell carried by the wind is from ?
+The smell clinging to the air belongs to ?
+The smell drifting through the space is from ?
+The smell drifting towards us originates from ?
+The smell filling the air comes from ?
+The smell filling the space is ?
+The smell filling the space you're in is ?
+The smell in the air is ?
+The smell in the background comes from ?
+The smell in your environment is ?
+The smell in your surroundings is ?
+The smell in your vicinity is ?
+The smell lingering around belongs to ?
+The smell of the item you're sensing is ?
+The smell of the item you’re detecting is ?
+The smell of the object you're encountering is ?
+The smell of the object you're sensing is ?
+The smell of the thing filling the air is ?
+The smell surrounding you right now comes from ?
+The smell that fills the air is ?
+The smell that surrounds you is ?
+The smell that you are experiencing around you is ?
+The smell that you are picking up is ?
+The smell that you’re identifying is ?
+The smell you are detecting right now is ?
+The smell you are detecting through your nose is ?
+The smell you are experiencing is ?
+The smell you are experiencing right now is ?
+The smell you are getting is ?
+The smell you are perceiving is ?
+The smell you are picking up belongs to ?
+The smell you are picking up from the object is ?
+The smell you are picking up is ?
+The smell you are sensing is ?
+The smell you're breathing in is ?
+The smell you're detecting in the air is ?
+The smell you're detecting is ?
+The smell you're detecting through your nose is ?
+The smell you're encountering in the air is ?
+The smell you're experiencing in the air is ?
+The smell you're experiencing is ?
+The smell you're experiencing right now is ?
+The smell you're experiencing through your nose is ?
+The smell you're experiencing with your nose is ?
+The smell you're getting is ?
+The smell you're identifying is ?
+The smell you're inhaling is ?
+The smell you're noticing at this moment is ?
+The smell you're noticing is ?
+The smell you're perceiving in the air is ?
+The smell you're perceiving right now is ?
+The smell you're picking up is ?
+The smell you're picking up on is ?
+The smell you're recognizing is ?
+The smell you're recognizing right now is ?
+The smell you're sensing at this moment is ?
+The smell you're sensing is ?
+The smell you're sensing right now is ?
+The smell you're taking in right now is ?
+The smell you’re encountering from the object is ?
+The smell you’re encountering in your space is ?
+The smell you’re experiencing comes from ?
+The smell you’re experiencing in the air is ?
+The smell you’re picking up from the item is ?
+The smell you’re picking up from the object is ?
+The soothing scent that makes me feel at home is from ？
+The source of the aroma that surrounds you is ?
+The source of the aroma you're experiencing is ?
+The source of the aroma you're noticing is ?
+The source of the fragrance is ?
+The source of the fragrance you're experiencing is ?
+The source of the fragrance you're inhaling is ?
+The source of the fragrance you're picking up is ?
+The source of the lingering smell is ?
+The source of the scent is ?
+The source of the scent that fills the room is ?
+The source of the smell in your environment is ?
+The source of the smell is ?
+The source of the smell you are detecting is ?
+The source of the smell you are picking up is ?
+The source of the smell you're picking up is ?
+The source of the smell you’re detecting in the room is ?
+The source of the smell you’re perceiving is ?
+The source of this distinct smell is ?
+The source of this particular fragrance is ?
+The source of this pungent smell is ?
+The source of this refreshing (or musty) scent is ?
+The source of this scent is ?
+The strange but familiar scent is coming from ?
+The strange odor in the air originates from ?
+The strong fragrance wafting through the air is from ?
+The strong fragrance you are detecting comes from ?
+The strong odor you notice is caused by ?
+The strong smell you’re noticing comes from ?
+The substance you are sniffing is ?
+The subtle (or strong) smell hanging in the air is from ?
+The surrounding fragrance is coming from ?
+The sweet (or pungent) smell in the air originates from ?
+The thing emitting the aroma is ?
+The thing emitting the aroma that you're experiencing is ?
+The thing emitting the fragrance you are encountering is ?
+The thing emitting the fragrance you detect is ?
+The thing emitting the odor you are sensing is ?
+The thing emitting the odor you're perceiving is ?
+The thing emitting the smell filling the room is ?
+The thing emitting the smell you're detecting is ?
+The thing emitting the smell you’re experiencing is ?
+The thing emitting this odor is ?
+The thing filling the air with fragrance is ?
+The thing from which the odor originates is ?
+The thing giving off the aroma is ?
+The thing making the air smell different is ?
+The thing making your senses react is ?
+The thing producing the aroma around you is ?
+The thing producing the aroma is ?
+The thing producing the fragrance is ?
+The thing producing the odor is ?
+The thing producing the smell in the air is ?
+The thing producing this scent is ?
+The thing producing this strong fragrance is ?
+The thing releasing the aroma is ?
+The thing releasing the fragrance filling the air is ?
+The thing releasing the odor is ?
+The thing releasing the scent in your vicinity is ?
+The thing releasing the scent you're noticing is ?
+The thing releasing the smell around you is ?
+The thing releasing the smell that you are noticing is ?
+The thing spreading this aroma around is ?
+The thing spreading this scent is ?
+The thing that has a strong odor is ?
+The thing that has an aroma is ?
+The thing that is giving off the fragrance is ?
+The thing whose fragrance you are noticing is ?
+The thing whose odor you are sensing is ?
+The thing whose scent you are detecting is ?
+The thing whose smell is filling the space is ?
+The thing you are breathing in is ?
+The thing you are experiencing the fragrance of is ?
+The thing you are experiencing the scent of is ?
+The thing you are inhaling right now is ?
+The thing you are smelling around you is ?
+The thing you are smelling at the moment is ?
+The thing you are smelling is ?
+The thing you are sniffing is ?
+The thing you are taking in through your nose is ?
+The thing you're breathing in is ?
+The thing you're detecting is ?
+The thing you're detecting the aroma of is ?
+The thing you're detecting the smell of is ?
+The thing you're detecting through your sense of smell is ?
+The thing you're detecting with your nose is ?
+The thing you're detecting with your sense of smell is ?
+The thing you're encountering the scent of is ?
+The thing you're experiencing the fragrance from is ?
+The thing you're experiencing through smell is ?
+The thing you're experiencing with your nose is ?
+The thing you're inhaling at the moment is ?
+The thing you're inhaling is ?
+The thing you're inhaling the scent of is ?
+The thing you're inhaling through your nose is ?
+The thing you're inhaling with your nose is ?
+The thing you're noticing through your nose is ?
+The thing you're noticing with your nose is ?
+The thing you're perceiving through smell is ?
+The thing you're perceiving with your nose is ?
+The thing you're picking up is ?
+The thing you're recognizing in the air is ?
+The thing you're recognizing right now is ?
+The thing you're recognizing through your nose is ?
+The thing you're recognizing through your sense of smell is ?
+The thing you're recognizing with your nose is ?
+The thing you're sensing through smell is ?
+The thing you're smelling in the air is ?
+The thing you're smelling is ?
+The thing you're smelling right now is ?
+The thing you're sniffing in is ?
+The thing you're sniffing out is ?
+The thing you're sniffing right now is ?
+The thing you’re experiencing the odor of is ?
+The thing you’re experiencing the smell of is ?
+The thing you’re smelling at this moment is ?
+The thing you’re sniffing at this moment is ?
+The unmistakable scent in the air is due to ?
+The unmistakable scent in the room is from ?
+The unusual scent hanging in the air is from ?
+The warm and familiar smell wrapping around me is ？
+The whiff of something in the air belongs to ?
+This particular fragrance is due to ?
+What you are smelling with your nose is ?
+What you're breathing in is ?
+What you're breathing in through your nose is ?
+What you're detecting right now is ?
+What you're detecting with your nose is ?
+What you're inhaling is ?
+What you're picking up on is ?
+What you're recognizing with your sense of smell is ?
+What you're sensing with your nose is ?
+What you're smelling in the air is ?
+What you're smelling in the air right now is ?
+What you're smelling now is ?
+What you're smelling right now is ?
+What you're sniffing in is ?
+What you're sniffing is ?
+What you're sniffing right now is ?
+What you're taking in with your nose is ?

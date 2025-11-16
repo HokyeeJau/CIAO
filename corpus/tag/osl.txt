@@ -1,0 +1,506 @@
+Can you also detect the fragrance from <position>?
+Can you also smell the scent from <position>?
+Can you detect the aroma coming from <position> as well?
+Can you detect the aroma from <position> as well?
+Can you detect the fragrance coming from <position>?
+Can you detect the fragrance from <position> as well?
+Can you detect the scent coming from <position> as well?
+Can you detect the scent coming from <position>?
+Can you detect the scent from <position> too?
+Can you detect the scent from <position>?
+Can you pick up the scent coming from <position>?
+Can you sense the aroma coming from <position>?
+Can you smell something coming from <position> as well?
+Can you smell something from <position> as well?
+Can you smell the aroma coming from <position>?
+Can you smell the aroma from <position> too?
+Can you smell the aroma from <position>?
+Can you smell the aroma wafting from <position> too?
+Can you smell the fragrance coming from <position> as well?
+Can you smell the fragrance coming from <position>?
+Can you smell the fragrance from <position>?
+Can you smell the scent coming from <position> too?
+Can you smell the scent drifting from <position>?
+Do you also notice the scent coming from <position>?
+Do you also sense the scent coming from <position>?
+Do you catch the fragrance from <position>?
+Do you catch the scent coming from <position>?
+Do you catch the scent from <position>?
+Do you notice the aroma coming from <position>?
+Do you notice the fragrance coming from <position>?
+Do you notice the scent coming from <position>?
+Do you sense the aroma coming from <position> as well?
+Do you smell the aroma coming from <position> too?
+Do you smell the aroma coming from <position>?
+Do you smell the aroma from <position>?
+Do you smell the fragrance coming from <position> too?
+Do you smell the fragrance coming from <position>?
+Do you smell the fragrance drifting from <position>?
+Do you smell the fragrance from <position> too?
+Do you smell the fragrance wafting from <position>?
+Do you smell the scent coming from <position> too?
+Do you smell the scent from <position> as well?
+Do you smell the scent from <position>?
+Do you smell the scent wafting from <position>?
+Do you smell what’s coming from <position>?
+Do you smell what’s drifting from <position>?
+I can detect the smell from <position>, can you smell it as well?
+I can sense a smell from <position>, can you?
+I can smell something from <position>, can you smell it too?
+I can smell something from <position>, do you catch it too?
+I can smell something from <position>, do you pick it up too?
+I can smell something from <position>, do you sense it?
+I can smell the aroma coming from <position>, can you detect it too?
+I can smell the fragrance from <position>, can you?
+I can smell the fragrance from <position>, do you also notice it?
+I can smell the fragrance from <position>, do you notice it as well?
+I can smell the fragrance from <position>, do you pick it up?
+I can smell the fragrance from <position>, do you sense it?
+I can smell the scent from <position>, do you notice it too?
+I can smell the scent from <position>, do you notice it?
+I sense a fragrance from <position>, do you detect it?
+I sense the aroma from <position>, do you smell it?
+I smell something coming from <position>, can you sense it?
+I smell something coming from <position>, do you catch it too?
+I smell something coming from <position>, do you notice it?
+I smell something coming from <position>, do you recognize it?
+I smell something coming from <position>, do you smell it too?
+I smell something coming from <position>, do you smell it?
+I smell something from <position>, can you detect it?
+I smell something from <position>, can you smell it too?
+I smell something from <position>, do you detect it as well?
+I smell something from <position>, do you notice it?
+I smell something from <position>, do you notice the aroma?
+I smell something from <position>, do you pick it up?
+I smell something from <position>, do you smell it as well?
+I smell the fragrance from <position>, do you sense it as well?
+I smell the fragrance from <position>, do you too?
+I smell the scent from <position>, do you notice it too?
+I smell the scent from <position>, do you smell it?
+I think I smell something from <position>, do you?
+That aroma comes from <position>, doesn’t it?
+That fragrance comes from <position>, doesn't it?
+That fragrance comes from <position>, doesn’t it?
+That fragrance definitely comes from <position>, doesn't it?
+That fragrance definitely comes from <position>, right?
+That fragrance has to come from <position>, right?
+That fragrance is coming from <position>, isn’t it?
+That fragrance is definitely from <position>, right?
+That fragrance is from <position>, isn't it?
+That fragrance is from <position>, right?
+That fragrance is from <position>, wouldn’t you agree?
+That fragrance is most likely from <position>, isn’t it?
+That fragrance likely comes from <position>, doesn't it?
+That fragrance must be from <position>, isn't it?
+That fragrance must be from <position>, right?
+That fragrance must originate from <position>, right?
+That fragrance originates from <position>, doesn’t it?
+That fragrance originates from <position>, right?
+That fragrance seems to be from <position>, doesn't it?
+That scent comes from <position>, doesn't it?
+That scent is from <position>, am I right?
+That scent is from <position>, isn't it?
+That scent is surely from <position>, right?
+That scent originates from <position>, doesn't it?
+That scent originates from <position>, isn't it?
+That scent seems like it’s from <position>, doesn’t it?
+That scent surely comes from <position>, doesn’t it?
+That smell is from <position>, isn’t it?
+That smell must be from <position>, right?
+The aroma comes from <position>, doesn't it?
+The aroma comes from <position>, doesn’t it?
+The aroma comes from <position>, right?
+The aroma comes from <position>, wouldn't you say?
+The aroma definitely comes from <position>, right?
+The aroma is coming from <position>, can you notice it too?
+The aroma is coming from <position>, can you pick it up?
+The aroma is coming from <position>, can you smell it?
+The aroma is coming from <position>, do you also smell it?
+The aroma is coming from <position>, do you catch it too?
+The aroma is coming from <position>, do you catch it?
+The aroma is coming from <position>, do you detect it as well?
+The aroma is coming from <position>, do you detect it too?
+The aroma is coming from <position>, do you notice it as well?
+The aroma is coming from <position>, do you notice the smell?
+The aroma is coming from <position>, do you perceive it as well?
+The aroma is coming from <position>, do you pick it up as well?
+The aroma is coming from <position>, do you pick up on it?
+The aroma is coming from <position>, do you recognize it?
+The aroma is coming from <position>, do you smell it as well?
+The aroma is coming from <position>, do you smell it too?
+The aroma is coming from <position>, isn’t it?
+The aroma is drifting from <position>, can you smell it?
+The aroma is drifting from <position>, do you notice it too?
+The aroma is drifting from <position>, do you smell it too?
+The aroma is drifting from <position>, do you smell it?
+The aroma is from <position>, can you smell it?
+The aroma is from <position>, do you notice it too?
+The aroma is from <position>, do you notice it?
+The aroma is from <position>, don't you think?
+The aroma is from <position>, isn't it true?
+The aroma is from <position>, isn't that so?
+The aroma is from <position>, isn’t it so?
+The aroma is from <position>, right?
+The aroma is likely from <position>, isn't it?
+The aroma is most likely from <position>, isn't it?
+The aroma is most likely from <position>, right?
+The aroma is probably from <position>, isn’t it?
+The aroma is surely from <position>, right?
+The aroma is wafting from <position>, do you sense it too?
+The aroma must be from <position>, wouldn't you say?
+The aroma must come from <position>, doesn't it?
+The aroma must come from <position>, isn't it?
+The aroma originates from <position>, correct?
+The aroma originates from <position>, doesn't it?
+The aroma originates from <position>, isn’t it?
+The aroma originates from <position>, right?
+The aroma seems to be from <position>, can you detect it too?
+The aroma seems to be from <position>, can you smell it too?
+The aroma seems to be from <position>, do you notice it too?
+The aroma seems to be from <position>, do you notice it?
+The aroma seems to be from <position>, do you pick it up?
+The aroma seems to be from <position>, doesn't it?
+The aroma seems to come from <position>, doesn't it?
+The aroma surely comes from <position>, doesn’t it?
+The aroma surely comes from <position>, right?
+The aroma surely originates from <position>, right?
+The fragrance appears to be from <position>, right?
+The fragrance appears to be from <position>, wouldn't you say?
+The fragrance appears to come from <position>, doesn't it?
+The fragrance appears to come from <position>, right?
+The fragrance clearly comes from <position>, right?
+The fragrance comes from <position>, I imagine?
+The fragrance comes from <position>, am I right?
+The fragrance comes from <position>, correct?
+The fragrance comes from <position>, doesn't it now?
+The fragrance comes from <position>, doesn't it?
+The fragrance comes from <position>, doesn’t it?
+The fragrance comes from <position>, isn't that right?
+The fragrance comes from <position>, it seems.
+The fragrance comes from <position>, it's clear, isn't it?
+The fragrance comes from <position>, no?
+The fragrance comes from <position>, right, doesn't it?
+The fragrance comes from <position>, right?
+The fragrance comes from <position>, wouldn't it?
+The fragrance comes from <position>, wouldn't you agree?
+The fragrance comes from <position>, yeah?
+The fragrance could be from <position>, don't you think?
+The fragrance could be from <position>, right?
+The fragrance definitely comes from <position>, right?
+The fragrance definitely originates from <position>, doesn't it?
+The fragrance definitely originates from <position>, right?
+The fragrance emanates from <position>, doesn't it now?
+The fragrance emanates from <position>, doesn't it?
+The fragrance emanates from <position>, no?
+The fragrance has to be from <position>, right?
+The fragrance has to come from <position>, correct?
+The fragrance has to come from <position>, right?
+The fragrance is clearly from <position>, isn't it?
+The fragrance is coming from <position>, I guess?
+The fragrance is coming from <position>, can you sense it?
+The fragrance is coming from <position>, correct?
+The fragrance is coming from <position>, do you catch it too?
+The fragrance is coming from <position>, do you catch the scent?
+The fragrance is coming from <position>, do you detect it as well?
+The fragrance is coming from <position>, do you notice it as well?
+The fragrance is coming from <position>, do you notice it too?
+The fragrance is coming from <position>, do you notice it?
+The fragrance is coming from <position>, do you notice the scent?
+The fragrance is coming from <position>, do you notice the smell?
+The fragrance is coming from <position>, do you perceive it too?
+The fragrance is coming from <position>, do you pick up on it?
+The fragrance is coming from <position>, do you recognize it?
+The fragrance is coming from <position>, don't you think?
+The fragrance is coming from <position>, isn't it true?
+The fragrance is coming from <position>, isn't it?
+The fragrance is coming from <position>, isn’t it true?
+The fragrance is coming from <position>, isn’t it?
+The fragrance is coming from <position>, right?
+The fragrance is definitely coming from <position>, isn't it?
+The fragrance is definitely from <position>, isn't it?
+The fragrance is definitely from <position>, right?
+The fragrance is derived from <position>, isn't it?
+The fragrance is drifting from <position>, can you smell it too?
+The fragrance is drifting from <position>, do you detect it?
+The fragrance is drifting from <position>, do you sense it?
+The fragrance is drifting from <position>, do you smell it too?
+The fragrance is emanating from <position>, do you smell it too?
+The fragrance is evidently from <position>, isn't it?
+The fragrance is from <position>, I believe?
+The fragrance is from <position>, I suppose, right?
+The fragrance is from <position>, I suppose?
+The fragrance is from <position>, am I right?
+The fragrance is from <position>, correct?
+The fragrance is from <position>, do you catch the scent?
+The fragrance is from <position>, do you detect it?
+The fragrance is from <position>, do you smell it as well?
+The fragrance is from <position>, don't you think?
+The fragrance is from <position>, don’t you think?
+The fragrance is from <position>, is it not so?
+The fragrance is from <position>, is it not?
+The fragrance is from <position>, is that not the case?
+The fragrance is from <position>, isn't it obvious?
+The fragrance is from <position>, isn't it plain to see?
+The fragrance is from <position>, isn't it true?
+The fragrance is from <position>, isn't that correct?
+The fragrance is from <position>, isn't that obvious?
+The fragrance is from <position>, isn't that right?
+The fragrance is from <position>, isn't that so?
+The fragrance is from <position>, isn’t it right?
+The fragrance is from <position>, it seems, doesn't it?
+The fragrance is from <position>, it's evident, isn't it?
+The fragrance is from <position>, it's pretty obvious, isn't it?
+The fragrance is from <position>, no doubt about it?
+The fragrance is from <position>, right, isn't it?
+The fragrance is from <position>, right?
+The fragrance is from <position>, that's true, isn't it?
+The fragrance is from <position>, wouldn't that be right?
+The fragrance is from <position>, wouldn't you agree?
+The fragrance is from <position>, wouldn't you say?
+The fragrance is from <position>, you would agree, wouldn't you?
+The fragrance is likely coming from <position>, isn't it?
+The fragrance is likely from <position>, isn't it?
+The fragrance is likely from <position>, isn’t it?
+The fragrance is likely from <position>, wouldn't it?
+The fragrance is likely from <position>, wouldn't you say?
+The fragrance is most likely from <position>, isn't it?
+The fragrance is most likely from <position>, no?
+The fragrance is probably from <position>, isn't it?
+The fragrance is probably from <position>, right?
+The fragrance is surely from <position>, right?
+The fragrance is surely from <position>, wouldn’t you say?
+The fragrance is undoubtedly from <position>, isn't it?
+The fragrance likely comes from <position>, doesn't it?
+The fragrance likely comes from <position>, isn’t it?
+The fragrance likely comes from <position>, right?
+The fragrance looks as though it is from <position>, doesn't it?
+The fragrance looks like it comes from <position>, right?
+The fragrance looks like it could be from <position>, doesn't it?
+The fragrance looks like it originates from <position>, doesn't it?
+The fragrance looks like it's from <position>, doesn't it?
+The fragrance most likely comes from <position>, right?
+The fragrance must be coming from <position>, isn’t it?
+The fragrance must be coming from <position>, right?
+The fragrance must be from <position>, am I right?
+The fragrance must be from <position>, correct?
+The fragrance must be from <position>, is it not?
+The fragrance must be from <position>, isn't it?
+The fragrance must be from <position>, right?
+The fragrance must come from <position>, doesn’t it?
+The fragrance must come from <position>, right?
+The fragrance must originate from <position>, right?
+The fragrance must surely be from <position>, right?
+The fragrance must surely come from <position>, right?
+The fragrance originates from <position>, correct?
+The fragrance originates from <position>, doesn't it?
+The fragrance originates from <position>, isn't it?
+The fragrance originates from <position>, isn’t it?
+The fragrance originates from <position>, it seems.
+The fragrance originates from <position>, right?
+The fragrance seems to be coming from <position>, do you catch it?
+The fragrance seems to be coming from <position>, right?
+The fragrance seems to be from <position>, can you sense it too?
+The fragrance seems to be from <position>, can you smell it too?
+The fragrance seems to be from <position>, do you pick it up too?
+The fragrance seems to be from <position>, do you sense it too?
+The fragrance seems to be from <position>, do you smell it?
+The fragrance seems to be from <position>, doesn't it?
+The fragrance seems to be from <position>, no?
+The fragrance seems to be from <position>, right?
+The fragrance seems to come from <position>, doesn't it?
+The fragrance seems to come from <position>, doesn’t it?
+The fragrance seems to come from <position>, isn’t it?
+The fragrance seems to come from <position>, right?
+The fragrance seems to come from <position>, wouldn't you agree?
+The fragrance seems to originate from <position>, doesn't it?
+The fragrance seems to originate from <position>, right?
+The fragrance surely comes from <position>, doesn't it?
+The fragrance surely comes from <position>, doesn’t it?
+The fragrance surely comes from <position>, right?
+The fragrance surely originates from <position>, right?
+The scent appears to be from <position>, doesn't it?
+The scent appears to be from <position>, right?
+The scent appears to be from <position>, wouldn't you say?
+The scent appears to come from <position>, doesn't it?
+The scent appears to come from <position>, right?
+The scent clearly comes from <position>, right?
+The scent comes from <position>, I imagine?
+The scent comes from <position>, doesn't it now?
+The scent comes from <position>, doesn't it?
+The scent comes from <position>, isn't that right?
+The scent comes from <position>, isn’t that right?
+The scent comes from <position>, it seems.
+The scent comes from <position>, it's clear, isn't it?
+The scent comes from <position>, no?
+The scent comes from <position>, right, doesn't it?
+The scent comes from <position>, right?
+The scent comes from <position>, wouldn't it?
+The scent comes from <position>, wouldn't you say?
+The scent comes from <position>, yeah?
+The scent could be from <position>, don't you think?
+The scent could be from <position>, right?
+The scent definitely comes from <position>, doesn't it?
+The scent definitely comes from <position>, doesn’t it?
+The scent definitely originates from <position>, doesn't it?
+The scent definitely originates from <position>, right?
+The scent emanates from <position>, doesn't it now?
+The scent emanates from <position>, doesn't it?
+The scent emanates from <position>, no?
+The scent has to be from <position>, doesn’t it?
+The scent has to be from <position>, right?
+The scent has to come from <position>, correct?
+The scent has to come from <position>, right?
+The scent is clearly from <position>, right?
+The scent is coming from <position>, I guess?
+The scent is coming from <position>, are you smelling it too?
+The scent is coming from <position>, can you sense it too?
+The scent is coming from <position>, can you smell it as well?
+The scent is coming from <position>, do you catch it?
+The scent is coming from <position>, do you detect it too?
+The scent is coming from <position>, do you pick it up too?
+The scent is coming from <position>, do you pick it up?
+The scent is coming from <position>, do you recognize it too?
+The scent is coming from <position>, do you sense it?
+The scent is coming from <position>, do you smell it too?
+The scent is coming from <position>, don't you think?
+The scent is coming from <position>, isn't it?
+The scent is coming from <position>, isn’t that true?
+The scent is coming from <position>, right?
+The scent is definitely coming from <position>, right?
+The scent is definitely from <position>, isn't it?
+The scent is definitely from <position>, isn’t it?
+The scent is definitely from <position>, right?
+The scent is drifting from <position>, do you notice it too?
+The scent is evidently from <position>, isn't it?
+The scent is from <position>, I believe?
+The scent is from <position>, I suppose, right?
+The scent is from <position>, I suppose?
+The scent is from <position>, do you catch it?
+The scent is from <position>, do you pick up on it too?
+The scent is from <position>, do you smell it too?
+The scent is from <position>, don't you agree?
+The scent is from <position>, don't you think?
+The scent is from <position>, is it not so?
+The scent is from <position>, is it not?
+The scent is from <position>, is that not the case?
+The scent is from <position>, isn't it obvious?
+The scent is from <position>, isn't it plain to see?
+The scent is from <position>, isn't it so?
+The scent is from <position>, isn't it?
+The scent is from <position>, isn't that correct?
+The scent is from <position>, isn't that obvious?
+The scent is from <position>, isn't that so?
+The scent is from <position>, isn’t it true?
+The scent is from <position>, isn’t that right?
+The scent is from <position>, it seems, doesn't it?
+The scent is from <position>, it's evident, isn't it?
+The scent is from <position>, it's pretty obvious, isn't it?
+The scent is from <position>, no doubt about it?
+The scent is from <position>, no?
+The scent is from <position>, right, isn't it?
+The scent is from <position>, right?
+The scent is from <position>, that's true, isn't it?
+The scent is from <position>, wouldn't that be right?
+The scent is from <position>, wouldn't you agree?
+The scent is from <position>, wouldn't you say?
+The scent is from <position>, you would agree, wouldn't you?
+The scent is likely from <position>, isn't it?
+The scent is likely from <position>, wouldn't it?
+The scent is likely from <position>, wouldn't you say?
+The scent is most definitely from <position>, right?
+The scent is most likely from <position>, don't you think?
+The scent is most likely from <position>, isn't it?
+The scent is most likely from <position>, isn’t it?
+The scent is most likely from <position>, no?
+The scent is originating from <position>, isn’t it?
+The scent is probably from <position>, isn't it?
+The scent is surely from <position>, isn’t it?
+The scent is surely from <position>, right?
+The scent is undoubtedly from <position>, isn't it?
+The scent is wafting from <position>, can you pick it up?
+The scent likely comes from <position>, doesn't it?
+The scent looks as though it is from <position>, doesn't it?
+The scent looks like it comes from <position>, right?
+The scent looks like it could be from <position>, doesn't it?
+The scent looks like it originates from <position>, doesn't it?
+The scent looks like it's from <position>, right?
+The scent must be coming from <position>, right?
+The scent must be from <position>, am I right?
+The scent must be from <position>, doesn't it?
+The scent must be from <position>, is it not?
+The scent must be from <position>, isn't it?
+The scent must be from <position>, right?
+The scent must come from <position>, correct?
+The scent must come from <position>, right?
+The scent must originate from <position>, correct?
+The scent must originate from <position>, doesn't it?
+The scent must originate from <position>, right?
+The scent must surely be from <position>, right?
+The scent originates from <position>, doesn't it?
+The scent originates from <position>, doesn’t it?
+The scent originates from <position>, isn’t it right?
+The scent originates from <position>, it seems.
+The scent originates from <position>, right?
+The scent seems to be coming from <position>, right?
+The scent seems to be from <position>, doesn't it?
+The scent seems to be from <position>, isn't it?
+The scent seems to be from <position>, no?
+The scent seems to be from <position>, right?
+The scent seems to come from <position>, don’t you think?
+The scent seems to come from <position>, right?
+The scent seems to come from <position>, wouldn't you agree?
+The scent seems to originate from <position>, doesn’t it?
+The scent seems to originate from <position>, right?
+The scent seems to originate from <position>, wouldn't you say?
+The scent surely comes from <position>, doesn't it?
+The scent surely comes from <position>, doesn’t it?
+The scent surely comes from <position>, right?
+The scent surely originates from <position>, doesn't it?
+The scent surely originates from <position>, doesn’t it?
+The scent surely originates from <position>, right?
+The smell is coming from <position>, are you picking it up too?
+The smell is coming from <position>, are you picking it up?
+The smell is coming from <position>, can you detect it?
+The smell is coming from <position>, do you catch it too?
+The smell is coming from <position>, do you notice it too?
+The smell is coming from <position>, do you sense it as well?
+The smell is coming from <position>, do you smell it too?
+The smell is definitely from <position>, isn’t it?
+The smell is from <position>, do you pick up on it?
+The smell is from <position>, isn’t it?
+The smell is from <position>, right?
+The smell is most likely from <position>, isn't it?
+The smell likely comes from <position>, doesn’t it?
+The smell must be from <position>, isn’t that right?
+The smell must come from <position>, right?
+The smell must originate from <position>, doesn’t it?
+The smell originates from <position>, doesn't it?
+The smell originates from <position>, doesn’t it?
+The smell surely comes from <position>, right?
+There's a fragrance coming from <position>, can you pick it up?
+There's a fragrance coming from <position>, can you smell it too?
+There's a fragrance coming from <position>, do you detect it?
+There's a fragrance coming from <position>, do you notice it as well?
+There's a fragrance coming from <position>, do you recognize it?
+There's a fragrance coming from <position>, do you sense it?
+There's a fragrance coming from <position>, do you smell it?
+There's a fragrance from <position>, do you detect it?
+There's a fragrance from <position>, do you sense it too?
+There's a fragrance from <position>, do you smell it?
+There's a fragrance wafting from <position>, can you smell it?
+There's a scent coming from <position>, can you pick it up?
+There's a scent coming from <position>, do you catch it?
+There's a scent from <position>, can you detect it?
+There's a scent from <position>, do you smell it as well?
+There's a smell coming from <position>, can you detect it?
+There's a smell coming from <position>, do you detect it too?
+There's a smell coming from <position>, do you pick it up as well?
+There's a smell coming from <position>, do you smell it as well?
+There's a smell drifting from <position>, do you notice it?
+There's an aroma coming from <position>, do you perceive it?
+There's an aroma coming from <position>, do you pick it up?
+There's an aroma coming from <position>, do you smell it as well?
+There's an aroma coming from <position>, do you smell it too?
+There's an aroma from <position>, do you smell it too?
+There's an aroma wafting from <position>, do you smell it too?
+This fragrance is from <position>, right?
