@@ -1,12 +1,7 @@
 # CIAO
 [2025EMNLP] "Where Does This Strange Smell Come from?": Enabling Conversational Interfaces for Artificial Olfaction
 
-<<<<<<< HEAD
 
-## Update
-
-The corpus will be released after November 25, 2025.
-=======
 # Abstract
 We explore the feasibility and usability of a Conversational Interfaces for Artificial Olfaction (CIAO) system using Large Language Models (LLMs) in Smart Home. We made the first olfaction-oriented corpus for LLM evaluation, as well as an olfaction dataset via a self-developed olfactory sensory network.
 
