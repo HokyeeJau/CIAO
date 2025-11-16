@@ -1,0 +1,833 @@
+Are you able to detect the odor of the <object>?
+Are you able to feel the smell from the <object>?
+Are you able to identify the <object> by its smell?
+Are you able to identify the smell source as the <object>?
+Are you able to perceive the <object>'s smell?
+Are you able to perceive the aroma in the <object>?
+Are you able to pick up a fragrance and link it to the <object>?
+Are you able to sense the <object>'s aromatic qualities?
+Are you able to smell anything related to the <object>?
+Are you able to smell the <object>?
+Are you able to sniff the <object>?
+Are you absorbing the odor of the <object>?
+Are you absorbing the scent of the <object>?
+Are you actively checking the odor of the <object>?
+Are you actively engaging with the smell of the <object>?
+Are you actively engaging your nose with the <object>?
+Are you actively smelling the <object>?
+Are you actively sniffing the <object>?
+Are you affected by the smell of the <object>?
+Are you alert to the smell of the <object>?
+Are you appreciating the scent of the <object>?
+Are you assessing the fragrance of the <object>?
+Are you assessing the freshness of the <object> through smell?
+Are you associating a smell with the <object>?
+Are you attempting to detect the scent of the <object>?
+Are you attempting to evaluate the smell of the <object>?
+Are you attempting to inhale the scent of the <object>?
+Are you aware of a smell from the <object>?
+Are you aware of a smell that suggests the <object>?
+Are you aware of something that smells like a <object>?
+Are you aware of the <object>'s fragrance?
+Are you aware of the <object>'s scent?
+Are you aware of the fragrance around the <object>?
+Are you aware of the smell of the <object>?
+Are you aware of what the <object> smells like?
+Are you aware that the <object> emits a scent?
+Are you aware that the <object> smells?
+Are you being affected by the smell of the <object>?
+Are you breathing deeply around the <object>?
+Are you breathing in around the <object>?
+Are you breathing in the <object>'s aroma?
+Are you breathing in the smell of the <object>?
+Are you breathing in to check the smell of the <object>?
+Are you breathing in what the <object> emits?
+Are you breathing near the <object> to smell it?
+Are you breathing through your nose near the <object>?
+Are you breathing to analyze the scent of the <object>?
+Are you catching a hint of the <object>?
+Are you catching a note of the <object>?
+Are you catching a trace of the <object>'s scent?
+Are you catching a whiff of the <object>?
+Are you catching any whiff from the <object>?
+Are you catching that smell? It might be the <object>.
+Are you catching that the <object> has a smell?
+Are you catching the fragrance that comes from the <object>?
+Are you catching the scent of the <object>?
+Are you catching the smell of the <object>?
+Are you catching the smell wafting from the <object>?
+Are you catching the whiff of the <object> again?
+Are you categorizing the smell of the <object>?
+Are you cautiously smelling the <object>?
+Are you certain the smell is from the <object>?
+Are you chasing the smell of the <object>?
+Are you checking how the <object> smells?
+Are you checking if the <object> has a scent?
+Are you checking the smell of the <object>?
+Are you checking what smell the <object> has?
+Are you clarifying the source of the smell—is it the <object>?
+Are you close enough to smell the <object>?
+Are you comparing the scent of the <object> with others?
+Are you comparing the scent of the <object>?
+Are you comparing the smell of the <object> to something?
+Are you concentrating on the odor near the <object>?
+Are you concentrating on the odor of the <object>?
+Are you concentrating on the smell of the <object>?
+Are you confirming the scent is from the <object>?
+Are you currently breathing in the <object>?
+Are you currently catching aroma from the <object>?
+Are you currently detecting the smell of the <object>?
+Are you currently drawing in the smell of the <object>?
+Are you currently experiencing olfactory cues from the <object>?
+Are you currently inhaling softly around the <object>?
+Are you currently noticing the <object>'s smell?
+Are you currently picking up the scent of the <object>?
+Are you currently sampling the air around the <object>?
+Are you currently sensing smell coming off the <object>?
+Are you currently smelling the <object>?
+Are you deep-sniffing the <object>?
+Are you deliberately bringing your nose to the <object>?
+Are you deliberately catching aroma from the <object>?
+Are you deliberately detecting odor from the <object>?
+Are you deliberately engaging your nose with the <object>?
+Are you deliberately exploring the scent of the <object>?
+Are you deliberately feeling the presence of the smell of the <object>?
+Are you deliberately focusing on the smell of the <object>?
+Are you deliberately grasping the scent of the <object>?
+Are you deliberately inhaling near the <object>?
+Are you deliberately inhaling softly around the <object>?
+Are you deliberately letting the aroma reach you from the <object>?
+Are you deliberately noticing any scent from the <object>?
+Are you deliberately smelling nearby the <object>?
+Are you deliberately trying to smell the <object>?
+Are you deliberately using your nose on the <object>?
+Are you detecting a smell that might be the <object>?
+Are you detecting an aroma from the <object>?
+Are you detecting anything from the <object>?
+Are you detecting anything pungent from the <object>?
+Are you detecting the fragrance of the <object>?
+Are you detecting the scent of the <object>?
+Are you detecting the smell coming off the <object>?
+Are you detecting the smell of the <object>?
+Are you detecting the source of the scent as the <object>?
+Are you determining the <object>'s identity by scent?
+Are you determining the source of that smell—is it the <object>?
+Are you directing your nose toward the <object>?
+Are you distinguishing the smell of the <object>?
+Are you doing a smell test on the <object>?
+Are you doing a smell-check on the <object>?
+Are you drawing in the fragrance of the <object>?
+Are you drawing in the smell of the <object>?
+Are you encountering the smell of the <object>?
+Are you engaged in smelling the <object>?
+Are you engaging with the smell of the <object>?
+Are you engaging your nose on the <object>?
+Are you engaging your nose with the <object>?
+Are you enjoying the aroma of the <object>?
+Are you ensuring that scent is from the <object>?
+Are you evaluating the aroma of the <object>?
+Are you evaluating the odor of the <object>?
+Are you examining aroma from the <object>?
+Are you examining how strong the smell of the <object> is?
+Are you examining the aroma from the <object>?
+Are you examining the fragrance the <object> gives off?
+Are you examining the odor of the <object>?
+Are you examining the scent coming from the <object>?
+Are you examining the scent of the <object>?
+Are you examining what the <object> smells like?
+Are you examining whether the smell comes from the <object>?
+Are you expecting a fragrance from the <object>?
+Are you experiencing a strong <object>-like smell?
+Are you experiencing any aroma from the <object>?
+Are you experiencing fragrance from the <object>?
+Are you experiencing the <object> through smell right now?
+Are you experiencing the <object>'s fragrance?
+Are you experiencing the aroma of the <object>?
+Are you experiencing the odor of the <object>?
+Are you experiencing the scent of the <object>?
+Are you experiencing what the <object> smells like?
+Are you exploring how the <object> smells?
+Are you exploring if the <object> is the source of that scent?
+Are you exploring the air around the <object>?
+Are you exploring the odor coming from the <object>?
+Are you exploring the scent of the <object>?
+Are you exploring the way the <object> smells?
+Are you feeling the aroma of the <object>?
+Are you feeling the scent of the <object>?
+Are you figuring out the nature of the <object>'s odor?
+Are you figuring out the smell from the <object>?
+Are you filtering air for signs of the <object>?
+Are you filtering out other smells to isolate the <object>?
+Are you finding it easy to smell the <object>?
+Are you focused on the odor of the <object>?
+Are you focusing on extracting scent from the <object>?
+Are you focusing on the scent of the <object>?
+Are you focusing on the smell of the <object>?
+Are you focusing on what the <object> smells like?
+Are you focusing your nose on the <object>?
+Are you focusing your senses on the <object>?
+Are you gauging if the <object> has gone bad by its smell?
+Are you gauging the <object>'s condition by its scent?
+Are you gauging the potency of the smell from the <object>?
+Are you gauging the smell of the <object>?
+Are you gently inhaling near the <object>?
+Are you gently sniffing the <object>?
+Are you getting a fragrant trace of the <object>?
+Are you getting a noseful of the <object>?
+Are you getting a trace of the <object>'s scent?
+Are you getting a whiff from the <object>?
+Are you getting a whiff of the <object>?
+Are you getting an odor that resembles the <object>?
+Are you getting any fragrance from the <object>?
+Are you getting any hint of the <object>'s smell?
+Are you getting any smell off the <object>?
+Are you getting close to smell the <object>?
+Are you getting the <object>'s fragrance?
+Are you getting the same smell I am—from the <object>?
+Are you getting the smell from the <object> or something else?
+Are you getting the smell from the <object>?
+Are you giving the <object> a long sniff?
+Are you giving the <object> a sniff?
+Are you grasping the scent of the <object>?
+Are you holding the <object> near your face to smell it?
+Are you hoping to detect a smell from the <object>?
+Are you hovering over the <object> to catch the scent?
+Are you identifying fragrance from the <object>?
+Are you identifying the scent as coming from the <object>?
+Are you identifying the smell of the <object>?
+Are you immersed in the odor of the <object>?
+Are you immersed in the scent of the <object>?
+Are you inhaling aroma from the <object>?
+Are you inhaling from the <object>?
+Are you inhaling near the <object>?
+Are you inhaling the <object>'s essence?
+Are you inhaling the <object>'s scent?
+Are you inhaling the air around the <object>?
+Are you inhaling the scent from the <object>?
+Are you inhaling the scent of the <object>?
+Are you inhaling to sense the smell of the <object>?
+Are you inhaling what seems like the <object>?
+Are you inspecting how the <object> smells?
+Are you inspecting the <object> through smell?
+Are you inspecting the olfactory profile of the <object>?
+Are you inspecting the scent of the <object>?
+Are you intentionally smelling the <object>?
+Are you interacting with the <object> via scent?
+Are you interacting with the fragrance of the <object>?
+Are you interacting with the smell of the <object>?
+Are you interpreting the scent from the <object>?
+Are you interpreting the scent of the <object>?
+Are you investigating the smell near the <object>?
+Are you investigating the smell of the <object>?
+Are you inviting scent from the <object>?
+Are you judging the smell of the <object>?
+Are you leaning close to the <object> to smell it?
+Are you leaning closer to the <object> for its scent?
+Are you leaning in for a whiff of the <object>?
+Are you leaning in to catch scent from the <object>?
+Are you leaning in to smell the <object>?
+Are you leaning in to sniff the <object>?
+Are you leaning into the <object> to get a better sniff?
+Are you letting the aroma reach you from the <object>?
+Are you letting the odor from the <object> reach you?
+Are you letting the scent of the <object> reach you?
+Are you letting the scent of the <object> reach your nose?
+Are you letting your nose test the <object>?
+Are you letting your senses explore the <object>?
+Are you linking that smell to the <object>?
+Are you locating the scent of the <object>?
+Are you locating the scent source—could it be the <object>?
+Are you making a scent memory of the <object>?
+Are you making sense of the odor from the <object>?
+Are you maybe breathing in scent from the <object>?
+Are you maybe detecting odor from the <object>?
+Are you maybe examining the scent of the <object>?
+Are you maybe focusing on the smell of the <object>?
+Are you maybe letting the scent of the <object> reach you?
+Are you maybe sniffing near the <object>?
+Are you maybe trying to smell the <object>?
+Are you measuring how strong the smell of the <object> is?
+Are you narrowing in on the smell from the <object>?
+Are you navigating by scent toward the <object>?
+Are you near enough to the <object> to smell it?
+Are you noticing a scent around the <object>?
+Are you noticing a scent from the <object>?
+Are you noticing a scent similar to the <object>?
+Are you noticing a smell linked to the <object>?
+Are you noticing a trace of scent from the <object>?
+Are you noticing an odor from the <object>?
+Are you noticing any scent from the <object>?
+Are you noticing how the <object> affects the air?
+Are you noticing that the air smells like the <object>?
+Are you noticing the odor of the <object>?
+Are you noticing the smell of the <object>?
+Are you observing how the <object> smells?
+Are you observing the fragrance of the <object>?
+Are you observing the smell from the <object>?
+Are you perceiving a smell from the <object>?
+Are you perceiving the scent of the <object>?
+Are you perceiving the smell of the <object>?
+Are you picking up a scent trail from the <object>?
+Are you picking up a smell that suggests the <object>?
+Are you picking up a strong smell from the <object>?
+Are you picking up fragrance from the <object>?
+Are you picking up on the smell of the <object>?
+Are you picking up the fragrance of the <object>?
+Are you picking up the scent of the <object>?
+Are you picking up the smell of the <object>?
+Are you possibly detecting odor from the <object>?
+Are you possibly inhaling near the <object>?
+Are you prioritizing the smell of the <object>?
+Are you processing the air near the <object> with your nose?
+Are you processing the smell of the <object>?
+Are you reacting to something from the <object>?
+Are you reacting to the aroma of the <object>?
+Are you reacting to the fragrance of the <object>?
+Are you reacting to the odor of the <object>?
+Are you reacting to the smell of the <object>?
+Are you ready to sense the fragrance of the <object>?
+Are you receiving any scent signals from the <object>?
+Are you receiving scent signals from the <object>?
+Are you receiving the scent of the <object>?
+Are you responding to a scent from the <object>?
+Are you responding to the scent of the <object>?
+Are you responding to the smell of the <object>?
+Are you sampling the scent of the <object>?
+Are you scanning the air for scent from the <object>?
+Are you searching for the odor from the <object>?
+Are you searching for the origin of the smell—could it be the <object>?
+Are you searching for the smell of the <object>?
+Are you sensing a strong odor from the <object>?
+Are you sensing anything unusual from the <object>?
+Are you sensing fragrance from the <object>?
+Are you sensing smell coming off the <object>?
+Are you sensing something aromatic—is it the <object>?
+Are you sensing that the <object> is close because of its scent?
+Are you sensing the fragrance of the <object>?
+Are you sensing the odor of the <object>?
+Are you sensitive to the <object>'s smell?
+Are you sifting through smells to detect the <object>?
+Are you smelling air surrounding the <object>?
+Are you smelling anything from the <object>?
+Are you smelling aroma from the <object>?
+Are you smelling near the <object>?
+Are you smelling something from the <object>?
+Are you smelling something off the <object>?
+Are you smelling something strange in the <object>?
+Are you smelling something that comes from the <object>?
+Are you smelling that <object>?
+Are you smelling the <object> right now?
+Are you smelling the <object>?
+Are you smelling the air around the <object>?
+Are you smelling the air surrounding the <object>?
+Are you smelling the aroma of the <object>?
+Are you smelling the essence of the <object>?
+Are you smelling the same thing as the <object>?
+Are you smelling the surface of the <object>?
+Are you smelling to see what the <object> is?
+Are you smelling what I think is the <object>?
+Are you smelling what I think you're smelling from the <object>?
+Are you smelling what the <object> gives off?
+Are you smelling what's coming from the <object>?
+Are you smelling what’s near the <object>?
+Are you sniffing around the <object>?
+Are you sniffing at the <object>?
+Are you sniffing out the <object>?
+Are you sniffing out the scent of the <object>?
+Are you sniffing the <object> right now?
+Are you sniffing the <object>?
+Are you sniffing the air around the <object>?
+Are you sniffing to check the <object>?
+Are you sniffing to find out what the <object> smells like?
+Are you soaking in the fragrance of the <object>?
+Are you still catching the smell of the <object>?
+Are you still checking the scent of the <object>?
+Are you still engaging your sense of smell with the <object>?
+Are you still experiencing the odor of the <object>?
+Are you still smelling the <object>?
+Are you still sniffing the <object>?
+Are you still testing the scent of the <object>?
+Are you still trying to smell the <object>?
+Are you stimulating your sense of smell with the <object>?
+Are you studying how the <object> smells?
+Are you sure that scent isn’t the <object>?
+Are you sure that’s not the <object> you’re smelling?
+Are you sure you're smelling the <object>?
+Are you surrounded by the scent of the <object>?
+Are you surrounding yourself with the scent of the <object>?
+Are you taking a deep breath near the <object>?
+Are you taking a sniff of the <object>?
+Are you taking in how the <object> smells?
+Are you taking in the air around the <object>?
+Are you taking in the odor of the <object>?
+Are you taking in the scent of the <object>?
+Are you taking notice of the <object>'s scent?
+Are you targeting the smell of the <object>?
+Are you testing if the <object> smells good?
+Are you testing the smell of the <object>?
+Are you thinking about how the <object> smells?
+Are you tracing a scent to the <object>?
+Are you tracking the scent trail from the <object>?
+Are you translating the smell of the <object> in your mind?
+Are you trying to catch the scent coming off the <object>?
+Are you trying to catch the smell of the <object>?
+Are you trying to classify the smell of the <object>?
+Are you trying to describe the smell of the <object>?
+Are you trying to detect any foul smell from the <object>?
+Are you trying to detect the fragrance of the <object>?
+Are you trying to determine the smell of the <object>?
+Are you trying to engage with the scent of the <object>?
+Are you trying to figure out what the <object> smells like?
+Are you trying to identify the smell of the <object>?
+Are you trying to pick up the smell of the <object>?
+Are you trying to register the aroma from the <object>?
+Are you trying to sense an aroma from the <object>?
+Are you trying to sense the essence of the <object>?
+Are you trying to smell anything from the <object>?
+Are you trying to smell the <object> more clearly?
+Are you trying to smell the <object>?
+Are you trying to smell the inside of the <object>?
+Are you trying to sniff out the <object>?
+Are you tuned in to the fragrance of the <object>?
+Are you tuned in to the scent of the <object>?
+Are you tuned into the odor of the <object>?
+Are you tuned into what the <object> smells like?
+Are you tuning your nose to the <object>?
+Are you undergoing the aroma from the <object>?
+Are you using your breath to pick up the <object>'s smell?
+Are you using your intuition to smell the <object>?
+Are you using your nose near the <object>?
+Are you using your nose on the <object>?
+Are you using your nose to assess the <object>?
+Are you using your sense of smell on the <object>?
+Are you verifying the scent of the <object>?
+Are you verifying the smell of the <object>?
+Are you verifying whether it's the <object> you're smelling?
+Are you wondering what the <object> smells like?
+Are you working to identify the smell of the <object>?
+Are you zeroing in on the scent of the <object>?
+Are your nostrils flaring from the <object>'s odor?
+Are your nostrils picking up the <object>'s smell?
+Are your olfactory senses picking up the <object>?
+Are your olfactory senses registering the <object>?
+Are your senses detecting the smell of the <object>?
+Are your senses picking up the <object>'s aroma?
+Are your senses registering the scent of the <object>?
+Can you associate that odor with the <object>?
+Can you associate this smell with the <object>?
+Can you catch a faint whiff of the <object>?
+Can you catch a note of the <object>'s aroma?
+Can you catch a whiff of the <object>?
+Can you catch a whiff of what might be the <object>?
+Can you catch the scent of the <object>?
+Can you catch the smell in the air from the <object>?
+Can you clearly smell the <object> in the air?
+Can you clearly smell the <object>?
+Can you compare that smell to the <object>?
+Can you confirm the smell as that of the <object>?
+Can you detect a faint smell of the <object>?
+Can you detect a hint of the <object>'s fragrance?
+Can you detect any fragrance from the <object> yet?
+Can you detect anything that smells like the <object>?
+Can you detect if the <object> is emitting a fragrance?
+Can you detect that the <object> is giving off a smell?
+Can you detect the fragrance in the air—is it the <object>?
+Can you detect the smell of the <object>?
+Can you differentiate the <object>'s smell?
+Can you distinguish the <object> by its aroma?
+Can you distinguish the <object>'s odor?
+Can you distinguish the <object>'s scent in the air?
+Can you feel the <object>'s scent in your environment?
+Can you feel the <object>'s smell in the air?
+Can you feel the air is scented by the <object>?
+Can you feel the presence of the <object> through its smell?
+Can you feel the scent of the <object>?
+Can you get a hint of the <object>'s odor?
+Can you get a whiff of the <object>?
+Can you get any scent from the <object>?
+Can you get the smell of the <object> through the breeze?
+Can you identify that as the smell of the <object>?
+Can you identify that smell as the <object>?
+Can you identify the <object> by its smell in this moment?
+Can you identify the smell of the <object>?
+Can you inhale the fragrance of the <object>?
+Can you isolate the scent of the <object>?
+Can you locate the smell—does it point to the <object>?
+Can you make out the odor—is it the <object>?
+Can you make out the scent of the <object>?
+Can you notice the scent coming from the <object>?
+Can you perceive any fragrance from the <object> around you?
+Can you perceive the <object>'s scent?
+Can you perceive the distinct smell of the <object>?
+Can you perceive the fragrance from the <object>?
+Can you pick out the <object>'s fragrance?
+Can you pick up even a faint smell from the <object>?
+Can you pick up on the <object>'s trace scent?
+Can you pick up on the typical smell of the <object>?
+Can you pick up the scent of the <object>?
+Can you recognize that scent as the <object>?
+Can you recognize the <object> just by its smell?
+Can you recognize the aroma from the <object>?
+Can you recognize the scent as the <object>?
+Can you relate that smell to the <object>?
+Can you say with confidence that’s the <object>?
+Can you sense any odor from the <object>?
+Can you sense that the <object> is nearby through its scent?
+Can you sense the <object>'s odor?
+Can you sense the air around the <object> is scented?
+Can you sense the aroma of the <object>?
+Can you sense the olfactory effect of the <object>?
+Can you sense the presence of the <object> by its odor?
+Can you sense the subtle scent of the <object>?
+Can you smell anything unusual from the <object>?
+Can you smell something like the <object>?
+Can you smell something that reminds you of the <object>?
+Can you smell that the <object> is nearby?
+Can you smell that? Is it the <object>?
+Can you smell the <object>?
+Can you smell the characteristic scent of the <object>?
+Can you smell the difference in the <object>?
+Can you smell the odor coming from the <object>?
+Can you smell the odor of the <object> from here?
+Can you smell the presence of the <object>?
+Can you smell the scent coming off the <object>?
+Can you smell the source—is it the <object>?
+Can you smell what appears to be the <object>?
+Can you smell what smells like the <object>?
+Can you smell what's coming from the <object>?
+Can you sniff out the <object>?
+Can you tell if the smell is from the <object>?
+Can you tell that it’s the <object> by the smell?
+Can you tell that the <object> has a smell?
+Can you tell what that smell is? Is it the <object>?
+Can you tell what the <object> smells like?
+Can you trace that smell back to the <object>?
+Can you trace the smell back to the <object>?
+Can you verify that odor as the <object>'s?
+Can your nose confirm the presence of the <object>?
+Can your nose identify the <object>'s odor?
+Can your nose pick up the <object>'s scent?
+Can your nose sense the <object>'s presence?
+Can your sense of smell pick up the <object>'s odor?
+Can your sense of smell pick up the <object>?
+Can your senses detect the <object>?
+Can your senses pick up the smell of the <object>?
+Could it be the <object> that you’re smelling?
+Could that odor be from the <object>?
+Could that smell be originating from the <object>?
+Could the smell possibly be from the <object>?
+Could you be breathing in scent from the <object>?
+Could you be detecting a smell from the <object>?
+Could you be picking up the fragrance of the <object>?
+Could you be smelling the <object>?
+Could you possibly be catching aroma from the <object>?
+Could you possibly be detecting scent from the <object>?
+Could you possibly be experiencing the fragrance of the <object>?
+Could you possibly be trying to sniff the <object>?
+Could you possibly be using your nose on the <object>?
+Could you say that’s the smell of the <object>?
+Did the <object> catch your attention via scent?
+Did you detect a smell from the <object>?
+Did you just smell the <object>?
+Did you notice a scent from the <object>?
+Did you smell the <object>?
+Did you take a breath near the <object>?
+Do you associate that scent with the <object>?
+Do you catch the <object>'s aroma?
+Do you catch the <object>'s smell as soon as you enter the room?
+Do you catch the odor of the <object>?
+Do you detect a fragrance from the <object>?
+Do you detect a smell related to the <object>?
+Do you detect an odor from the <object>?
+Do you detect any olfactory signal from the <object>?
+Do you detect that the <object> is emitting a smell?
+Do you detect the aroma coming from the <object>?
+Do you detect the aroma of the <object>?
+Do you experience the scent of the <object>?
+Do you feel like it smells like the <object>?
+Do you feel like the smell is unmistakably from the <object>?
+Do you feel the <object>'s aroma in the air?
+Do you feel the <object>'s odor in the air?
+Do you feel the air is infused with the <object>'s smell?
+Do you feel the scent in the air from the <object>?
+Do you feel the scent of the <object> in the air?
+Do you feel the smell of the <object> is strong?
+Do you feel the smell of the <object>?
+Do you find the <object>'s odor easy to detect?
+Do you find the smell of the <object> obvious?
+Do you find the smell similar to the <object>?
+Do you find yourself detecting odor from the <object>?
+Do you find yourself sniffing around the <object>?
+Do you find yourself testing the scent of the <object>?
+Do you get a scent impression from the <object>?
+Do you get an instant scent signal from the <object>?
+Do you get any aroma from the <object>?
+Do you get the aroma of the <object>?
+Do you get the impression of the <object> through its smell?
+Do you get the smell of the <object> when near it?
+Do you happen to be breathing in near the <object>?
+Do you happen to be catching the scent of the <object>?
+Do you happen to be detecting fragrance from the <object>?
+Do you happen to be experiencing the smell of the <object>?
+Do you happen to be sniffing close to the <object>?
+Do you happen to be trying to catch the aroma of the <object>?
+Do you happen to be using your sense of smell on the <object>?
+Do you happen to smell something from the <object>?
+Do you have any idea what the <object> smells like?
+Do you inhale the scent of the <object>?
+Do you inhale the smell of the <object>?
+Do you know what the <object> smells like just by sniffing?
+Do you notice a fragrance coming from the <object>?
+Do you notice anything about the <object>'s smell?
+Do you notice the <object>'s smell?
+Do you notice the aroma left by the <object>?
+Do you notice the smell of the <object>?
+Do you perceive a scent from the <object>?
+Do you perceive anything from the <object>'s smell?
+Do you perceive the scent of the <object>?
+Do you pick up on the scent of the <object>?
+Do you pick up on the smell of the <object>?
+Do you pick up on what the <object> smells like?
+Do you recognize the <object> by its scent?
+Do you recognize the scent of the <object>?
+Do you recognize the smell as that of a <object>?
+Do you recognize the smell of the <object>?
+Do you register the smell of the <object>?
+Do you sense any aromatic presence of the <object>?
+Do you sense any fragrance from the <object>?
+Do you sense something that smells like the <object>?
+Do you sense the <object>'s fragrance?
+Do you sense the <object>'s olfactory signature?
+Do you sense the presence of the <object> through its smell?
+Do you smell aroma from the <object>?
+Do you smell something coming from the <object>?
+Do you smell something like the <object> nearby?
+Do you smell the <object> in this room?
+Do you smell the <object> more now than before?
+Do you smell the <object>?
+Do you smell the faint aroma of the <object>?
+Do you smell the familiar scent of a <object>?
+Do you smell the fragrance of the <object>?
+Do you smell the fragrance the <object> gives off?
+Do you smell the odor coming from the <object>?
+Do you smell the scent emitted by the <object>?
+Do you smell what I think is the <object>?
+Do you smell what the <object> is giving off?
+Do you smell what's in the air from the <object>?
+Do you smell what’s coming from the <object>?
+Do you smell what’s coming off the <object>?
+Do you think that fragrance is the <object>?
+Do you think that smell is the <object>?
+Do you think that smell is tied to the <object>?
+Do you think that's the <object> you're smelling?
+Do you think the <object> has that kind of smell?
+Do you think the fragrance belongs to the <object>?
+Do you think the scent belongs to the <object>?
+Do you think the smell is coming off the <object>?
+Do you think the smell leads us to the <object>?
+Do you think the smell might be from the <object>?
+Do you think you smell the <object>?
+Do you think you're inhaling scent from the <object>?
+Do you think you're picking up the smell of the <object>?
+Do you think you're reacting to the smell of the <object>?
+Do you think your nose caught the <object>?
+Do you think you’re sensing the <object>'s odor?
+Do you think you’re smelling a trace of the <object>?
+Do you think you’re smelling the <object>?
+Does it seem like the <object> has a strong odor?
+Does it seem like the <object> is emitting that odor?
+Does it smell distinctly like the <object>?
+Does it smell like <object> in here?
+Does it smell like something you’d expect from the <object>?
+Does that odor seem like it’s from the <object>?
+Does that remind you of how the <object> smells?
+Does that smell like the <object> to you?
+Does that smell strike you as the <object>?
+Does the <object> have a detectable smell?
+Does the <object> have a noticeable odor to you?
+Does the <object> have a noticeable scent?
+Does the <object> have a strong enough smell for you to notice?
+Does the <object> produce a smell you can identify?
+Does the <object> smell linger around you?
+Does the <object> smell reach you?
+Does the <object> smell strong to you?
+Does the <object>'s odor stand out in the air?
+Does the <object>'s smell stand out to you?
+Does the air carry the scent of the <object>?
+Does the air have a smell you’d attribute to the <object>?
+Does the scent of the <object> reach your nose?
+Does the scent remind you of the <object>?
+Does the scent resemble that of a <object>?
+Does the smell originate from the <object>?
+Does your nose detect the <object>?
+Does your nose sense the <object> in the environment?
+Does your sense of smell react to the <object>?
+Have you been catching the smell of the <object>?
+Have you been noticing any smell from the <object>?
+Have you been smelling the <object>?
+Have you caught the scent of the <object>?
+Have you experienced the odor of the <object>?
+Have you felt the smell of the <object> in the air?
+Have you inhaled the scent of the <object>?
+Have you picked up any scent from the <object>?
+Have you smelled the <object>?
+Have you sniffed the air near the <object>?
+Have you taken a sniff of the <object>?
+Have you tried catching the aroma of the <object>?
+Have you tried detecting the smell of the <object>?
+Have you tried to sniff the <object>?
+Is air from the <object> reaching your nose?
+Is it clear that you’re smelling the <object>?
+Is it just me, or is that the <object>?
+Is it obvious that the smell is coming from the <object>?
+Is it possible you're smelling the <object> right now?
+Is scent from the <object> coming your way?
+Is that a familiar scent from the <object>?
+Is that aroma coming from the <object>?
+Is that clearly the <object> you’re smelling?
+Is that scent familiar because it’s the <object>?
+Is that smell coming from the <object>?
+Is that smell the <object>?
+Is that the <object> you're smelling?
+Is that the <object> you're sniffing?
+Is that the <object> you're trying to smell?
+Is that the familiar scent of the <object>?
+Is that the scent of the <object> you're picking up?
+Is that the smell we associate with the <object>?
+Is that the unmistakable odor of the <object>?
+Is the <object> giving off a scent you can smell?
+Is the <object> giving off a smell you can sense?
+Is the <object> giving off a smell?
+Is the <object> giving off that strong smell?
+Is the <object> producing a scent that you smell?
+Is the <object> producing the smell you sense?
+Is the <object> the source of that fragrance?
+Is the <object> the source of the smell you're noticing?
+Is the <object> under your nose right now?
+Is the <object> what you're smelling?
+Is the <object>'s fragrance noticeable to you?
+Is the <object>'s odor making itself known to you?
+Is the <object>'s scent in the air?
+Is the <object>'s scent obvious to you?
+Is the <object>'s smell distinct to you?
+Is the <object>'s smell reaching your nose right now?
+Is the <object>'s smell strong enough for you?
+Is the air around the <object> affecting your nose?
+Is the air filled with the smell of the <object>?
+Is the aroma consistent with the smell of the <object>?
+Is the aroma from the <object> noticeable to you?
+Is the aroma of the <object> apparent to you?
+Is the aroma of the <object> noticeable to you?
+Is the fragrance coming from the direction of the <object>?
+Is the fragrance of the <object> in the air?
+Is the fragrance you're detecting from the <object>?
+Is the odor drifting from the <object>?
+Is the odor of the <object> getting stronger?
+Is the odor of the <object> present?
+Is the odor you’re smelling from the <object>?
+Is the scent linked to the <object> in your opinion?
+Is the scent of the <object> filling the air?
+Is the scent of the <object> filling your senses?
+Is the scent of the <object> hitting you?
+Is the scent of the <object> noticeable to you?
+Is the scent of the <object> obvious?
+Is the scent of the <object> reaching you?
+Is the scent you detect reminiscent of the <object>?
+Is the scent you’re smelling likely from the <object>?
+Is the smell coming from something like the <object>?
+Is the smell coming from the <object>?
+Is the smell comparable to that of the <object>?
+Is the smell familiar like the <object>?
+Is the smell from the <object> strong enough for you to notice?
+Is the smell of the <object> familiar to you?
+Is the smell of the <object> hitting you?
+Is the smell of the <object> noticeable to you?
+Is the smell of the <object> obvious to your nose?
+Is the smell of the <object> present where you are?
+Is the smell of the <object> reaching you yet?
+Is the smell of the <object> reaching you?
+Is the smell you're getting from the <object>?
+Is there a fragrance in the air that you’d call the <object>?
+Is there a lingering scent of the <object> around?
+Is there a noticeable scent resembling the <object>?
+Is there a scent of <object> in the air?
+Is there a scent you're getting from the <object>?
+Is there a signature smell that belongs to the <object>?
+Is there a smell that alerts you to the <object>?
+Is there a smell you associate with the <object>?
+Is there a smell you can detect from the <object>?
+Is there a trace of <object> in the air?
+Is there a trace of the <object>'s odor that you smell?
+Is there a whiff of the <object> here?
+Is there an aroma surrounding the <object>?
+Is there an aroma that tells you the <object> is nearby?
+Is there an odor from the <object> that you're aware of?
+Is there any chance you're smelling the <object>?
+Is there any fragrance from the <object> that you notice?
+Is there any indication that the smell is from the <object>?
+Is there any lingering smell from the <object>?
+Is this the smell of the <object>?
+Is your attention drawn to the <object> by smell?
+Is your attention on the smell of the <object>?
+Is your breathing focused near the <object>?
+Is your environment filled with the smell of the <object>?
+Is your face near the <object> for smelling?
+Is your nose actively detecting the <object>'s aroma?
+Is your nose alerting you to the presence of the <object>?
+Is your nose catching anything from the <object>?
+Is your nose catching the smell of the <object>?
+Is your nose detecting something from the <object>?
+Is your nose directed toward the <object>?
+Is your nose engaged with the <object>?
+Is your nose identifying the smell of the <object>?
+Is your nose near the <object>?
+Is your nose picking up anything from the <object>?
+Is your nose picking up on the <object>?
+Is your nose picking up the <object>?
+Is your nose reacting to something from the <object>?
+Is your nose reacting to the <object>'s scent?
+Is your nose registering the <object>'s smell?
+Is your nose sensing the <object>'s aroma?
+Is your nose sensing the <object>'s smell?
+Is your nose telling you that's the <object>?
+Is your sense of smell detecting the <object> right now?
+Is your sense of smell picking up on the <object>?
+Is your sense of smell responding to the <object>?
+Is your sense of smell stimulated by the <object>?
+Is your sense of smell triggered by the <object>?
+Is your sense of smell tuned to the <object>?
+Is your sense of smell working on the <object>?
+Might you be experiencing the aroma of the <object>?
+Might you be smelling the <object>?
+Might you be sniffing the <object>?
+Might you be trying to catch scent from the <object>?
+Might you have detected something from the <object>?
+Might you notice the scent of the <object>?
+Perhaps you're trying to smell the <object>?
+What’s behind this fragrance? Is it from the <object>?
+What’s behind this odor? Is it from the <object>?
+What’s causing this fragrance? Is it from the <object>?
+What’s causing this scent? Is it from the <object>?
+What’s creating this aroma? Is it from the <object>?
+What’s creating this sweet, sugary scent? Is it from the <object>?
+What’s dispersing this smell? Is it from the <object>?
+What’s emitting this aroma? Is it from the <object>?
+What’s generating this sour smell? Is it from the <object>?
+What’s giving off this fresh scent? Is it from the <object>?
+What’s making this smell? Is it from the <object>?
+What’s making this stench? Is it from the <object>?
+What’s producing this odor? Is it from the <object>?
+What’s producing this smell? Is it from the <object>?
+What’s producing this strong smell? Is it from the <object>?
+What’s releasing this scent? Is it from the <object>?
+What’s responsible for this fresh scent? Is it from the <object>?
+What’s responsible for this scent? Is it from the <object>?
+What’s spreading this aroma? Is it from the <object>?
+What’s the origin of this scent? Is it from the <object>?
+What’s the reason for this smell? Is it from the <object>?
+What’s the source of this aroma? Is it from the <object>?
+Would you consider detecting scent from the <object>?
+Would you consider exploring the smell of the <object>?
+Would you happen to be inhaling around the <object>?
+Would you say you're smelling the <object> right now?
+Would you say you're sniffing the <object>?

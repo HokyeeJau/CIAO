@@ -1,0 +1,504 @@
+Are the scent notes leaning toward <object_2> or <object_1>?
+Are you able to distinguish <object_1> from <object_2> by smell?
+Are you able to smell <object_1> or is it <object_2>?
+Are you able to tell if it’s <object_2> or <object_1>?
+Are you aware of <object_2> or <object_1> through the smell?
+Are you aware of any smell—maybe <object_1> or <object_2>?
+Are you aware of the scent of <object_1> or <object_2>?
+Are you catching a hint of <object_1> or <object_2>?
+Are you catching a whiff of <object_2> or <object_1>?
+Are you catching the scent of <object_1> or <object_2>?
+Are you catching the scent of <object_2> or <object_1>?
+Are you closer to <object_1> or <object_2> by scent?
+Are you currently smelling <object_1> or <object_2>?
+Are you detecting <object_2> or <object_1> in the air?
+Are you detecting more of <object_1> or <object_2>?
+Are you detecting the presence of <object_1> or <object_2> through smell?
+Are you detecting the scent of <object_2> or <object_1>?
+Are you distinguishing <object_1> or <object_2> by scent?
+Are you experiencing the scent of <object_2> or <object_1>?
+Are you experiencing the smell of <object_1> or <object_2>?
+Are you getting <object_2> or <object_1> from that?
+Are you getting a whiff of <object_1> or <object_2>?
+Are you getting hints of <object_1> or <object_2>?
+Are you getting more hints of <object_2> or <object_1>?
+Are you getting notes of <object_1> or <object_2>?
+Are you getting the aroma of <object_1>, or is it <object_2>?
+Are you guessing <object_2> or <object_1> as the source?
+Are you identifying the aroma of <object_1> or <object_2>?
+Are you inhaling <object_1>’s scent or <object_2>’s?
+Are you inhaling the scent of <object_1> or <object_2>?
+Are you interpreting the smell as <object_2> or <object_1>?
+Are you leaning more toward the scent of <object_2> or <object_1>?
+Are you leaning toward <object_2> or <object_1> based on the smell?
+Are you more aware of <object_1>'s smell or <object_2>'s?
+Are you more aware of <object_2>’s scent or <object_1>’s?
+Are you more inclined to say <object_1> or <object_2>?
+Are you more likely smelling <object_2> or <object_1>?
+Are you noticing a stronger smell from <object_2> or <object_1>?
+Are you noticing more hints of <object_1> or <object_2>?
+Are you perceiving <object_2> or <object_1>?
+Are you perceiving <object_2> over <object_1>?
+Are you picking up <object_1> or <object_2>?
+Are you picking up <object_1>’s fragrance over <object_2>’s?
+Are you picking up a scent from <object_1> or <object_2>?
+Are you picking up more notes of <object_2> or <object_1>?
+Are you picking up on <object_2>'s smell or <object_1>'s?
+Are you picking up the essence of <object_2> or <object_1>?
+Are you recognizing <object_1> through scent, or <object_2>?
+Are you recognizing the smell of <object_2> or <object_1>?
+Are you sensing <object_1> or <object_2> in the air?
+Are you sensing <object_2>'s smell or <object_1>'s?
+Are you smelling <object_2> or <object_1> right now?
+Are you smelling <object_2> rather than <object_1>?
+Are you smelling either <object_1> or <object_2> right now?
+Are you smelling more of <object_1> or <object_2>?
+Are you smelling more of <object_1> right now, or <object_2>?
+Are you smelling more of <object_2> or <object_1>?
+Are you smelling one more than the other—<object_1> or <object_2>?
+Are you smelling one of these—<object_1> or <object_2>?
+Are you sniffing <object_1> or <object_2>?
+Are you sniffing <object_2> or <object_1>?
+Are you sniffing at <object_1> or <object_2>?
+Are you sniffing out <object_1> or <object_2>?
+Are you sniffing the aroma of <object_1> or <object_2>?
+Are you sniffing the scent of <object_2> or <object_1>?
+Are you sure you’re smelling <object_1> and not <object_2>?
+Are your olfactory senses detecting <object_2> or <object_1>?
+Are your senses picking up <object_2> or <object_1>?
+Based on the smell, is it <object_1> or <object_2>?
+Between <object_2> and <object_1>, what are you smelling?
+Between <object_2> and <object_1>, which one are you smelling?
+Can you attribute the scent to <object_2> or <object_1>?
+Can you choose between <object_2> and <object_1> based on the scent?
+Can you decide whether it's <object_2> or <object_1> by scent?
+Can you decide which scent that is—<object_2> or <object_1>?
+Can you detect whether it’s <object_1> or <object_2>?
+Can you differentiate the smell of <object_2> and <object_1>?
+Can you distinguish the smell—is it <object_2> or <object_1>?
+Can you distinguish whether it's <object_2> or <object_1>?
+Can you figure out if it’s <object_2> or <object_1>?
+Can you guess if it’s <object_1> or <object_2>?
+Can you guess which smell this is—<object_2> or <object_1>?
+Can you identify if that’s <object_1> or <object_2> you’re smelling?
+Can you identify the scent as <object_1> or <object_2>?
+Can you identify whether it’s <object_1> or <object_2>?
+Can you identify whether that's <object_2> or <object_1>?
+Can you pick out whether it’s <object_2> or <object_1>?
+Can you pinpoint the smell—<object_2> or <object_1>?
+Can you say which item you’re smelling—<object_2> or <object_1>?
+Can you sense a hint of <object_2> or is it <object_1>?
+Can you sense the smell of <object_1> or <object_2>?
+Can you sense whether it’s <object_1> or <object_2> in the air?
+Can you smell <object_1>? Or is it <object_2>?
+Can you smell a trace of <object_2> or <object_1>?
+Can you smell the difference between <object_1> and <object_2>?
+Can you smell the difference between <object_2> and <object_1>?
+Can you smell the difference—<object_2> or <object_1>?
+Can you smell whether it's <object_1> or <object_2>?
+Can you smell which one it is—<object_1> or <object_2>?
+Can you tell if that smell is <object_2> or <object_1>?
+Can you tell if you're smelling <object_1> or <object_2>?
+Can you tell if you’re smelling <object_1> or <object_2>?
+Can you tell what you're smelling—<object_1> or <object_2>?
+Can you tell whether it’s <object_2> or <object_1> you're smelling?
+Can you tell which one you're smelling—<object_2> or <object_1>?
+Can you trace the scent back to <object_2> or <object_1>?
+Can your nose tell if it’s <object_1> or <object_2>?
+Could that be <object_2> or <object_1> you're smelling?
+Could that smell be from <object_2> or <object_1>?
+Could the smell be from <object_2> instead of <object_1>?
+Could you be smelling <object_2> instead of <object_1>?
+Do you associate that odor with <object_2> or <object_1>?
+Do you detect <object_2>'s fragrance or <object_1>'s?
+Do you feel like it’s <object_2> you're smelling or <object_1>?
+Do you identify the scent with <object_2> or <object_1>?
+Do you perceive <object_1>'s scent or <object_2>'s?
+Do you recognize that as <object_1> or <object_2>?
+Do you recognize that smell—<object_2> or <object_1>?
+Do you recognize the smell as <object_2> or <object_1>?
+Do you recognize the smell of <object_1> or <object_2>?
+Do you smell <object_1> or <object_2>?
+Do you smell <object_2> more than <object_1>?
+Do you smell something? Is it <object_1> or <object_2>?
+Do you smell the essence of <object_1> or <object_2>?
+Do you think it smells more like <object_2> or <object_1>?
+Do you think it’s <object_2> that smells, or <object_1>?
+Do you think that scent belongs to <object_1> or <object_2>?
+Do you think that scent is coming from <object_1> or <object_2>?
+Do you think that’s <object_1> or <object_2>?
+Do you think that’s <object_2> in the air or <object_1>?
+Do you think that’s the smell of <object_2> or <object_1>?
+Do you think the aroma is from <object_2> or <object_1>?
+Do you think the odor comes from <object_2> or <object_1>?
+Do you think this is <object_1>'s scent or <object_2>'s?
+Do you think you're picking up the scent of <object_2> or <object_1>?
+Do you think you’re sniffing <object_2> or <object_1>?
+Does it seem closer to <object_2> or <object_1> in smell?
+Does it seem like <object_2> or <object_1>?
+Does it seem to you like the smell of <object_2> or <object_1>?
+Does it smell closer to <object_1> or <object_2>?
+Does it smell like <object_2> or <object_1> to you?
+Does that aroma belong to <object_2> or <object_1>?
+Does that seem like the scent of <object_2> or <object_1>?
+Does the aroma remind you more of <object_2> or <object_1>?
+Does the fragrance match <object_1> or <object_2>?
+Does the scent lean more toward <object_2> or <object_1>?
+Does the scent remind you more of <object_1> or <object_2>?
+Does the smell remind you of <object_2> or <object_1>?
+Does this remind you more of <object_2> or <object_1>?
+Does this remind you more of the smell of <object_2> or <object_1>?
+Does this smell like <object_2> more than <object_1>?
+Does this smell resemble <object_1> or <object_2> more?
+Does your nose say <object_2> or <object_1>?
+Does your nose tell you it's <object_2> or <object_1>?
+Does your nose think it’s <object_2> or <object_1>?
+If this were a scent test, what would your answer be—<object_2> or <object_1>?
+If you had to guess, is it <object_2> or <object_1>?
+If you're identifying a smell, is it <object_1> or <object_2>?
+Is it <object_1> or <object_2> that’s caught your nose?
+Is it <object_1> or <object_2> you're smelling?
+Is it <object_1> that smells, or is it <object_2>?
+Is it <object_1> you’re sensing or <object_2>?
+Is it <object_1>’s aroma or <object_2>’s that you notice?
+Is it <object_2> that smells like that, or <object_1>?
+Is it <object_2> you smell, or is it <object_1>?
+Is it easier to smell <object_1> or <object_2>?
+Is it possible the scent is from <object_2> or <object_1>?
+Is it possible you're smelling <object_2> rather than <object_1>?
+Is it the aroma of <object_1> or <object_2> that you’re noticing?
+Is it the scent of <object_1> or <object_2> wafting over?
+Is it the smell of <object_1> or <object_2> you're experiencing?
+Is it the smell of <object_1> that you're noticing? Or <object_2>?
+Is that <object_1> or <object_2> I see you sniffing?
+Is that <object_1>'s fragrance or <object_2>'s?
+Is that <object_1>'s scent or <object_2>'s?
+Is that <object_2> you’re smelling, or is it <object_1>?
+Is that <object_2>'s smell or <object_1>'s in the air?
+Is that a smell from <object_2> or <object_1>?
+Is that aroma familiar? Is it <object_1> or <object_2>?
+Is that aroma from <object_1> or <object_2>?
+Is that aroma more like <object_2> or <object_1>?
+Is that fragrance from <object_1> or <object_2>?
+Is that more likely to be <object_1> or <object_2>?
+Is that scent familiar as <object_1> or <object_2>?
+Is that scent traceable to <object_1> or <object_2>?
+Is that smell familiar? Is it <object_1> or <object_2>?
+Is that smell from one of these: <object_1> or <object_2>?
+Is that the odor of <object_1> you’re picking up, or <object_2>?
+Is that the smell of <object_1> or something else like <object_2>?
+Is the air filled with <object_1> or <object_2>?
+Is the air filled with <object_2>'s scent or <object_1>'s?
+Is the fragrance coming from <object_2> or <object_1>?
+Is the fragrance more likely to be <object_2> or <object_1>?
+Is the odor more like <object_2> or <object_1>?
+Is the scent closer to <object_2> or <object_1>?
+Is the smell coming from <object_1> or <object_2>?
+Is the smell from <object_1> or <object_2>?
+Is the smell more in line with <object_2> or <object_1>?
+Is the smell stronger from <object_1> or <object_2>?
+Is the source of the smell <object_2> or <object_1>?
+Is this aroma closer to <object_2> or <object_1>?
+Is this aroma something you'd associate with <object_2> or <object_1>?
+Is this fragrance from <object_1> or <object_2>?
+Is this more characteristic of <object_2> or <object_1>?
+Is this more like <object_2> or <object_1> to you?
+Is this more of a <object_2> smell or a <object_1> smell?
+Is this scent best described as <object_1> or <object_2>?
+Is this the smell of <object_2>, or could it be <object_1>?
+Is your best guess <object_2> or <object_1>?
+Is your guess <object_2> or <object_1> based on the smell?
+Is your nose catching <object_1> or <object_2> more?
+Is your nose closer to <object_1> or <object_2>?
+Is your nose detecting <object_1> more than <object_2>?
+Is your nose detecting <object_1> or <object_2>?
+Is your nose picking up <object_1> or <object_2>?
+Is your nose picking up <object_2> or <object_1>?
+Is your sense of smell detecting <object_1> or <object_2>?
+Is your sense of smell pointing to <object_1> or <object_2>?
+Is your sense of smell pointing to <object_2> or <object_1>?
+Is your sense of smell telling you it’s <object_1> or <object_2>?
+What are you catching a scent of—<object_1> or <object_2>?
+What are you detecting in the air—<object_2> or <object_1>?
+What are you detecting through your nose—<object_1> or <object_2>?
+What are you detecting—<object_2> or <object_1>?
+What are you getting a whiff of—<object_1> or <object_2>?
+What are you inclined to believe—<object_2> or <object_1>?
+What are you inhaling the smell of—<object_1> or <object_2>?
+What are you noticing by smell—<object_1> or <object_2>?
+What are you picking up on—<object_1> or <object_2>?
+What are you picking up—<object_2>'s scent or <object_1>'s?
+What are you sensing—<object_1> or <object_2>?
+What are you smelling exactly—<object_1> or <object_2>?
+What are you smelling more clearly—<object_1> or <object_2>?
+What are you smelling more—<object_1> or <object_2>?
+What are you smelling now—<object_1> or <object_2>?
+What are you smelling: <object_1> or <object_2>?
+What are you smelling—<object_2> or <object_1>?
+What are you sniffing now—<object_1> or <object_2>?
+What are you sniffing—<object_1> or <object_2>?
+What are you taking in with your nose—<object_1> or <object_2>?
+What do you believe you are detecting—<object_2> or <object_1>?
+What do you sense in the air—<object_1> or <object_2>?
+What do you smell more strongly—<object_1> or <object_2>?
+What do you smell more—<object_2> or <object_1>?
+What do you suppose that odor is—<object_2> or <object_1>?
+What do you think is being emitted—<object_2> or <object_1>?
+What do you think is in the air—<object_2> or <object_1>?
+What do you think that scent is—<object_2> or <object_1>?
+What do you think that smell is—<object_2> or <object_1>?
+What do you think the smell is—<object_2> or <object_1>?
+What do you think this is—<object_1> or <object_2>?
+What do you think this smell could be—<object_2> or <object_1>?
+What do you think your nose is picking up—<object_2> or <object_1>?
+What do your senses tell you—<object_2> or <object_1>?
+What does it smell like: <object_1> or <object_2>?
+What does it smell more like—<object_1> or <object_2>?
+What does it smell more like—<object_2> or <object_1>?
+What does that aroma suggest—<object_1> or <object_2>?
+What does that smell like to you—<object_1> or <object_2>?
+What does that smell like to you—<object_2> or <object_1>?
+What does that smell remind you of—<object_1> or <object_2>?
+What does the fragrance most resemble—<object_2> or <object_1>?
+What does this aroma resemble more—<object_2> or <object_1>?
+What does this odor resemble more—<object_1> or <object_2>?
+What does this smell resemble—<object_2> or <object_1>?
+What does your intuition say—<object_2> or <object_1>?
+What does your nose tell you—<object_2> or <object_1>?
+What does your olfactory sense suggest—<object_2> or <object_1>?
+What does your sense of smell suggest—<object_2> or <object_1>?
+What fragrance are you inhaling—<object_1> or <object_2>?
+What is that you're smelling, <object_1> or <object_2>?
+What is the dominant smell—<object_2> or <object_1>?
+What is the stronger olfactory cue—<object_2> or <object_1>?
+What is your perception of this scent—<object_2> or <object_1>?
+What object fits this scent best—<object_2> or <object_1>?
+What odor are you experiencing—<object_2> or <object_1>?
+What odor do you think that is—<object_2> or <object_1>?
+What scent are you experiencing—<object_1> or <object_2>?
+What scent are you leaning toward—<object_1> or <object_2>?
+What scent are you noticing most—<object_1> or <object_2>?
+What scent do you associate this with—<object_2> or <object_1>?
+What scent do you perceive—<object_2> or <object_1>?
+What scent do you pick up—<object_1> or <object_2>?
+What scent do you recognize—<object_1> or <object_2>?
+What scent do you think this is: <object_2> or <object_1>?
+What scent do you think this is—<object_1> or <object_2>?
+What scent is filling the air—<object_2> or <object_1>?
+What scent is in the air—<object_1> or <object_2>?
+What scent is stronger—<object_2> or <object_1>?
+What scent is your brain registering—<object_1> or <object_2>?
+What scent lingers—<object_1> or <object_2>?
+What seems to be the source—<object_2> or <object_1>?
+What smell are you aware of—<object_1> or <object_2>?
+What smell are you experiencing—<object_1> or <object_2>?
+What smell category does this belong to—<object_1> or <object_2>?
+What smell is in the air—<object_1> or <object_2>?
+What smell is more noticeable—<object_2> or <object_1>?
+What smell is that—<object_1> or <object_2>?
+What's hitting your nose—<object_1> or <object_2>?
+What's that smell? Is it <object_1> or <object_2>?
+What's that smell—<object_1> or <object_2>?
+What's the fragrance you're noticing, <object_1> or <object_2>?
+What's the smell coming from—<object_1> or <object_2>?
+What's your best guess—<object_2> or <object_1>?
+What’s hitting your nose—<object_2> or <object_1>?
+What’s more noticeable—<object_1> or <object_2>?
+What’s that aroma, <object_1> or <object_2>?
+What’s that aroma—<object_2> or <object_1>?
+What’s that fragrance—<object_1> or <object_2>?
+What’s that nose-catching scent—<object_1> or <object_2>?
+What’s that odor—<object_1> or <object_2>?
+What’s that scent from—<object_1> or <object_2>?
+What’s that scent telling you—<object_1> or <object_2>?
+What’s that smell—<object_2> or <object_1>?
+What’s the dominant scent here—<object_2> or <object_1>?
+What’s the dominant smell—<object_1> or <object_2>?
+What’s the origin of this scent—<object_2> or <object_1>?
+What’s the primary smell here—<object_2> or <object_1>?
+What’s the scent closest to—<object_1> or <object_2>?
+What’s the scent coming from—<object_1> or <object_2>?
+What’s the scent—<object_1> or <object_2>?
+What’s the smell associated with—<object_1> or <object_2>?
+What’s the smell coming from—<object_2> or <object_1>?
+What’s the smell you’re picking up—<object_1> or <object_2>?
+What’s the source of that smell—<object_1> or <object_2>?
+What’s your final verdict—<object_2> or <object_1>?
+What’s your impression—<object_2> or <object_1>?
+What’s your nose telling you—<object_1> or <object_2>?
+What’s your nose telling you—<object_2> or <object_1>?
+What’s your olfactory guess: <object_1> or <object_2>?
+What’s your take—<object_1> or <object_2>?
+Which are you detecting, <object_1> or <object_2>?
+Which aroma are you breathing in, <object_1> or <object_2>?
+Which aroma are you sensing right now—<object_2> or <object_1>?
+Which aroma are you sensing, <object_1> or <object_2>?
+Which aroma are you sensing—<object_2> or <object_1>?
+Which aroma can you detect—<object_1> or <object_2>?
+Which aroma do you detect first—<object_1> or <object_2>?
+Which aroma do you think this is—<object_2> or <object_1>?
+Which aroma does this match more—<object_2> or <object_1>?
+Which aroma is that—<object_2> or <object_1>?
+Which do you associate this fragrance with—<object_2> or <object_1>?
+Which do you believe you're detecting, <object_2> or <object_1>?
+Which do you recognize—<object_1> or <object_2>?
+Which do you smell first—<object_1> or <object_2>?
+Which do you smell more prominently—<object_2> or <object_1>?
+Which do you smell—<object_1> or <object_2>?
+Which do you think is in the air—<object_1> or <object_2>?
+Which does this aroma resemble more, <object_1> or <object_2>?
+Which does your nose think it is, <object_2> or <object_1>?
+Which fragrance are you noticing—<object_1> or <object_2>?
+Which fragrance are you noticing—<object_2> or <object_1>?
+Which fragrance are you picking up—<object_2> or <object_1>?
+Which fragrance do you detect—<object_1> or <object_2>?
+Which fragrance lingers more—<object_2> or <object_1>?
+Which fragrance stands out more—<object_1> or <object_2>?
+Which fragrance stands out—<object_1> or <object_2>?
+Which is a better match for the smell—<object_2> or <object_1>?
+Which is closer to what you're smelling, <object_2> or <object_1>?
+Which is the scent source—<object_2> or <object_1>?
+Which is the source of the scent—<object_2> or <object_1>?
+Which item are you catching the scent of—<object_1> or <object_2>?
+Which item are you sniffing, <object_1> or <object_2>?
+Which item could be creating that smell—<object_2> or <object_1>?
+Which item do you smell more—<object_1> or <object_2>?
+Which item does the aroma remind you of—<object_2> or <object_1>?
+Which item does this smell match—<object_1> or <object_2>?
+Which item has a stronger scent, <object_1> or <object_2>?
+Which item seems responsible for the smell—<object_2> or <object_1>?
+Which item’s scent is in your nose—<object_1> or <object_2>?
+Which item’s scent is that—<object_1> or <object_2>?
+Which object do you associate that smell with—<object_2> or <object_1>?
+Which object does this scent better match—<object_2> or <object_1>?
+Which object produces that scent—<object_2> or <object_1>?
+Which object's scent does this match—<object_2> or <object_1>?
+Which object’s scent is this—<object_2> or <object_1>?
+Which odor are you focused on, <object_1> or <object_2>?
+Which odor are you smelling, <object_1> or <object_2>?
+Which odor do you recognize—<object_2> or <object_1>?
+Which odor is apparent to you—<object_1> or <object_2>?
+Which odor is more present—<object_2> or <object_1>?
+Which odor lingers in the air—<object_1> or <object_2>?
+Which of the two are you sniffing—<object_1> or <object_2>?
+Which of the two smells fresher—<object_2> or <object_1>?
+Which of the two smells more distinct—<object_2> or <object_1>?
+Which of these are you smelling—<object_1> or <object_2>?
+Which of these do you smell—<object_1> or <object_2>?
+Which of these do you think it smells like—<object_2> or <object_1>?
+Which of these do you think you're sensing: <object_1> or <object_2>?
+Which of these is the source of the smell—<object_1> or <object_2>?
+Which of these smells are you noticing—<object_1> or <object_2>?
+Which of these smells right—<object_1> or <object_2>?
+Which one are you detecting through scent—<object_1> or <object_2>?
+Which one are you identifying, <object_2> or <object_1>?
+Which one are you picking up by scent, <object_1> or <object_2>?
+Which one are you reacting to—<object_1> or <object_2>?
+Which one are you taking a whiff of, <object_1> or <object_2>?
+Which one can you smell—<object_1> or <object_2>?
+Which one can your nose detect—<object_1> or <object_2>?
+Which one do you believe you're smelling—<object_2> or <object_1>?
+Which one do you detect more strongly—<object_1> or <object_2>?
+Which one do you sense more—<object_2> or <object_1>?
+Which one do you smell, <object_1> or <object_2>?
+Which one do you think you're smelling, <object_2> or <object_1>?
+Which one does the odor resemble—<object_2> or <object_1>?
+Which one does this smell bring to mind—<object_2> or <object_1>?
+Which one fits this odor—<object_2> or <object_1>?
+Which one gives off this smell—<object_2> or <object_1>?
+Which one has that scent—<object_1> or <object_2>?
+Which one has that smell—<object_2> or <object_1>?
+Which one has the more noticeable scent—<object_1> or <object_2>?
+Which one has your attention—<object_1> or <object_2>?
+Which one hits your nose stronger, <object_2> or <object_1>?
+Which one is giving off that scent—<object_2> or <object_1>?
+Which one is giving off that smell—<object_1> or <object_2>?
+Which one is in the air—<object_1> or <object_2>?
+Which one is in your nose—<object_1> or <object_2>?
+Which one smells like that—<object_1> or <object_2>?
+Which one smells like this—<object_2> or <object_1>?
+Which one smells more familiar—<object_2> or <object_1>?
+Which one smells more natural to you—<object_1> or <object_2>?
+Which one smells more potent—<object_2> or <object_1>?
+Which one smells more pungent—<object_2> or <object_1>?
+Which one smells stronger to you—<object_1> or <object_2>?
+Which one smells stronger to you—<object_2> or <object_1>?
+Which one smells stronger, <object_1> or <object_2>?
+Which one smells the most—<object_1> or <object_2>?
+Which one would you say this smell belongs to—<object_2> or <object_1>?
+Which one’s aroma do you sense—<object_1> or <object_2>?
+Which one’s aroma is more accurate—<object_2> or <object_1>?
+Which one’s aroma is reaching you—<object_1> or <object_2>?
+Which one’s fragrance are you drawn to—<object_1> or <object_2>?
+Which one’s fragrance are you picking up—<object_2> or <object_1>?
+Which one’s fragrance is that—<object_1> or <object_2>?
+Which one’s odor is that—<object_2> or <object_1>?
+Which one’s scent are you sensing right now—<object_2> or <object_1>?
+Which one’s smell is more apparent—<object_2> or <object_1>?
+Which scent are you detecting more clearly, <object_1> or <object_2>?
+Which scent are you drawn to—<object_1> or <object_2>?
+Which scent are you focusing on—<object_2> or <object_1>?
+Which scent are you identifying, <object_1> or <object_2>?
+Which scent are you noticing—<object_2> or <object_1>?
+Which scent are you smelling right now—<object_1> or <object_2>?
+Which scent comes through more—<object_2> or <object_1>?
+Which scent do you associate with this—<object_1> or <object_2>?
+Which scent do you sense—<object_1> or <object_2>?
+Which scent do you think it is—<object_1> or <object_2>?
+Which scent do you think this is, <object_1> or <object_2>?
+Which scent do you think you're sensing, <object_2> or <object_1>?
+Which scent does this resemble the most—<object_2> or <object_1>?
+Which scent hits you first—<object_1> or <object_2>?
+Which scent is more recognizable—<object_2> or <object_1>?
+Which scent lingers more—<object_1> or <object_2>?
+Which scent profile does this match—<object_2> or <object_1>?
+Which scent registers more strongly—<object_2> or <object_1>?
+Which scent rings a bell—<object_2> or <object_1>?
+Which scent seems more accurate—<object_1> or <object_2>?
+Which scent seems stronger—<object_2> or <object_1>?
+Which scent stands out to you, <object_1> or <object_2>?
+Which scent stands out to you—<object_2> or <object_1>?
+Which scent stands out—<object_1> or <object_2>?
+Which scent surrounds us—<object_1> or <object_2>?
+Which smell are you locking onto—<object_1> or <object_2>?
+Which smell are you more aware of—<object_1> or <object_2>?
+Which smell are you most aware of—<object_1> or <object_2>?
+Which smell are you perceiving, <object_1> or <object_2>?
+Which smell are you reacting to, <object_1> or <object_2>?
+Which smell are you responding to—<object_1> or <object_2>?
+Which smell do you identify—<object_1> or <object_2>?
+Which smell do you think that is—<object_2> or <object_1>?
+Which smell is filling the room, <object_1> or <object_2>?
+Which smell is hitting you first—<object_1> or <object_2>?
+Which smell is in the air—<object_2> or <object_1>?
+Which smell is more dominant, <object_1> or <object_2>?
+Which smell is more dominant—<object_1> or <object_2>?
+Which smell is more prominent, <object_1> or <object_2>?
+Which smell is stronger to you, <object_1> or <object_2>?
+Which smell is stronger—<object_2> or <object_1>?
+Which smell is that exactly—<object_1> or <object_2>?
+Which smell is that—<object_1> or <object_2>?
+Which smell is this more in line with—<object_2> or <object_1>?
+Which smell lingers—<object_1> or <object_2>?
+Which smell profile seems correct—<object_1> or <object_2>?
+Which smell seems stronger, <object_1> or <object_2>?
+Which smell seems to dominate—<object_1> or <object_2>?
+Which thing are you smelling—<object_1> or <object_2>?
+Which thing has this smell—<object_1> or <object_2>?
+Which thing's aroma do you recognize—<object_1> or <object_2>?
+Who do you think is more fragrant—<object_2> or <object_1>?
+Who smells stronger—<object_2> or <object_1>?
+Who would you associate this smell with—<object_2> or <object_1>?
+Whose fragrance is this—<object_2>'s or <object_1>'s?
+Whose smell does this resemble—<object_2> or <object_1>?
+Whose smell is this more like—<object_2>'s or <object_1>'s?
+Who’s more likely to emit that scent—<object_2> or <object_1>?
+Would you call this a smell of <object_2> or <object_1>?
+Would you classify the smell as <object_2> or <object_1>?
+Would you identify this aroma as <object_1> or <object_2>?
+Would you say it smells more like <object_2> or <object_1>?
+Would you say the fragrance matches <object_2> or <object_1>?
+Would you say the scent belongs to <object_2> or <object_1>?
+Would you say this is <object_2> or <object_1> you’re smelling?
+Would you say this is the smell of <object_2> or <object_1>?
+Would your best guess be <object_2> or <object_1>?

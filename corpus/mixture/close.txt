@@ -1,0 +1,67 @@
+Could <object> be responsible for the scent at <position>?
+Could <position> be producing the lovely aroma of <object>?
+Could <position> be releasing the aroma of <object>?
+Could <position> be the origin of the <object> aroma?
+Could that aromatic cloud be forming at <position> from <object>?
+Could the area at <position> be filled with the aroma of <object>?
+Could the aroma of <object> be coming from <position>?
+Could the aromatic fog from <object> be floating in from <position>?
+Could the faint smell of <object> be creeping out of <position>?
+Could the fragrance of <object> be spreading from <position>?
+Could the lingering scent of <object> be from <position>?
+Could the pleasant scent of <object> be originating at <position>?
+Could the scent of <object> have leaked out of <position>?
+Could the strange smell of <object> be from <position>?
+Did <position> suddenly release the scent of <object>?
+Did something scented like <object> fall in <position>?
+Did the aroma of <object> begin at <position>?
+Did the aroma of <object> come through <position>?
+Did the scent of <object> drift in from <position>?
+Did the wind carry the smell of <object> from <position>?
+Does <position> seem to be where the aroma of <object> starts?
+Has <position> been permeated by the scent of <object>?
+Has anyone checked <position> for the smell of <object>?
+Has the aroma of <object> started drifting from <position>?
+Has the distinct smell of <object> emerged from <position>?
+Has the entire <position> been filled with the aroma of <object>?
+Has the scent of <object> been noticed near <position>?
+Has the smell of <object> overtaken <position>?
+Is <object> what we’re smelling from <position>?
+Is <position> giving off the fragrance of <object>?
+Is <position> hiding the source of the <object> aroma?
+Is <position> responsible for spreading the aroma of <object>?
+Is <position> scented with <object> for a reason?
+Is <position> the hotspot for the scent of <object>?
+Is <position> where the aroma of <object> begins?
+Is it <object> that’s making <position> smell so strong?
+Is it possible the aroma of <object> originates from <position>?
+Is that hint of <object> wafting in from <position>?
+Is the area near <position> infused with the scent of <object>?
+Is the aroma of <object> diffusing through <position>?
+Is the aroma of <object> gently rising from <position>?
+Is the aroma of <object> noticeably spreading from <position>?
+Is the aroma of <object> spread from <position>?
+Is the aroma of <object> subtly drifting from <position>?
+Is the aroma of <object> surrounding the area around <position>?
+Is the aroma trail of <object> ending at <position>?
+Is the delicious smell of <object> coming from <position>?
+Is the familiar smell of <object> drifting from <position>?
+Is the fragrance of <object> making its way from <position>?
+Is the rich aroma of <object> coming from <position>?
+Is the scent of <object> escaping from <position>?
+Is the scent trail of <object> leading back to <position>?
+Is the smell of <object> intensifying around <position>?
+Is the smell of <object> unexpectedly coming from <position>?
+Is the source of the aroma of <object> at <position>?
+Is the spicy scent of <object> escaping from <position>?
+Is the sweet smell of <object> being released from <position>?
+Is the warm aroma of <object> pouring out of <position>?
+Is there a hint of <object> coming from <position>?
+Is there a trace of <object> lingering around <position>?
+Is there something at <position> producing the aroma of <object>?
+Is there something inside <position> that smells like <object>?
+Might <object> be the source of what we’re smelling from <position>?
+Might the aroma of <object> be wafting from <position>?
+Might the fragrant note of <object> originate at <position>?
+Might the smell of <object> have something to do with <position>?
+Would the aroma of <object> be traced to <position>?

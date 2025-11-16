@@ -1,0 +1,537 @@
+Are smells being emitted from <position>?
+Are smells originating at <position>?
+Are those odors from <position>?
+Are you detecting something from <position>?
+Are you getting a smell from <position>?
+Are you sensing that smell from <position>?
+Can that odor be traced to <position>?
+Can the smell be traced to <position>?
+Can we confirm the smell is from <position>?
+Can we pinpoint the smell to <position>?
+Can you confirm the odor’s coming from <position>?
+Can you confirm the smell is at <position>?
+Can you detect a stench from <position>?
+Can you smell something at <position>?
+Can you smell something odd from <position>?
+Can you tell if the smell is from <position>?
+Could <position> be attracting the smell?
+Could <position> be behind that smell?
+Could <position> be causing a foul scent?
+Could <position> be causing the stink?
+Could <position> be causing this foul odor?
+Could <position> be causing this smell?
+Could <position> be emitting that stench?
+Could <position> be hiding the cause of the smell?
+Could <position> be hiding the smell source?
+Could <position> be home to that scent?
+Could <position> be involved in that smell?
+Could <position> be leaking the smell?
+Could <position> be making that smell?
+Could <position> be responsible for that scent?
+Could <position> be smelling?
+Could <position> be the cause of that smell?
+Could <position> be the culprit behind the smell?
+Could <position> be the culprit for the smell?
+Could <position> be the origin of the stench?
+Could <position> be the origin of this odor?
+Could <position> be the place it’s coming from?
+Could <position> be the reason for the smell?
+Could <position> be the root of the smell?
+Could <position> be the root of the stink?
+Could <position> be the source of that odor?
+Could <position> be the start of the odor?
+Could <position> be the start of the smell?
+Could <position> be venting odor?
+Could <position> be where the odor’s coming from?
+Could <position> be where the scent’s coming from?
+Could <position> be where the smell started?
+Could <position> harbor the smell source?
+Could <position> have a smell issue?
+Could <position> have caused the odor?
+Could <position> hold the source of the smell?
+Could a smell be rising from <position>?
+Could it be <position> that’s smelling?
+Could it be that <position> is releasing that scent?
+Could it be that <position> is where the smell is from?
+Could it be that <position> smells?
+Could it smell from <position>?
+Could something at <position> be causing the odor?
+Could something at <position> be creating that smell?
+Could something at <position> be smelly?
+Could something in <position> be creating that smell?
+Could something near <position> be causing the odor?
+Could something smelly be in <position>?
+Could that aroma be linked to <position>?
+Could that aroma have come from <position>?
+Could that foul scent be coming from <position>?
+Could that odor be from <position>?
+Could that odor be seeping out from <position>?
+Could that offensive odor be from <position>?
+Could that scent be from <position>?
+Could that scent be traced back to <position>?
+Could that smell be linked to <position>?
+Could that weird smell be from <position>?
+Could that whiff be coming from <position>?
+Could the aroma be from <position>?
+Could the aroma be traced to <position>?
+Could the bad smell be linked to <position>?
+Could the bad smell be traced to <position>?
+Could the foul air be coming from <position>?
+Could the foul air be from <position>?
+Could the funky smell be from <position>?
+Could the odd odor be from <position>?
+Could the odor be from <position>?
+Could the odor be originating from <position>?
+Could the odor be seeping from <position>?
+Could the odor be wafting from <position>?
+Could the odor have started at <position>?
+Could the origin be traced to <position>?
+Could the scent be coming from <position>?
+Could the scent be traced to <position>?
+Could the scent drift from <position>?
+Could the scent have come from <position>?
+Could the scent originate from <position>?
+Could the smell be coming from near <position>?
+Could the smell be due to something at <position>?
+Could the smell be from <position>?
+Could the smell be located at <position>?
+Could the smell be rising from <position>?
+Could the smell be seeping from <position>?
+Could the smell be spreading from <position>?
+Could the smell be traced back to <position>?
+Could the smell be traced to <position>?
+Could the smell be trapped at <position>?
+Could the smell have drifted from <position>?
+Could the smell have started at <position>?
+Could the source of that bad smell be <position>?
+Could the source of the stench be <position>?
+Could the stench be coming from <position>?
+Could the stench be from <position>?
+Could the stink be from <position>?
+Could the stink be related to <position>?
+Could the stink come from <position>?
+Could the stink have started at <position>?
+Could the stink originate from <position>?
+Could the strange odor be linked to <position>?
+Could the strange smell be from <position>?
+Could the unpleasant scent be from <position>?
+Could the unpleasant smell stem from <position>?
+Could the weird smell be from <position>?
+Could there be a bad smell from <position>?
+Could there be a chemical smell from <position>?
+Could there be a smell coming out of <position>?
+Could there be a smell issue at <position>?
+Could there be a smell issue with <position>?
+Could there be a smell source in <position>?
+Could there be a stench from <position>?
+Could there be an issue at <position> causing the smell?
+Could there be an issue with odor at <position>?
+Could there be something smelly at <position>?
+Could this be a <position> smell?
+Could this odor be from <position>?
+Could this scent belong to <position>?
+Do smells seem to be coming from <position>?
+Do you detect a smell from <position>?
+Do you smell something from <position>?
+Do you smell that from <position>?
+Do you think something at <position> smells?
+Do you think the smell is coming from <position>?
+Do you think the smell is from <position>?
+Do you think the stench is coming from <position>?
+Does <position> cause a stink?
+Does <position> emit a strange smell?
+Does <position> emit a terrible odor?
+Does <position> give off a smell?
+Does <position> have a foul odor?
+Does <position> have a noticeable smell?
+Does <position> have a strong smell?
+Does <position> have an odor?
+Does <position> look like the smell’s source?
+Does <position> seem off because of the smell?
+Does <position> seem to be causing the bad smell?
+Does <position> seem to be emitting that scent?
+Does <position> seem to be the smelly area?
+Does <position> seem to be the source of the smell?
+Does <position> seem to smell?
+Does <position> smell bad?
+Does <position> smell funny?
+Does <position> smell odd to you?
+Does <position> smell?
+Does it reek around <position>?
+Does it reek from <position>?
+Does it seem like the smell is from <position>?
+Does it smell bad near <position>?
+Does it smell like <position>?
+Does it smell like it’s coming from <position>?
+Does it smell odd near <position>?
+Does it smell worse near <position>?
+Does it stink near <position>?
+Does something at <position> have an odor?
+Does something at <position> smell off?
+Does something smell weird near <position>?
+Does that aroma originate from <position>?
+Does that nasty smell come from <position>?
+Does that scent belong to <position>?
+Does that smell appear to come from <position>?
+Does that smell come from <position>?
+Does the air around <position> smell foul?
+Does the air around <position> smell?
+Does the air smell weird near <position>?
+Does the bad scent seem to come from <position>?
+Does the bad smell come from <position>?
+Does the bad smell originate from <position>?
+Does the odor align with <position>?
+Does the odor emanate from <position>?
+Does the odor flow from <position>?
+Does the odor originate near <position>?
+Does the odor seem to point to <position>?
+Does the scent originate at <position>?
+Does the scent seem to be coming from <position>?
+Does the smell appear to start from <position>?
+Does the smell come from <position>
+Does the smell originate from <position>?
+Does the smell seem to be from <position>?
+Does the stench come from <position>?
+Does the stink rise from <position>?
+Does the strange smell originate at <position>?
+Does this odor stem from <position>?
+Is <position> a hot spot for the smell?
+Is <position> a known source of odor?
+Is <position> a likely source of the bad smell?
+Is <position> a possible source of the scent?
+Is <position> a potential source of that smell?
+Is <position> affected by a strange smell?
+Is <position> affected by the smell?
+Is <position> behind the odor?
+Is <position> causing that smell?
+Is <position> causing the smell?
+Is <position> causing the strange odor?
+Is <position> contaminated with something smelly?
+Is <position> contributing to the bad smell?
+Is <position> contributing to the smell?
+Is <position> creating that strange smell?
+Is <position> emitting a strong odor?
+Is <position> emitting any kind of odor?
+Is <position> emitting any scent?
+Is <position> emitting that odor?
+Is <position> emitting that smell?
+Is <position> emitting that stinky smell?
+Is <position> filled with an odd smell?
+Is <position> filled with foul air?
+Is <position> generating that smell?
+Is <position> giving off a bad vibe—scent-wise?
+Is <position> giving off a scent?
+Is <position> giving off a smell?
+Is <position> giving off a stench?
+Is <position> giving off a weird smell?
+Is <position> giving off any smell?
+Is <position> giving off that aroma?
+Is <position> giving off that smell?
+Is <position> giving off that strange odor?
+Is <position> involved in the bad smell?
+Is <position> leaking that scent?
+Is <position> letting out that smell?
+Is <position> noticeably smelly?
+Is <position> part of the issue with the smell?
+Is <position> possibly giving off a smell?
+Is <position> producing an offensive smell?
+Is <position> producing any unusual scent?
+Is <position> producing that awful smell?
+Is <position> producing that scent?
+Is <position> producing that strange odor?
+Is <position> producing that strong odor?
+Is <position> producing that unpleasant odor?
+Is <position> producing this strange smell?
+Is <position> putting out that odor?
+Is <position> radiating a bad smell?
+Is <position> releasing a smell?
+Is <position> releasing an odor?
+Is <position> releasing any strange odors?
+Is <position> releasing that odor?
+Is <position> responsible for that funky scent?
+Is <position> responsible for that smell?
+Is <position> responsible for that strange smell?
+Is <position> responsible for the foul scent?
+Is <position> responsible for the odd smell?
+Is <position> responsible for the odor?
+Is <position> responsible for the smell?
+Is <position> smelling bad?
+Is <position> stinking?
+Is <position> the cause of that smell?
+Is <position> the cause of the smell?
+Is <position> the center of that odor?
+Is <position> the center of the odor?
+Is <position> the epicenter of that odor?
+Is <position> the likely source of the foul smell?
+Is <position> the likely source of the smell?
+Is <position> the location of the smell?
+Is <position> the main source of odor?
+Is <position> the main suspect for the smell?
+Is <position> the most likely place the odor is from?
+Is <position> the origin of that odor?
+Is <position> the origin of that smell?
+Is <position> the origin of the bad odor?
+Is <position> the place the smell is coming from?
+Is <position> the place where the smell starts?
+Is <position> the source of that aroma?
+Is <position> the source of the bad air?
+Is <position> the start of the odor?
+Is <position> the suspect spot for the smell?
+Is <position> to blame for the smell?
+Is <position> where it smells worst?
+Is <position> where that scent is originating?
+Is <position> where the bad air's coming from?
+Is <position> where the bad smell is coming from?
+Is <position> where the foul smell comes from?
+Is <position> where the odor is coming from?
+Is <position> where the odor is strongest?
+Is <position> where the odor originates?
+Is <position> where the scent began?
+Is <position> where the scent is strongest?
+Is <position> where the smell begins?
+Is <position> where the smell is coming from?
+Is <position> where the smell is coming out?
+Is <position> where the smell is most obvious?
+Is <position> where the smell is strongest?
+Is <position> where the smell seems to start?
+Is <position> where the smell starts?
+Is <position> where the smell’s leaking from?
+Is <position> where the stench is from?
+Is <position> where the stench is strongest?
+Is <position> where the stink originates?
+Is it <position> that smells?
+Is it <position> that stinks?
+Is it <position> that’s creating that odor?
+Is it likely the smell is from <position>?
+Is it possible <position> is causing the odor?
+Is it possible that <position> is producing the smell?
+Is it possible that the smell is from <position>?
+Is it possible the smell is emitting from <position>?
+Is it possible the smell is from <position>?
+Is it smelling from <position>?
+Is it smelly at <position>?
+Is it smelly over at <position>?
+Is it stinky near <position>?
+Is something at <position> causing a bad odor?
+Is something at <position> causing the smell?
+Is something at <position> emitting a bad scent?
+Is something at <position> giving off that smell?
+Is something at <position> off-smelling?
+Is something at <position> producing a smell?
+Is something decaying at <position>?
+Is something emitting odor from <position>?
+Is something in <position> making that smell?
+Is something in <position> producing this smell?
+Is something inside <position> stinking?
+Is something producing that smell at <position>?
+Is something smelling at <position>?
+Is something wrong with the smell near <position>?
+Is that <position> giving off a smell?
+Is that area—<position>—smelling?
+Is that foul scent coming from <position>?
+Is that fragrance from <position>?
+Is that funky smell from <position>?
+Is that musty odor from <position>?
+Is that nasty aroma coming from <position>?
+Is that odor from <position>?
+Is that odor linked to <position>?
+Is that odor localized to <position>?
+Is that odor possibly from <position>?
+Is that scent coming from <position>?
+Is that smell associated with <position>?
+Is that smell coming from <position>?
+Is that smell coming up from <position>?
+Is that smell emanating from <position>?
+Is that smell escaping from <position>?
+Is that smell linked to <position>?
+Is that smell moving from <position>?
+Is that smell possibly from <position>?
+Is that smell rooted in <position>?
+Is that smell traceable to <position>?
+Is that strange odor coming out of <position>?
+Is that unpleasant scent coming from <position>?
+Is that unpleasant smell coming from <position>?
+Is that where the bad smell is coming from — <position>?
+Is that where the scent is originating — <position>?
+Is that where the smell is coming from—<position>?
+Is that where the smell originates—<position>?
+Is the air around <position> carrying odor?
+Is the air around <position> foul-smelling?
+Is the air around <position> smelly?
+Is the air near <position> carrying the smell?
+Is the area around <position> producing a smell?
+Is the area of <position> emitting smells?
+Is the aroma from <position>?
+Is the atmosphere at <position> odorous?
+Is the bad odor coming from <position>'s direction?
+Is the bad smell being emitted from <position>?
+Is the bad smell due to <position>?
+Is the bad smell focused at <position>?
+Is the foul odor coming up from <position>?
+Is the foul odor from <position>?
+Is the foul odor radiating from <position>?
+Is the foul smell coming from <position>?
+Is the funky scent from <position>?
+Is the funky smell from <position>?
+Is the nasty odor linked to <position>?
+Is the nasty smell coming from <position>?
+Is the odor centralized around <position>?
+Is the odor drifting from <position>?
+Is the odor emerging from <position>?
+Is the odor from <position>?
+Is the odor localized at <position>?
+Is the odor noticeable around <position>?
+Is the odor originating near <position>?
+Is the odor radiating from <position>?
+Is the odor strongest near <position>?
+Is the offensive smell from <position>?
+Is the offensive smell strongest near <position>?
+Is the pungent smell from <position>?
+Is the scent coming from <position>?
+Is the scent concentrated around <position>?
+Is the scent flowing from <position>?
+Is the scent linked to <position>?
+Is the scent most noticeable at <position>?
+Is the scent noticeable from <position>?
+Is the scent rising from <position>?
+Is the scent stronger at <position>?
+Is the scent stronger near <position>?
+Is the scent trailing from <position>?
+Is the scent you're smelling from <position>?
+Is the smell being carried from <position>?
+Is the smell being emitted from <position>?
+Is the smell being produced at <position>?
+Is the smell being produced by <position>?
+Is the smell centered around <position>?
+Is the smell coming from <position>?
+Is the smell coming out from <position>?
+Is the smell directed from <position>?
+Is the smell happening at <position>?
+Is the smell linked back to <position>?
+Is the smell linked to <position>?
+Is the smell localized at <position>?
+Is the smell more intense at <position>?
+Is the smell perhaps from <position>?
+Is the smell sourced from <position>?
+Is the smell spreading from <position>?
+Is the smell stronger when near <position>?
+Is the smell strongest at <position>?
+Is the smell strongest near <position>?
+Is the smell traceable to <position>?
+Is the smell wafting from <position>?
+Is the smell wafting out of <position>?
+Is the smell’s origin <position>?
+Is the source of that bad smell <position>?
+Is the source of that odor possibly <position>?
+Is the source of the bad odor <position>?
+Is the source of the smell <position>?
+Is the stench coming from <position>?
+Is the stench emerging from <position>?
+Is the stench from <position> noticeable?
+Is the stench linked to <position>?
+Is the stench localized at <position>?
+Is the stench radiating from <position>?
+Is the stink traceable to <position>?
+Is the strange smell originating at <position>?
+Is the unpleasant aroma from <position>?
+Is the unpleasant smell from <position>?
+Is the weird smell happening at <position>?
+Is there a bad scent coming out of <position>?
+Is there a bad smell coming from <position>?
+Is there a detectable smell near <position>?
+Is there a foul scent around <position>?
+Is there a foul smell at <position>?
+Is there a funky smell near <position>?
+Is there a lingering smell near <position>?
+Is there a musty smell at <position>?
+Is there a nasty smell around <position>?
+Is there a nasty smell at <position>?
+Is there a scent coming off <position>?
+Is there a scent in the air around <position>?
+Is there a scent trace from <position>?
+Is there a smell coming from <position>?
+Is there a smell from <position>?
+Is there a smell problem at <position>?
+Is there a source of odor at <position>?
+Is there a stink lingering around <position>?
+Is there a strange smell at <position>?
+Is there a strong odor at <position>?
+Is there a strong scent near <position>?
+Is there a suspicious smell at <position>?
+Is there a trace of smell at <position>?
+Is there a weird smell from <position>?
+Is there a weird stench near <position>?
+Is there an aroma at <position>?
+Is there an issue at <position> that smells?
+Is there an odor coming from <position>?
+Is there an odor coming out of <position>?
+Is there an unpleasant smell around <position>?
+Is there an unusual odor at <position>?
+Is there any evidence of the smell at <position>?
+Is there any odor from <position>?
+Is there any odor traceable to <position>?
+Is there any scent activity from <position>?
+Is there any stinky substance in <position>?
+Is there odor detection from <position>?
+Is there something at <position> causing the smell?
+Is there something causing odor at <position>?
+Is there something funky near <position>?
+Is there something giving off odor at <position>?
+Is there something malodorous at <position>?
+Is there something off about <position>'s smell?
+Is there something off about the smell at <position>?
+Is there something smelly around <position>?
+Is there something smelly at <position>?
+Is there something smelly coming from <position>?
+Is there something smelly in <position>?
+Is there something smelly near <position>?
+Is this scent being released at <position>?
+Might <position> be generating that smell?
+Might <position> be harboring something smelly?
+Might <position> be leaking odor?
+Might <position> be leaking the smell?
+Might <position> be the origin of the odor?
+Might <position> be the reason it smells here?
+Might <position> be the source of the smell?
+Might <position> be what smells bad?
+Might <position> be where the smell starts?
+Might <position> be where the smell's coming out of?
+Might <position> be where the smell’s coming from?
+Might <position> contain the smell’s source?
+Might <position> contain the source of the odor?
+Might <position> explain the bad scent?
+Might <position> have something smelly?
+Might a substance at <position> smell?
+Might something at <position> be causing that smell?
+Might something at <position> be stinking?
+Might something in <position> be causing the odor?
+Might something smelly be trapped in <position>?
+Might that odor be escaping from <position>?
+Might that odor have come from <position>?
+Might that scent be wafting from <position>?
+Might that scent stem from <position>?
+Might that smell be coming from <position>?
+Might that smell be coming out of <position>?
+Might that weird smell be linked to <position>?
+Might the bad smell be at <position>?
+Might the foul odor have come from <position>?
+Might the odor be wafting in from <position>?
+Might the odor originate in <position>?
+Might the origin of the odor lie in <position>?
+Might the scent be associated with <position>?
+Might the smell be coming from <position>?
+Might the smell be embedded in <position>?
+Might the smell be hidden in <position>?
+Might the smell be radiating from <position>?
+Might the smell be traced to <position>?
+Might the smell originate at <position>?
+Might the smell originate from <position>?
+Might the source of the smell be <position>?
+Might the stench be around <position>?
+Might the stench be linked to <position>?
+Might there be a leak at <position> causing that smell?
+Might there be a smell coming from <position>?
+Might there be a smell leak from <position>?
+Might there be a smell leaking from <position>?
+Might there be a smell source under <position>?
+Might there be a stinky issue at <position>?

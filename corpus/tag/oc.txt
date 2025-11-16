@@ -1,0 +1,363 @@
+Is that aroma coming from the <object>, correct?
+Is that aroma coming from the <object>?
+Is that aroma definitely from the <object>?
+Is that aroma from the <object>, correct?
+Is that fragrance coming from the <object>, right?
+Is that fragrance coming from the <object>?
+Is that fragrance definitely from the <object>?
+Is that fragrance from the <object>, correct?
+Is that fragrance from the <object>, isn’t it?
+Is that fragrance from the <object>?
+Is that scent coming from the <object>, correct?
+Is that scent coming from the <object>?
+Is that scent from the <object>, am I right?
+Is that scent from the <object>, correct?
+Is that scent from the <object>, isn’t it?
+Is that scent from the <object>, right?
+Is that scent from the <object>?
+Is that smell coming from the <object>?
+Is that smell definitely from the <object>?
+Is that smell from the <object>, right?
+Is that smell from the <object>?
+Is the aroma coming from the <object>?
+Is the aroma from the <object>, am I right?
+Is the aroma from the <object>?
+Is the fragrance from the <object>, correct?
+Is the fragrance from the <object>?
+Is the scent coming from the <object>?
+Is the scent definitely from the <object>?
+Is the scent from the <object>, right?
+Is the scent from the <object>?
+Is the smell coming from the <object>?
+That aroma comes from the <object>, right?
+That aroma definitely comes from the <object>, correct?
+That aroma definitely must be from the <object>, right?
+That aroma definitely originates from the <object>, correct?
+That aroma definitely originates from the <object>, right?
+That aroma is coming from the <object>, isn’t it?
+That aroma is coming from the <object>, right?
+That aroma is definitely from the <object>, right?
+That aroma is from the <object>, isn’t it?
+That aroma is from the <object>, right?
+That aroma must be from the <object>, isn’t it?
+That aroma must be from the <object>, right?
+That aroma must have come from the <object>, right?
+That aroma originates from the <object>, doesn’t it?
+That aroma originates from the <object>, right?
+That aroma surely comes from the <object>, right?
+That aroma surely originates from the <object>, correct?
+That aroma surely originates from the <object>, right?
+That fragrance certainly originates from the <object>, right?
+That fragrance comes from the <object>, correct?
+That fragrance comes from the <object>, doesn’t it?
+That fragrance comes from the <object>, right?
+That fragrance definitely comes from the <object>, correct?
+That fragrance definitely comes from the <object>, right?
+That fragrance definitely originates from the <object>, right?
+That fragrance is coming from the <object>, correct?
+That fragrance is coming from the <object>, isn’t it?
+That fragrance is coming from the <object>, right?
+That fragrance is definitely from the <object>, correct?
+That fragrance is definitely from the <object>, isn’t it?
+That fragrance is definitely from the <object>, right?
+That fragrance is from the <object>, am I right?
+That fragrance is from the <object>, correct?
+That fragrance is from the <object>, isn’t it?
+That fragrance is from the <object>, right?
+That fragrance must be from the <object>, correct?
+That fragrance must be from the <object>, right?
+That fragrance must come from the <object>, correct?
+That fragrance must come from the <object>, right?
+That fragrance originates from the <object>, doesn’t it?
+That fragrance surely comes from the <object>, right?
+That fragrance surely originates from the <object>, right?
+That odor definitely comes from the <object>, doesn’t it?
+That odor definitely originates from the <object>, right?
+That odor is definitely from the <object>, isn’t it?
+That odor is from the <object>, isn’t it?
+That odor is from the <object>, right?
+That odor surely comes from the <object>, right?
+That odor surely originates from the <object>, right?
+That scent comes from the <object>, correct?
+That scent comes from the <object>, doesn’t it?
+That scent comes from the <object>, right?
+That scent definitely comes from the <object>, doesn’t it?
+That scent definitely comes from the <object>, right?
+That scent definitely originates from the <object>, right?
+That scent is certainly from the <object>, right?
+That scent is coming from the <object>, isn’t it?
+That scent is definitely from the <object>, correct?
+That scent is definitely from the <object>, right?
+That scent is from the <object>, correct?
+That scent is from the <object>, isn’t it?
+That scent is from the <object>, right?
+That scent is surely coming from the <object>, right?
+That scent is surely from the <object>, right?
+That scent must come from the <object>, right?
+That scent must definitely come from the <object>, right?
+That scent must have come from the <object>, right?
+That scent must surely originate from the <object>, right?
+That scent originates from the <object>, doesn’t it?
+That scent originates from the <object>, right?
+That scent surely originates from the <object>, correct?
+That smell certainly comes from the <object>, right?
+That smell comes from the <object>, isn’t it?
+That smell definitely comes from the <object>, right?
+That smell is coming from the <object>, right?
+That smell is definitely from the <object>, right?
+That smell is definitely originating from the <object>, right?
+That smell is from the <object>, am I right?
+That smell is from the <object>, isn’t it?
+That smell is from the <object>, right?
+That smell is originating from the <object>, right?
+That smell is surely from the <object>, right?
+That smell is surely originating from the <object>, right?
+That smell must be coming from the <object>, right?
+That smell must be from the <object>, right?
+That smell must come from the <object>, right?
+That smell originates from the <object>, correct?
+That smell originates from the <object>, doesn’t it?
+That smell originates from the <object>, right?
+The aroma certainly originates from the <object>, right?
+The aroma comes from the <object>, correct?
+The aroma comes from the <object>, doesn't it?
+The aroma comes from the <object>, doesn’t it?
+The aroma comes from the <object>, don't you think?
+The aroma comes from the <object>, isn't it?
+The aroma comes from the <object>, isn't that right?
+The aroma comes from the <object>, isn't that true?
+The aroma comes from the <object>, right?
+The aroma definitely comes from the <object>, correct?
+The aroma definitely comes from the <object>, right?
+The aroma definitely originates from the <object>, doesn’t it?
+The aroma definitely originates from the <object>, right?
+The aroma emanates from the <object>, doesn't it?
+The aroma emanates from the <object>, isn't it?
+The aroma emanates from the <object>, right?
+The aroma is coming from the <object>, don't you think?
+The aroma is coming from the <object>, isn't it?
+The aroma is coming from the <object>, right?
+The aroma is definitely coming from the <object>, isn’t it?
+The aroma is definitely coming from the <object>, right?
+The aroma is definitely from the <object>, isn’t it?
+The aroma is definitely from the <object>, right?
+The aroma is from the <object>, correct?
+The aroma is from the <object>, don't you agree?
+The aroma is from the <object>, don't you think?
+The aroma is from the <object>, isn't it?
+The aroma is from the <object>, isn't that right?
+The aroma is from the <object>, isn’t it?
+The aroma is from the <object>, right?
+The aroma is originating from the <object>, right?
+The aroma is surely coming from the <object>, right?
+The aroma must be coming from the <object>, right?
+The aroma must be from the <object>, correct?
+The aroma must be from the <object>, isn’t it?
+The aroma must be from the <object>, right?
+The aroma must certainly be from the <object>, right?
+The aroma must certainly come from the <object>, right?
+The aroma must surely come from the <object>, right?
+The aroma originates from the <object>, correct?
+The aroma originates from the <object>, doesn't it?
+The aroma originates from the <object>, right?
+The aroma surely comes from the <object>, correct?
+The aroma surely comes from the <object>, doesn’t it?
+The aroma surely comes from the <object>, right?
+The aroma surely originates from the <object>, right?
+The fragrance comes from the <object>, am I right?
+The fragrance comes from the <object>, correct?
+The fragrance comes from the <object>, doesn't it?
+The fragrance comes from the <object>, doesn't that sound right?
+The fragrance comes from the <object>, doesn’t it?
+The fragrance comes from the <object>, don't you agree?
+The fragrance comes from the <object>, don't you think?
+The fragrance comes from the <object>, isn't it?
+The fragrance comes from the <object>, isn't that right?
+The fragrance comes from the <object>, isn't that so?
+The fragrance comes from the <object>, isn't that true?
+The fragrance comes from the <object>, right?
+The fragrance definitely originates from the <object>, correct?
+The fragrance definitely originates from the <object>, right?
+The fragrance emanates from the <object>, doesn't it?
+The fragrance emanates from the <object>, don't you think?
+The fragrance emanates from the <object>, right?
+The fragrance is coming from the <object>, correct?
+The fragrance is coming from the <object>, don't you agree?
+The fragrance is coming from the <object>, don't you think?
+The fragrance is coming from the <object>, isn't it?
+The fragrance is coming from the <object>, isn't that right?
+The fragrance is coming from the <object>, isn’t it?
+The fragrance is coming from the <object>, right?
+The fragrance is definitely from the <object>, correct?
+The fragrance is definitely from the <object>, isn’t it?
+The fragrance is definitely from the <object>, right?
+The fragrance is definitely originating from the <object>, right?
+The fragrance is from the <object>, correct?
+The fragrance is from the <object>, don't you agree?
+The fragrance is from the <object>, don't you think?
+The fragrance is from the <object>, isn't it?
+The fragrance is from the <object>, isn't that right?
+The fragrance is from the <object>, isn't that so?
+The fragrance is from the <object>, isn’t it?
+The fragrance is from the <object>, right?
+The fragrance is surely originating from the <object>, right?
+The fragrance must be coming from the <object>, right?
+The fragrance must be from the <object>, isn’t it?
+The fragrance must be from the <object>, right?
+The fragrance must have come from the <object>, right?
+The fragrance must originate from the <object>, right?
+The fragrance must surely come from the <object>, right?
+The fragrance originates from the <object>, doesn't it?
+The fragrance originates from the <object>, doesn’t it?
+The fragrance originates from the <object>, right?
+The fragrance surely comes from the <object>, isn’t it?
+The fragrance surely comes from the <object>, right?
+The fragrance surely originates from the <object>, correct?
+The fragrance surely originates from the <object>, doesn’t it?
+The fragrance surely originates from the <object>, right?
+The odor certainly comes from the <object>, right?
+The odor comes from the <object>, doesn't it?
+The odor comes from the <object>, doesn’t it?
+The odor comes from the <object>, right?
+The odor emanates from the <object>, doesn't it?
+The odor is certainly from the <object>, isn’t it?
+The odor is coming from the <object>, isn't it?
+The odor is coming from the <object>, right?
+The odor is definitely from the <object>, right?
+The odor is from the <object>, correct?
+The odor is from the <object>, isn't it?
+The odor is from the <object>, right?
+The odor must be from the <object>, right?
+The odor must surely be from the <object>, right?
+The odor originates from the <object>, doesn't it?
+The odor originates from the <object>, right?
+The odor surely originates from the <object>, right?
+The perfume comes from the <object>, doesn't it?
+The perfume comes from the <object>, don't you think?
+The perfume comes from the <object>, isn't it?
+The perfume comes from the <object>, isn't that so?
+The perfume comes from the <object>, right?
+The perfume emanates from the <object>, doesn't it?
+The perfume emanates from the <object>, right?
+The perfume is coming from the <object>, isn't it?
+The perfume is coming from the <object>, right?
+The perfume is from the <object>, doesn't it?
+The perfume is from the <object>, isn't it?
+The perfume is from the <object>, right?
+The perfume originates from the <object>, doesn't it?
+The perfume originates from the <object>, right?
+The scent comes from the <object>, correct?
+The scent comes from the <object>, doesn't it?
+The scent comes from the <object>, don't you agree?
+The scent comes from the <object>, don't you think?
+The scent comes from the <object>, isn't it?
+The scent comes from the <object>, isn’t it?
+The scent comes from the <object>, right?
+The scent definitely comes from the <object>, right?
+The scent definitely originates from the <object>, right?
+The scent emanates from the <object>, doesn't it?
+The scent emanates from the <object>, don't you think?
+The scent emanates from the <object>, right?
+The scent is certainly originating from the <object>, right?
+The scent is coming from the <object>, correct?
+The scent is coming from the <object>, doesn't it?
+The scent is coming from the <object>, don't you agree?
+The scent is coming from the <object>, isn't it?
+The scent is coming from the <object>, right?
+The scent is definitely from the <object>, right?
+The scent is from the <object>, am I right?
+The scent is from the <object>, don't you think?
+The scent is from the <object>, isn't it?
+The scent is from the <object>, isn't that right?
+The scent is from the <object>, isn't that true?
+The scent is from the <object>, isn’t it?
+The scent is from the <object>, right?
+The scent is surely from the <object>, correct?
+The scent is surely from the <object>, right?
+The scent must be from the <object>, correct?
+The scent must be from the <object>, right?
+The scent must certainly be from the <object>, right?
+The scent must definitely be from the <object>, right?
+The scent must originate from the <object>, right?
+The scent must surely be from the <object>, correct?
+The scent must surely originate from the <object>, correct?
+The scent originates from the <object>, correct?
+The scent originates from the <object>, doesn't it?
+The scent originates from the <object>, doesn’t it?
+The scent originates from the <object>, right?
+The scent surely comes from the <object>, correct?
+The scent surely comes from the <object>, right?
+The scent surely originates from the <object>, right?
+The smell comes from the <object>, am I right?
+The smell comes from the <object>, correct?
+The smell comes from the <object>, doesn't it?
+The smell comes from the <object>, doesn’t it?
+The smell comes from the <object>, don't you agree?
+The smell comes from the <object>, don't you think?
+The smell comes from the <object>, isn't it?
+The smell comes from the <object>, right?
+The smell definitely comes from the <object>, correct?
+The smell emanates from the <object>, doesn't it?
+The smell emanates from the <object>, don't you agree?
+The smell emanates from the <object>, isn't it?
+The smell emanates from the <object>, right?
+The smell is coming from the <object>, correct?
+The smell is coming from the <object>, don't you think?
+The smell is coming from the <object>, isn't it?
+The smell is coming from the <object>, isn’t it?
+The smell is coming from the <object>, right?
+The smell is definitely coming from the <object>, right?
+The smell is definitely from the <object>, isn’t it?
+The smell is definitely from the <object>, right?
+The smell is from the <object>, correct?
+The smell is from the <object>, don't you think?
+The smell is from the <object>, isn't it?
+The smell is from the <object>, isn’t it?
+The smell is from the <object>, right?
+The smell is surely from the <object>, right?
+The smell must be from the <object>, correct?
+The smell must be from the <object>, isn’t it?
+The smell must be from the <object>, right?
+The smell must come from the <object>, right?
+The smell must surely be from the <object>, right?
+The smell originates from the <object>, doesn't it?
+The smell originates from the <object>, don't you think?
+The smell originates from the <object>, isn't it?
+The smell originates from the <object>, right?
+The smell surely comes from the <object>, doesn’t it?
+The smell surely comes from the <object>, right?
+The smell surely originates from the <object>, correct?
+The smell surely originates from the <object>, right?
+This aroma comes from the <object>, right?
+This aroma must come from the <object>, right?
+This aroma must have come from the <object>, right?
+This fragrance certainly comes from the <object>, right?
+This fragrance definitely comes from the <object>, right?
+This fragrance is definitely from the <object>, right?
+This fragrance is from the <object>, correct?
+This fragrance is from the <object>, isn’t it?
+This fragrance is from the <object>, right?
+This fragrance must be coming from the <object>, right?
+This fragrance must be from the <object>, correct?
+This fragrance must surely come from the <object>, right?
+This fragrance originates from the <object>, right?
+This odor is from the <object>, isn’t it?
+This odor must be from the <object>, right?
+This odor must be originating from the <object>, right?
+This scent certainly comes from the <object>, right?
+This scent certainly originates from the <object>, doesn’t it?
+This scent comes from the <object>, correct?
+This scent is certainly from the <object>, right?
+This scent is coming from the <object>, right?
+This scent is from the <object>, isn’t it?
+This scent must be from the <object>, right?
+This scent must come from the <object>, right?
+This scent must have come from the <object>, right?
+This scent originates from the <object>, right?
+This scent surely comes from the <object>, right?
+This scent surely originates from the <object>, right?
+This smell certainly comes from the <object>, right?
+This smell comes from the <object>, doesn’t it?
+This smell comes from the <object>, right?
+This smell is definitely coming from the <object>, right?
+This smell is from the <object>, correct?
